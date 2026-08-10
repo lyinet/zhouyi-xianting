@@ -1,0 +1,193 @@
+{
+  "_comment": "八境定义。英文译名一经确定即全库复用，不得在提示词中另造译法，否则英文模型上的成套感会断裂。",
+  "realms": [
+    {
+      "trigram": "乾",
+      "symbol": "☰",
+      "element": "天",
+      "nature": "健",
+      "realm": "天阙",
+      "realm_en": "the Celestial Gate",
+      "elements_zh": "云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风",
+      "elements_en": "a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind",
+      "palette_zh": [
+        "鎏金",
+        "云白"
+      ],
+      "palette_en": [
+        "gilt gold",
+        "cloud white"
+      ],
+      "short_zh": "云海之上的白玉高台",
+      "short_en": "a white jade terrace above a sea of clouds"
+    },
+    {
+      "trigram": "坤",
+      "symbol": "☷",
+      "element": "地",
+      "nature": "顺",
+      "realm": "地宫",
+      "realm_en": "the Earthen Palace",
+      "elements_zh": "夯土层台、梯田式庭院、藏于山腹的暗殿、陶砖与粟囷",
+      "elements_en": "rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos",
+      "palette_zh": [
+        "赭黄",
+        "夯土褐"
+      ],
+      "palette_en": [
+        "ochre yellow",
+        "rammed-earth brown"
+      ],
+      "short_zh": "梯田式夯土层台",
+      "short_en": "rammed-earth terraces stepped like paddy fields"
+    },
+    {
+      "trigram": "震",
+      "symbol": "☳",
+      "element": "雷",
+      "nature": "动",
+      "realm": "雷坛",
+      "realm_en": "the Thunder Altar",
+      "elements_zh": "露天圆坛、青铜编钟与铜柱、焦木、低压雷云",
+      "elements_en": "an open circular altar, bronze chime-bells and bronze pillars, charred timber, a low ceiling of thunderheads",
+      "palette_zh": [
+        "青铜绿",
+        "焦黑"
+      ],
+      "palette_en": [
+        "bronze verdigris",
+        "charred black"
+      ],
+      "short_zh": "雷云下的青铜露天圆坛",
+      "short_en": "an open bronze altar under thunderheads"
+    },
+    {
+      "trigram": "巽",
+      "symbol": "☴",
+      "element": "风",
+      "nature": "入",
+      "realm": "风廊",
+      "realm_en": "the Wind Gallery",
+      "elements_zh": "极长的空廊、万千经幡与纱帘、镂空花窗、竹林",
+      "elements_en": "an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo",
+      "palette_zh": [
+        "竹青",
+        "纱白"
+      ],
+      "palette_en": [
+        "bamboo green",
+        "gauze white"
+      ],
+      "short_zh": "挂满经幡的无尽长廊",
+      "short_en": "an endless colonnade hung with banners"
+    },
+    {
+      "trigram": "坎",
+      "symbol": "☵",
+      "element": "水",
+      "nature": "陷",
+      "realm": "水府",
+      "realm_en": "the Water Court",
+      "elements_zh": "下沉式水院、深潭、暗渠水帘、湿滑苔石",
+      "elements_en": "a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone",
+      "palette_zh": [
+        "墨青",
+        "苔绿"
+      ],
+      "palette_en": [
+        "ink blue-black",
+        "moss green"
+      ],
+      "short_zh": "环深潭的下沉水院",
+      "short_en": "a sunken water court around a deep pool"
+    },
+    {
+      "trigram": "離",
+      "symbol": "☲",
+      "element": "火",
+      "nature": "丽",
+      "realm": "火殿",
+      "realm_en": "the Flame Hall",
+      "elements_zh": "长明灯阵、琉璃与铜镜、朱漆廊柱、天光透窗",
+      "elements_en": "ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, daylight cutting through high windows",
+      "palette_zh": [
+        "朱红",
+        "鎏金"
+      ],
+      "palette_en": [
+        "vermilion",
+        "gilt gold"
+      ],
+      "short_zh": "朱漆廊柱的长明灯殿",
+      "short_en": "a hall of eternal lamps and vermilion columns"
+    },
+    {
+      "trigram": "艮",
+      "symbol": "☶",
+      "element": "山",
+      "nature": "止",
+      "realm": "山门",
+      "realm_en": "the Mountain Gate",
+      "elements_zh": "巨石门阙、绝壁栈道、石阶尽头、苍松与界碑",
+      "elements_en": "a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele",
+      "palette_zh": [
+        "苍灰",
+        "松绿"
+      ],
+      "palette_en": [
+        "slate grey",
+        "pine green"
+      ],
+      "short_zh": "绝壁上的巨石门阙",
+      "short_en": "a colossal stone gateway on a cliff"
+    },
+    {
+      "trigram": "兌",
+      "symbol": "☱",
+      "element": "泽",
+      "nature": "悦",
+      "realm": "泽苑",
+      "realm_en": "the Marsh Garden",
+      "elements_zh": "荷池与曲桥、水榭、临水回廊、莲与锦鲤",
+      "elements_en": "a lotus pond and zigzag bridge, a water pavilion, a covered walk along the water, lotus and koi",
+      "palette_zh": [
+        "荷粉",
+        "水绿"
+      ],
+      "palette_en": [
+        "lotus pink",
+        "water green"
+      ],
+      "short_zh": "曲桥荷池",
+      "short_en": "a lotus pond with a zigzag bridge"
+    }
+  ],
+  "accent_by_light": {
+    "拂晓": {
+      "zh": "淡金",
+      "en": "pale gold"
+    },
+    "正午": {
+      "zh": "白炽",
+      "en": "white-hot"
+    },
+    "薄暮": {
+      "zh": "橙红",
+      "en": "orange-red"
+    },
+    "夜": {
+      "zh": "月银",
+      "en": "moon silver"
+    }
+  },
+  "global_anchors": {
+    "aspect": "3:4 竖版",
+    "aspect_mj": "--ar 3:4",
+    "render_zh": "照相写实 CG 电影剧照，大气透视，微观细节，轻微胶片颗粒",
+    "render_en": "photoreal cinematic still, deep atmospheric perspective, fine micro-detail, subtle film grain",
+    "composition": "暗前景框 + 上下二分（上卦占上方，下卦占下方） + 远景消隐",
+    "camera": "默认低机位仰视；下卦为坎或兌时改平视贴水面取倒影；不用俯视",
+    "creature": "远景小点，不露脸，默认丹顶鹤",
+    "text": "图上不渲染文字，顶部约 1/5 留白供后期排卦名与卦辞"
+  }
+}

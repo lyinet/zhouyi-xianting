@@ -1,0 +1,2566 @@
+{
+ "_source": "卦辞、彖传、大象传原文取自中国哲学书电子化计划 ctext.org",
+ "_verified": "上下卦分解经四条独立验证：八经卦各作上下卦恰8次、64卦画互异且穷尽2^6、32对序卦全满足反卦或错卦、大象传物象与上下卦相符64/64",
+ "hexagrams": [
+  {
+   "no": 1,
+   "name": "乾",
+   "symbol": "䷀",
+   "upper": "乾",
+   "lower": "乾",
+   "lines": "111111",
+   "upper_realm": "天阙",
+   "upper_realm_en": "the Celestial Gate",
+   "lower_realm": "天阙",
+   "lower_realm_en": "the Celestial Gate",
+   "guaci": "乾：元亨，利貞。",
+   "tuan": "大哉乾元，萬物資始，乃統天。雲行雨施，品物流形。大明始終，六位時成，時乘六龍以御天。乾道變化，各正性命，保合大和，乃利貞。首出庶物，萬國咸寧。",
+   "daxiang": "天行健，君子以自強不息。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "至健之盛，取一日之极",
+    "weather": "万里无翳，罡风高天",
+    "weather_base": "晴",
+    "weather_reason": "天行健，无所遮蔽",
+    "terrain": "静",
+    "terrain_reason": "云海平展如镜，健而不躁"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "列队高翔，不落"
+   },
+   "palette_zh": [
+    "鎏金",
+    "云白",
+    "白炽"
+   ],
+   "palette_en": [
+    "gilt gold",
+    "cloud white",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/qian/zh"
+  },
+  {
+   "no": 2,
+   "name": "坤",
+   "symbol": "䷁",
+   "upper": "坤",
+   "lower": "坤",
+   "lines": "000000",
+   "upper_realm": "地宫",
+   "upper_realm_en": "the Earthen Palace",
+   "lower_realm": "地宫",
+   "lower_realm_en": "the Earthen Palace",
+   "guaci": "坤：元亨，利牝馬之貞。君子有攸往，先迷後得主，利西南得朋，東北喪朋。安貞，吉。",
+   "tuan": "至哉坤元，萬物資生，乃順承天。坤厚載物，德合无疆。含弘光大，品物咸亨。牝馬地類，行地无疆，柔順利貞。君子攸行，先迷失道，後順得常。西南得朋，乃與類行；東北喪朋，乃終有慶。安貞之吉，應地无疆。",
+   "daxiang": "地勢坤，君子以厚德載物。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "纯阴之时，日入而地承之",
+    "weather": "低伏薄雾漫过田畴",
+    "weather_base": "薄雾",
+    "weather_reason": "坤德柔顺，气不扬",
+    "terrain": "静",
+    "terrain_reason": "土面无水，尘息不起"
+   },
+   "creature": {
+    "kind": "白鹿",
+    "count": 7,
+    "state": "成群缓行不惊"
+   },
+   "palette_zh": [
+    "赭黄",
+    "夯土褐",
+    "橙红"
+   ],
+   "palette_en": [
+    "ochre yellow",
+    "rammed-earth brown",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/kun/zh"
+  },
+  {
+   "no": 3,
+   "name": "屯",
+   "symbol": "䷂",
+   "upper": "坎",
+   "lower": "震",
+   "lines": "100010",
+   "upper_realm": "水府",
+   "upper_realm_en": "the Water Court",
+   "lower_realm": "雷坛",
+   "lower_realm_en": "the Thunder Altar",
+   "guaci": "屯：元亨，利貞，勿用有攸往，利建侯。",
+   "tuan": "屯，剛柔始交而難生，動乎險中，大亨貞。雷雨之動滿盈，天造草昧，宜建侯而不寧。",
+   "daxiang": "雲，雷，屯；君子以經綸。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "万物初生，取一日之始",
+    "weather": "暴雨初歇，浓云未散",
+    "weather_base": "雨",
+    "weather_reason": "屯为险难，坎水在上",
+    "terrain": "上涨",
+    "terrain_reason": "浑水漫过坛基石阶，动而遇险"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "静立乱石不动"
+   },
+   "palette_zh": [
+    "墨青",
+    "青铜绿",
+    "淡金"
+   ],
+   "palette_en": [
+    "ink blue-black",
+    "bronze verdigris",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/zhun/zh"
+  },
+  {
+   "no": 4,
+   "name": "蒙",
+   "symbol": "䷃",
+   "upper": "艮",
+   "lower": "坎",
+   "lines": "010001",
+   "upper_realm": "山门",
+   "upper_realm_en": "the Mountain Gate",
+   "lower_realm": "水府",
+   "lower_realm_en": "the Water Court",
+   "guaci": "蒙：亨。匪我求童蒙，童蒙求我。初筮告，再三瀆，瀆則不告。利貞。",
+   "tuan": "蒙，山下有險，險而止，蒙。蒙亨，以亨行時中也。匪我求童蒙，童蒙求我，志應也。初噬告，以剛中也。再三瀆，瀆則不告，瀆蒙也。蒙以養正，聖功也。",
+   "daxiang": "山下出泉，蒙；君子以果行育德。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "蒙昧初启，光未全明",
+    "weather": "浓雾锁谷，十步不辨",
+    "weather_base": "浓雾",
+    "weather_reason": "蒙者昧也，物象不清",
+    "terrain": "上涨",
+    "terrain_reason": "山下初出之泉，细流渐盈"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "幼鹤试步于泉边"
+   },
+   "palette_zh": [
+    "苍灰",
+    "墨青",
+    "淡金"
+   ],
+   "palette_en": [
+    "slate grey",
+    "ink blue-black",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/meng/zh"
+  },
+  {
+   "no": 5,
+   "name": "需",
+   "symbol": "䷄",
+   "upper": "坎",
+   "lower": "乾",
+   "lines": "111010",
+   "upper_realm": "水府",
+   "upper_realm_en": "the Water Court",
+   "lower_realm": "天阙",
+   "lower_realm_en": "the Celestial Gate",
+   "guaci": "需：有孚，光亨，貞吉。利涉大川。",
+   "tuan": "需，須也；險在前也。剛健而不陷，其義不困窮矣。需有孚，光亨，貞吉。位乎天位，以正中也。利涉大川，往有功也。",
+   "daxiang": "雲上於天，需；君子以飲食宴樂。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "云上于天，待时而不进",
+    "weather": "浓云压顶，雨将至而未落",
+    "weather_base": "雨",
+    "weather_reason": "需者须也，蓄势未发",
+    "terrain": "静",
+    "terrain_reason": "水面凝止如镜，一切待命"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 2,
+    "state": "驻足水畔久不前行"
+   },
+   "palette_zh": [
+    "墨青",
+    "鎏金",
+    "白炽"
+   ],
+   "palette_en": [
+    "ink blue-black",
+    "gilt gold",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/xu/zh"
+  },
+  {
+   "no": 6,
+   "name": "訟",
+   "symbol": "䷅",
+   "upper": "乾",
+   "lower": "坎",
+   "lines": "010111",
+   "upper_realm": "天阙",
+   "upper_realm_en": "the Celestial Gate",
+   "lower_realm": "水府",
+   "lower_realm_en": "the Water Court",
+   "guaci": "訟：有孚，窒。惕中吉。終凶。利見大人，不利涉大川。",
+   "tuan": "訟，上剛下險，險而健訟。訟有孚窒，惕中吉，剛來而得中也。終凶；訟不可成也。利見大人；尚中正也。不利涉大川；入于淵也。",
+   "daxiang": "天與水違行，訟；君子以作事謀始。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "争讼之时，日已偏斜",
+    "weather": "高处罡风与低处水气相激",
+    "weather_base": "罡风",
+    "weather_reason": "天与水违行，二气相逆",
+    "terrain": "奔涌",
+    "terrain_reason": "逆流相冲，水纹对撞"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 2,
+    "state": "相向对峙，翅半张"
+   },
+   "palette_zh": [
+    "鎏金",
+    "墨青",
+    "橙红"
+   ],
+   "palette_en": [
+    "gilt gold",
+    "ink blue-black",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/song/zh"
+  },
+  {
+   "no": 7,
+   "name": "師",
+   "symbol": "䷆",
+   "upper": "坤",
+   "lower": "坎",
+   "lines": "010000",
+   "upper_realm": "地宫",
+   "upper_realm_en": "the Earthen Palace",
+   "lower_realm": "水府",
+   "lower_realm_en": "the Water Court",
+   "guaci": "師：貞，丈人，吉无咎。",
+   "tuan": "師，眾也，貞正也，能以眾正，可以王矣。剛中而應，行險而順，以此毒天下，而民從之，吉又何咎矣。",
+   "daxiang": "地中有水，師；君子以容民畜眾。",
+   "dials": {
+    "light": "夜",
+    "light_reason": "用师之道贵藏，取晦时",
+    "weather": "浓雾蔽野，行迹不显",
+    "weather_base": "浓雾",
+    "weather_reason": "地中有水，蓄而不露",
+    "terrain": "静",
+    "terrain_reason": "水伏地下，表面无波"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 12,
+    "state": "列阵如兵，静默成行"
+   },
+   "palette_zh": [
+    "赭黄",
+    "墨青",
+    "月银"
+   ],
+   "palette_en": [
+    "ochre yellow",
+    "ink blue-black",
+    "moon silver"
+   ],
+   "source": "https://ctext.org/book-of-changes/shi/zh"
+  },
+  {
+   "no": 8,
+   "name": "比",
+   "symbol": "䷇",
+   "upper": "坎",
+   "lower": "坤",
+   "lines": "000010",
+   "upper_realm": "水府",
+   "upper_realm_en": "the Water Court",
+   "lower_realm": "地宫",
+   "lower_realm_en": "the Earthen Palace",
+   "guaci": "比：吉。原筮元永貞，无咎。不寧方來，後夫凶。",
+   "tuan": "比，吉也，比，輔也，下順從也。原筮元永貞，无咎，以剛中也。不寧方來，上下應也。後夫凶，其道窮也。",
+   "daxiang": "地上有水，比；先王以建萬國，親諸侯。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "比者亲辅，取初交之清晨",
+    "weather": "天光初开，薄云散尽",
+    "weather_base": "晴",
+    "weather_reason": "地上有水，相得而明",
+    "terrain": "静",
+    "terrain_reason": "水面平如镜，映出全境"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "环聚一处，首皆向内"
+   },
+   "palette_zh": [
+    "墨青",
+    "赭黄",
+    "淡金"
+   ],
+   "palette_en": [
+    "ink blue-black",
+    "ochre yellow",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/bi/zh"
+  },
+  {
+   "no": 9,
+   "name": "小畜",
+   "symbol": "䷈",
+   "upper": "巽",
+   "lower": "乾",
+   "lines": "111011",
+   "upper_realm": "风廊",
+   "upper_realm_en": "the Wind Gallery",
+   "lower_realm": "天阙",
+   "lower_realm_en": "the Celestial Gate",
+   "guaci": "小畜：亨。密雲不雨，自我西郊。",
+   "tuan": "小畜，柔得位，而上下應之，曰小畜。健而巽，剛中而志行，乃亨。密雲不雨，尚往也。自我西郊，施未行也。",
+   "daxiang": "風行天上，小畜；君子以懿文德。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "小畜之时，力未及施",
+    "weather": "密云不雨，云层厚而不落",
+    "weather_base": "薄雾",
+    "weather_reason": "密云不雨，自我西郊",
+    "terrain": "干涸",
+    "terrain_reason": "水痕见底，泽未及物"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "仰首待雨不得"
+   },
+   "palette_zh": [
+    "竹青",
+    "鎏金",
+    "橙红"
+   ],
+   "palette_en": [
+    "bamboo green",
+    "gilt gold",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/xiao-xu/zh"
+  },
+  {
+   "no": 10,
+   "name": "履",
+   "symbol": "䷉",
+   "upper": "乾",
+   "lower": "兌",
+   "lines": "110111",
+   "upper_realm": "天阙",
+   "upper_realm_en": "the Celestial Gate",
+   "lower_realm": "泽苑",
+   "lower_realm_en": "the Marsh Garden",
+   "guaci": "履虎尾，不咥人，亨。",
+   "tuan": "履，柔履剛也。說而應乎乾，是以履虎尾，不咥人，亨。剛中正，履帝位而不疚，光明也。",
+   "daxiang": "上天下澤，履；君子以辨上下，安民志。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "履道坦坦，取光明正大之时",
+    "weather": "天清气朗，风止",
+    "weather_base": "晴",
+    "weather_reason": "上天下泽，各安其位",
+    "terrain": "静",
+    "terrain_reason": "水面凝止，如可履之冰"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "缓步于镜面水上"
+   },
+   "palette_zh": [
+    "鎏金",
+    "荷粉",
+    "白炽"
+   ],
+   "palette_en": [
+    "gilt gold",
+    "lotus pink",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/lu/zh"
+  },
+  {
+   "no": 11,
+   "name": "泰",
+   "symbol": "䷊",
+   "upper": "坤",
+   "lower": "乾",
+   "lines": "111000",
+   "upper_realm": "地宫",
+   "upper_realm_en": "the Earthen Palace",
+   "lower_realm": "天阙",
+   "lower_realm_en": "the Celestial Gate",
+   "guaci": "泰：小往大來，吉亨。",
+   "tuan": "泰，小往大來，吉亨。則是天地交，而萬物通也；上下交，而其志同也。內陽而外陰，內健而外順，內君子而外小人，君子道長，小人道消也。",
+   "daxiang": "天地交泰，后以財成天地之道，輔相天地之宜，以左右民。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "天地交泰，取一日之至盛",
+    "weather": "长空澄澈，云气上下贯通",
+    "weather_base": "晴",
+    "weather_reason": "天地交而万物通",
+    "terrain": "上涨",
+    "terrain_reason": "水气自下而上贯穿两境"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "上下穿行于两境之间"
+   },
+   "palette_zh": [
+    "赭黄",
+    "鎏金",
+    "白炽"
+   ],
+   "palette_en": [
+    "ochre yellow",
+    "gilt gold",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/tai/zh"
+  },
+  {
+   "no": 12,
+   "name": "否",
+   "symbol": "䷋",
+   "upper": "乾",
+   "lower": "坤",
+   "lines": "000111",
+   "upper_realm": "天阙",
+   "upper_realm_en": "the Celestial Gate",
+   "lower_realm": "地宫",
+   "lower_realm_en": "the Earthen Palace",
+   "guaci": "否之匪人，不利君子貞，大往小來。",
+   "tuan": "否之匪人，不利君子貞。大往小來，則是天地不交，而萬物不通也；上下不交，而天下无邦也。內陰而外陽，內柔而外剛，內小人而外君子。小人道長，君子道消也。",
+   "daxiang": "天地不交，否；君子以儉德辟難，不可榮以祿。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "否闭之时，日将没",
+    "weather": "一层死云横亘中际，上下隔绝",
+    "weather_base": "浓雾",
+    "weather_reason": "天地不交，气脉断绝",
+    "terrain": "干涸",
+    "terrain_reason": "下方水尽见底，上方不下泽"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "困于下方，仰视不得上"
+   },
+   "palette_zh": [
+    "鎏金",
+    "赭黄",
+    "橙红"
+   ],
+   "palette_en": [
+    "gilt gold",
+    "ochre yellow",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/pi/zh"
+  },
+  {
+   "no": 13,
+   "name": "同人",
+   "symbol": "䷌",
+   "upper": "乾",
+   "lower": "離",
+   "lines": "101111",
+   "upper_realm": "天阙",
+   "upper_realm_en": "the Celestial Gate",
+   "lower_realm": "火殿",
+   "lower_realm_en": "the Flame Hall",
+   "guaci": "同人于野，亨。利涉大川，利君子貞。",
+   "tuan": "同人，柔得位得中，而應乎乾，曰同人。同人曰，同人于野，亨。利涉大川，乾行也。文明以健，中正而應，君子正也。唯君子為能通天下之志。",
+   "daxiang": "天與火，同人；君子以類族辨物。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "同人于野，取大明当空",
+    "weather": "天火相映，长空无云",
+    "weather_base": "晴",
+    "weather_reason": "天与火，同人",
+    "terrain": "静",
+    "terrain_reason": "水面静而共映一天"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "自四方会于一处"
+   },
+   "palette_zh": [
+    "鎏金",
+    "朱红",
+    "白炽"
+   ],
+   "palette_en": [
+    "gilt gold",
+    "vermilion",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/tong-ren/zh"
+  },
+  {
+   "no": 14,
+   "name": "大有",
+   "symbol": "䷍",
+   "upper": "離",
+   "lower": "乾",
+   "lines": "111101",
+   "upper_realm": "火殿",
+   "upper_realm_en": "the Flame Hall",
+   "lower_realm": "天阙",
+   "lower_realm_en": "the Celestial Gate",
+   "guaci": "大有：元亨。",
+   "tuan": "大有，柔得尊位，大中而上下應之，曰大有。其德剛健而文明，應乎天而時行，是以元亨。",
+   "daxiang": "火在天上，大有；君子以遏惡揚善，順天休命。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "火在天上，大有之至盛",
+    "weather": "白炽天光，万物毕照",
+    "weather_base": "晴",
+    "weather_reason": "火在天上，大有",
+    "terrain": "静",
+    "terrain_reason": "水面反射金顶，纹丝不动"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "盘旋于金顶之上"
+   },
+   "palette_zh": [
+    "朱红",
+    "鎏金",
+    "白炽"
+   ],
+   "palette_en": [
+    "vermilion",
+    "gilt gold",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/da-you/zh"
+  },
+  {
+   "no": 15,
+   "name": "謙",
+   "symbol": "䷎",
+   "upper": "坤",
+   "lower": "艮",
+   "lines": "001000",
+   "upper_realm": "地宫",
+   "upper_realm_en": "the Earthen Palace",
+   "lower_realm": "山门",
+   "lower_realm_en": "the Mountain Gate",
+   "guaci": "謙：亨，君子有終。",
+   "tuan": "謙，亨，天道下濟而光明，地道卑而上行。天道虧盈而益謙，地道變盈而流謙，鬼神害盈而福謙，人道惡盈而好謙。謙尊而光，卑而不可踰，君子之終也。",
+   "daxiang": "地中有山，謙；君子以裒多益寡，稱物平施。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "谦者退让，不取正午之盛",
+    "weather": "山间薄雾自下而上漫",
+    "weather_base": "薄雾",
+    "weather_reason": "地中有山，藏高于下",
+    "terrain": "静",
+    "terrain_reason": "水低而不争，面平"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "俯首饮水，不举颈"
+   },
+   "palette_zh": [
+    "赭黄",
+    "苍灰",
+    "橙红"
+   ],
+   "palette_en": [
+    "ochre yellow",
+    "slate grey",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/qian1/zh"
+  },
+  {
+   "no": 16,
+   "name": "豫",
+   "symbol": "䷏",
+   "upper": "震",
+   "lower": "坤",
+   "lines": "000100",
+   "upper_realm": "雷坛",
+   "upper_realm_en": "the Thunder Altar",
+   "lower_realm": "地宫",
+   "lower_realm_en": "the Earthen Palace",
+   "guaci": "豫：利建侯，行師。",
+   "tuan": "豫，剛應而志行，順以動，豫。豫，順以動，故天地如之，而況建侯行師乎？天地以順動，故日月不過，而四時不忒；聖人以順動，則刑罰清而民服。豫之時義大矣哉！",
+   "daxiang": "雷出地奮，豫。先王以作樂崇德，殷薦之上帝，以配祖考。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "豫者悦动，取阳气最扬之时",
+    "weather": "雷云初开，光自云隙下泻",
+    "weather_base": "晴",
+    "weather_reason": "雷出地奋，豫",
+    "terrain": "上涨",
+    "terrain_reason": "水随雷动，渐次上漫"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "振翅欲鸣，未起"
+   },
+   "palette_zh": [
+    "青铜绿",
+    "赭黄",
+    "白炽"
+   ],
+   "palette_en": [
+    "bronze verdigris",
+    "ochre yellow",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/yu/zh"
+  },
+  {
+   "no": 17,
+   "name": "隨",
+   "symbol": "䷐",
+   "upper": "兌",
+   "lower": "震",
+   "lines": "100110",
+   "upper_realm": "泽苑",
+   "upper_realm_en": "the Marsh Garden",
+   "lower_realm": "雷坛",
+   "lower_realm_en": "the Thunder Altar",
+   "guaci": "隨：元亨利貞，无咎。",
+   "tuan": "隨，剛來而下柔，動而說，隨。大亨貞，无咎，而天下隨時，隨時之義大矣哉！",
+   "daxiang": "澤中有雷，隨；君子以嚮晦入宴息。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "随时而动，日随天转",
+    "weather": "薄雾随风偏移",
+    "weather_base": "薄雾",
+    "weather_reason": "泽中有雷，动而说随",
+    "terrain": "奔涌",
+    "terrain_reason": "水顺势而流，无所滞"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 7,
+    "state": "随水而行，首尾相接"
+   },
+   "palette_zh": [
+    "荷粉",
+    "青铜绿",
+    "橙红"
+   ],
+   "palette_en": [
+    "lotus pink",
+    "bronze verdigris",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/sui/zh"
+  },
+  {
+   "no": 18,
+   "name": "蠱",
+   "symbol": "䷑",
+   "upper": "艮",
+   "lower": "巽",
+   "lines": "011001",
+   "upper_realm": "山门",
+   "upper_realm_en": "the Mountain Gate",
+   "lower_realm": "风廊",
+   "lower_realm_en": "the Wind Gallery",
+   "guaci": "蠱：元亨，利涉大川。先甲三日，後甲三日。",
+   "tuan": "蠱，剛上而柔下，巽而止，蠱。蠱，元亨，而天下治也。利涉大川，往有事也。先甲三日，後甲三日，終則有始，天行也。",
+   "daxiang": "山下有風，蠱；君子以振民育德。",
+   "dials": {
+    "light": "夜",
+    "light_reason": "蛊者坏也，取至晦之时",
+    "weather": "浓雾滞而不散，气味沉积",
+    "weather_base": "浓雾",
+    "weather_reason": "山下有风，蛊；积久而弊",
+    "terrain": "干涸",
+    "terrain_reason": "水腐见底，败荷委泥"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "独立败荷之间"
+   },
+   "palette_zh": [
+    "苍灰",
+    "竹青",
+    "月银"
+   ],
+   "palette_en": [
+    "slate grey",
+    "bamboo green",
+    "moon silver"
+   ],
+   "source": "https://ctext.org/book-of-changes/gu/zh"
+  },
+  {
+   "no": 19,
+   "name": "臨",
+   "symbol": "䷒",
+   "upper": "坤",
+   "lower": "兌",
+   "lines": "110000",
+   "upper_realm": "地宫",
+   "upper_realm_en": "the Earthen Palace",
+   "lower_realm": "泽苑",
+   "lower_realm_en": "the Marsh Garden",
+   "guaci": "臨：元，亨，利，貞。至于八月有凶。",
+   "tuan": "臨，剛浸而長。說而順，剛中而應，大亨以正，天之道也。至于八月有凶，消不久也。",
+   "daxiang": "澤上有地，臨；君子以教思无窮，容保民无疆。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "临者以上临下，取日初升",
+    "weather": "天光渐开，雾自水面退",
+    "weather_base": "晴",
+    "weather_reason": "泽上有地，临",
+    "terrain": "上涨",
+    "terrain_reason": "水漫上石阶数级，将及庭"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 2,
+    "state": "临水下视，影在水中"
+   },
+   "palette_zh": [
+    "赭黄",
+    "荷粉",
+    "淡金"
+   ],
+   "palette_en": [
+    "ochre yellow",
+    "lotus pink",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/lin/zh"
+  },
+  {
+   "no": 20,
+   "name": "觀",
+   "symbol": "䷓",
+   "upper": "巽",
+   "lower": "坤",
+   "lines": "000011",
+   "upper_realm": "风廊",
+   "upper_realm_en": "the Wind Gallery",
+   "lower_realm": "地宫",
+   "lower_realm_en": "the Earthen Palace",
+   "guaci": "觀：盥而不薦，有孚顒若。",
+   "tuan": "大觀在上，順而巽，中正以觀天下。觀，盥而不薦，有孚顒若，下觀而化也。觀天之神道，而四時不忒，聖人以神道設教，而天下服矣。",
+   "daxiang": "風行地上，觀；先王以省方，觀民設教。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "观者仰观，取光明遍照",
+    "weather": "薄雾在下，高处独明",
+    "weather_base": "薄雾",
+    "weather_reason": "风行地上，观",
+    "terrain": "静",
+    "terrain_reason": "水面如镜，供高处俯观"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "高立廊端远眺"
+   },
+   "palette_zh": [
+    "竹青",
+    "赭黄",
+    "白炽"
+   ],
+   "palette_en": [
+    "bamboo green",
+    "ochre yellow",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/guan/zh"
+  },
+  {
+   "no": 21,
+   "name": "噬嗑",
+   "symbol": "䷔",
+   "upper": "離",
+   "lower": "震",
+   "lines": "100101",
+   "upper_realm": "火殿",
+   "upper_realm_en": "the Flame Hall",
+   "lower_realm": "雷坛",
+   "lower_realm_en": "the Thunder Altar",
+   "guaci": "噬嗑：亨。利用獄。",
+   "tuan": "頤中有物，曰噬嗑，噬嗑而亨。剛柔分，動而明，雷電合而章。柔得中而上行，雖不當位，利用獄也。",
+   "daxiang": "雷電噬嗑；先王以明罰敕法。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "噬嗑用刑，取明察之时",
+    "weather": "电光穿云，雷雨欲来",
+    "weather_base": "罡风",
+    "weather_reason": "雷电噬嗑，明罚敕法",
+    "terrain": "奔涌",
+    "terrain_reason": "水激石间，声势凌厉"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "衔物于喙，颈直"
+   },
+   "palette_zh": [
+    "朱红",
+    "青铜绿",
+    "白炽"
+   ],
+   "palette_en": [
+    "vermilion",
+    "bronze verdigris",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/shi-he/zh"
+  },
+  {
+   "no": 22,
+   "name": "賁",
+   "symbol": "䷕",
+   "upper": "艮",
+   "lower": "離",
+   "lines": "101001",
+   "upper_realm": "山门",
+   "upper_realm_en": "the Mountain Gate",
+   "lower_realm": "火殿",
+   "lower_realm_en": "the Flame Hall",
+   "guaci": "賁：亨。小利有攸往。",
+   "tuan": "賁，亨；柔來而文剛，故亨。分剛上而文柔，故小利有攸往。天文也；文明以止，人文也。觀乎天文，以察時變；觀乎人文，以化成天下。",
+   "daxiang": "山下有火，賁；君子以明庶政，无敢折獄。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "贲者文饰，取霞光最饰物之时",
+    "weather": "薄雾承霞，物皆着色",
+    "weather_base": "薄雾",
+    "weather_reason": "山下有火，贲",
+    "terrain": "静",
+    "terrain_reason": "水面如镜，倒影成双重华饰"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 2,
+    "state": "与水中倒影相对"
+   },
+   "palette_zh": [
+    "苍灰",
+    "朱红",
+    "橙红"
+   ],
+   "palette_en": [
+    "slate grey",
+    "vermilion",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/bi1/zh"
+  },
+  {
+   "no": 23,
+   "name": "剝",
+   "symbol": "䷖",
+   "upper": "艮",
+   "lower": "坤",
+   "lines": "000001",
+   "upper_realm": "山门",
+   "upper_realm_en": "the Mountain Gate",
+   "lower_realm": "地宫",
+   "lower_realm_en": "the Earthen Palace",
+   "guaci": "剝：不利有攸往。",
+   "tuan": "剝，剝也，柔變剛也。不利有攸往，小人長也。順而止之，觀象也。君子尚消息盈虛，天行也。",
+   "daxiang": "山附地上，剝；上以厚下，安宅。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "剥落之时，日薄西山",
+    "weather": "细雪初下，覆而不积",
+    "weather_base": "雪",
+    "weather_reason": "山附于地，剥",
+    "terrain": "干涸",
+    "terrain_reason": "水退见底，阶基裸露"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "立于将倾之阶"
+   },
+   "palette_zh": [
+    "苍灰",
+    "赭黄",
+    "橙红"
+   ],
+   "palette_en": [
+    "slate grey",
+    "ochre yellow",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/bo/zh"
+  },
+  {
+   "no": 24,
+   "name": "復",
+   "symbol": "䷗",
+   "upper": "坤",
+   "lower": "震",
+   "lines": "100000",
+   "upper_realm": "地宫",
+   "upper_realm_en": "the Earthen Palace",
+   "lower_realm": "雷坛",
+   "lower_realm_en": "the Thunder Altar",
+   "guaci": "復：亨。出入无疾，朋來无咎。反復其道，七日來復，利有攸往。",
+   "tuan": "復亨；剛反，動而以順行，是以出入无疾，朋來无咎。反復其道，七日來復，天行也。利有攸往，剛長也。復其見天地之心乎？",
+   "daxiang": "雷在地中，復；先王以至日閉關，商旅不行，后不省方。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "一阳来复，取日之初动",
+    "weather": "雪后初霁，云开一线",
+    "weather_base": "雪",
+    "weather_reason": "雷在地中，复",
+    "terrain": "上涨",
+    "terrain_reason": "初融之水自地宫深处渗出"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "自下方向上而行"
+   },
+   "palette_zh": [
+    "赭黄",
+    "青铜绿",
+    "淡金"
+   ],
+   "palette_en": [
+    "ochre yellow",
+    "bronze verdigris",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/fu/zh"
+  },
+  {
+   "no": 25,
+   "name": "无妄",
+   "symbol": "䷘",
+   "upper": "乾",
+   "lower": "震",
+   "lines": "100111",
+   "upper_realm": "天阙",
+   "upper_realm_en": "the Celestial Gate",
+   "lower_realm": "雷坛",
+   "lower_realm_en": "the Thunder Altar",
+   "guaci": "无妄：元亨，利貞。其匪正有眚，不利有攸往。",
+   "tuan": "无妄，剛自外來，而為主於內。動而健，剛中而應，大亨以正，天之命也。其匪正有眚，不利有攸往。无妄之往，何之矣？天命不佑，行矣哉？",
+   "daxiang": "天下雷行，物與无妄；先王以茂對時，育萬物。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "无妄者天灾，取骤然之时",
+    "weather": "雷雨骤至，云压如盖",
+    "weather_base": "雨",
+    "weather_reason": "天下雷行，物与无妄",
+    "terrain": "奔涌",
+    "terrain_reason": "水暴涨而浊，来势无端"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "惊起四散"
+   },
+   "palette_zh": [
+    "鎏金",
+    "青铜绿",
+    "白炽"
+   ],
+   "palette_en": [
+    "gilt gold",
+    "bronze verdigris",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/wu-wang/zh"
+  },
+  {
+   "no": 26,
+   "name": "大畜",
+   "symbol": "䷙",
+   "upper": "艮",
+   "lower": "乾",
+   "lines": "111001",
+   "upper_realm": "山门",
+   "upper_realm_en": "the Mountain Gate",
+   "lower_realm": "天阙",
+   "lower_realm_en": "the Celestial Gate",
+   "guaci": "大畜：利貞，不家食吉，利涉大川。",
+   "tuan": "大畜，剛健篤實輝光，日新其德，剛上而尚賢。能止健，大正也。不家食吉，養賢也。利涉大川，應乎天也。",
+   "daxiang": "天在山中，大畜；君子以多識前言往行，以畜其德。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "大畜蓄德，取阳盛而不发",
+    "weather": "长空清明，风止云驻",
+    "weather_base": "晴",
+    "weather_reason": "天在山中，大畜",
+    "terrain": "静",
+    "terrain_reason": "水蓄于潭而不流"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "栖止满阶，皆不飞"
+   },
+   "palette_zh": [
+    "苍灰",
+    "鎏金",
+    "白炽"
+   ],
+   "palette_en": [
+    "slate grey",
+    "gilt gold",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/da-xu/zh"
+  },
+  {
+   "no": 27,
+   "name": "頤",
+   "symbol": "䷚",
+   "upper": "艮",
+   "lower": "震",
+   "lines": "100001",
+   "upper_realm": "山门",
+   "upper_realm_en": "the Mountain Gate",
+   "lower_realm": "雷坛",
+   "lower_realm_en": "the Thunder Altar",
+   "guaci": "頤：貞吉。觀頤，自求口實。",
+   "tuan": "頤貞吉，養正則吉也。觀頤，觀其所養也；自求口實，觀其自養也。天地養萬物，聖人養賢，以及萬民；頤之時大矣哉！",
+   "daxiang": "山下有雷，頤；君子以慎言語，節飲食。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "颐养之时，取晨间进食",
+    "weather": "薄雾清润，气如可饮",
+    "weather_base": "薄雾",
+    "weather_reason": "山下有雷，颐",
+    "terrain": "静",
+    "terrain_reason": "水静可鉴，自求口实"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 2,
+    "state": "对啄水中之物"
+   },
+   "palette_zh": [
+    "苍灰",
+    "青铜绿",
+    "淡金"
+   ],
+   "palette_en": [
+    "slate grey",
+    "bronze verdigris",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/yi/zh"
+  },
+  {
+   "no": 28,
+   "name": "大過",
+   "symbol": "䷛",
+   "upper": "兌",
+   "lower": "巽",
+   "lines": "011110",
+   "upper_realm": "泽苑",
+   "upper_realm_en": "the Marsh Garden",
+   "lower_realm": "风廊",
+   "lower_realm_en": "the Wind Gallery",
+   "guaci": "大過：棟橈，利有攸往，亨。",
+   "tuan": "大過，大者過也。棟橈，本末弱也。剛過而中，巽而說行，利有攸往，乃亨。大過之時大矣哉！",
+   "daxiang": "澤滅木，大過；君子以獨立不懼，遯世无悶。",
+   "dials": {
+    "light": "夜",
+    "light_reason": "大过栋桡，取至危之时",
+    "weather": "罡风撼廊，幡帘尽横",
+    "weather_base": "罡风",
+    "weather_reason": "泽灭木，大过",
+    "terrain": "上涨",
+    "terrain_reason": "水没栋梁，将及顶"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "立于将没的横梁"
+   },
+   "palette_zh": [
+    "荷粉",
+    "竹青",
+    "月银"
+   ],
+   "palette_en": [
+    "lotus pink",
+    "bamboo green",
+    "moon silver"
+   ],
+   "source": "https://ctext.org/book-of-changes/da-guo/zh"
+  },
+  {
+   "no": 29,
+   "name": "坎",
+   "symbol": "䷜",
+   "upper": "坎",
+   "lower": "坎",
+   "lines": "010010",
+   "upper_realm": "水府",
+   "upper_realm_en": "the Water Court",
+   "lower_realm": "水府",
+   "lower_realm_en": "the Water Court",
+   "guaci": "坎：習坎，有孚，維心亨，行有尚。",
+   "tuan": "習坎，重險也。水流而不盈，行險而不失其信。維心亨，乃以剛中也。行有尚，往有功也。天險不可升也，地險山川丘陵也，王公設險以守其國，坎之時用大矣哉！",
+   "daxiang": "水洊至，習坎；君子以常德行，習教事。",
+   "dials": {
+    "light": "夜",
+    "light_reason": "重险之卦，取至暗",
+    "weather": "连绵不止之雨，水洊至",
+    "weather_base": "雨",
+    "weather_reason": "水洊至，习坎",
+    "terrain": "奔涌",
+    "terrain_reason": "层层跌落的激流，无有止息"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "逆流独立，水没其胫"
+   },
+   "palette_zh": [
+    "墨青",
+    "苔绿",
+    "月银"
+   ],
+   "palette_en": [
+    "ink blue-black",
+    "moss green",
+    "moon silver"
+   ],
+   "source": "https://ctext.org/book-of-changes/kan/zh"
+  },
+  {
+   "no": 30,
+   "name": "離",
+   "symbol": "䷝",
+   "upper": "離",
+   "lower": "離",
+   "lines": "101101",
+   "upper_realm": "火殿",
+   "upper_realm_en": "the Flame Hall",
+   "lower_realm": "火殿",
+   "lower_realm_en": "the Flame Hall",
+   "guaci": "離：利貞，亨。畜牝牛，吉。",
+   "tuan": "離，麗也；日月麗乎天，百穀草木麗乎土，重明以麗乎正，乃化成天下。柔麗乎中正，故亨；是以畜牝牛吉也。",
+   "daxiang": "明兩作離，大人以繼明照于四方。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "离为日，取日丽中天",
+    "weather": "白炽晴空，无一丝云",
+    "weather_base": "晴",
+    "weather_reason": "明两作，离",
+    "terrain": "干涸",
+    "terrain_reason": "水尽而炎上，石面焦白"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 2,
+    "state": "绕火光盘旋"
+   },
+   "palette_zh": [
+    "朱红",
+    "鎏金",
+    "白炽"
+   ],
+   "palette_en": [
+    "vermilion",
+    "gilt gold",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/li/zh"
+  },
+  {
+   "no": 31,
+   "name": "咸",
+   "symbol": "䷞",
+   "upper": "兌",
+   "lower": "艮",
+   "lines": "001110",
+   "upper_realm": "泽苑",
+   "upper_realm_en": "the Marsh Garden",
+   "lower_realm": "山门",
+   "lower_realm_en": "the Mountain Gate",
+   "guaci": "咸，亨，利貞，取女吉。",
+   "tuan": "咸，感也。柔上而剛下，二氣感應以相與，止而說，男下女，是以亨利貞，取女吉也。天地感而萬物化生，聖人感人心而天下和平，觀其所感，而天地萬物之情可見矣。",
+   "daxiang": "山上有澤，咸，君子以虛受人。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "咸者感也，取二气初交之时",
+    "weather": "薄雾自泽面升，触山而回",
+    "weather_base": "薄雾",
+    "weather_reason": "山上有泽，咸",
+    "terrain": "上涨",
+    "terrain_reason": "泽水漫向山根，二境相接"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 2,
+    "state": "颈交而立"
+   },
+   "palette_zh": [
+    "荷粉",
+    "苍灰",
+    "淡金"
+   ],
+   "palette_en": [
+    "lotus pink",
+    "slate grey",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/xian/zh"
+  },
+  {
+   "no": 32,
+   "name": "恆",
+   "symbol": "䷟",
+   "upper": "震",
+   "lower": "巽",
+   "lines": "011100",
+   "upper_realm": "雷坛",
+   "upper_realm_en": "the Thunder Altar",
+   "lower_realm": "风廊",
+   "lower_realm_en": "the Wind Gallery",
+   "guaci": "恆：亨，无咎，利貞，利有攸往。",
+   "tuan": "恆，久也。剛上而柔下，雷風相與，巽而動，剛柔皆應，恆。恆亨无咎，利貞；久於其道也，天地之道，恆久而不已也。利有攸往，終則有始也。日月得天，而能久照，四時變化，而能久成，聖人久於其道，而天下化成；觀其所恆，而天地萬物之情可見矣！",
+   "daxiang": "雷風，恆；君子以立不易方。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "恒者久也，取一日中最稳之时",
+    "weather": "长风持续不变，云行有常",
+    "weather_base": "晴",
+    "weather_reason": "雷风，恒",
+    "terrain": "静",
+    "terrain_reason": "水位恒定，痕迹经年不移"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 2,
+    "state": "久立不动，如已成石"
+   },
+   "palette_zh": [
+    "青铜绿",
+    "竹青",
+    "白炽"
+   ],
+   "palette_en": [
+    "bronze verdigris",
+    "bamboo green",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/heng/zh"
+  },
+  {
+   "no": 33,
+   "name": "遯",
+   "symbol": "䷠",
+   "upper": "乾",
+   "lower": "艮",
+   "lines": "001111",
+   "upper_realm": "天阙",
+   "upper_realm_en": "the Celestial Gate",
+   "lower_realm": "山门",
+   "lower_realm_en": "the Mountain Gate",
+   "guaci": "遯：亨，小利貞。",
+   "tuan": "遯亨，遯而亨也。剛當位而應，與時行也。小利貞，浸而長也。遯之時義大矣哉！",
+   "daxiang": "天下有山，遯；君子以遠小人，不惡而嚴。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "遁者退避，取日入山之时",
+    "weather": "薄雾自山口涌出掩其形",
+    "weather_base": "薄雾",
+    "weather_reason": "天下有山，遁",
+    "terrain": "干涸",
+    "terrain_reason": "水退入岩隙，仅余湿痕"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "退入山影，半身已隐"
+   },
+   "palette_zh": [
+    "鎏金",
+    "苍灰",
+    "橙红"
+   ],
+   "palette_en": [
+    "gilt gold",
+    "slate grey",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/dun/zh"
+  },
+  {
+   "no": 34,
+   "name": "大壯",
+   "symbol": "䷡",
+   "upper": "震",
+   "lower": "乾",
+   "lines": "111100",
+   "upper_realm": "雷坛",
+   "upper_realm_en": "the Thunder Altar",
+   "lower_realm": "天阙",
+   "lower_realm_en": "the Celestial Gate",
+   "guaci": "大壯：利貞。",
+   "tuan": "大壯，大者壯也。剛以動，故壯。大壯利貞；大者正也。正大而天地之情可見矣！",
+   "daxiang": "雷在天上，大壯；君子以非禮勿履。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "大壮，取阳气最盛之时",
+    "weather": "罡风裂云，雷声在天",
+    "weather_base": "罡风",
+    "weather_reason": "雷在天上，大壮",
+    "terrain": "奔涌",
+    "terrain_reason": "水撞石壁而反溅"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "冲天而起"
+   },
+   "palette_zh": [
+    "青铜绿",
+    "鎏金",
+    "白炽"
+   ],
+   "palette_en": [
+    "bronze verdigris",
+    "gilt gold",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/da-zhuang/zh"
+  },
+  {
+   "no": 35,
+   "name": "晉",
+   "symbol": "䷢",
+   "upper": "離",
+   "lower": "坤",
+   "lines": "000101",
+   "upper_realm": "火殿",
+   "upper_realm_en": "the Flame Hall",
+   "lower_realm": "地宫",
+   "lower_realm_en": "the Earthen Palace",
+   "guaci": "晉：康侯用錫馬蕃庶，晝日三接。",
+   "tuan": "晉，進也。明出地上，順而麗乎大明，柔進而上行。是以康侯用錫馬蕃庶，晝日三接也。",
+   "daxiang": "明出地上，晉；君子以自昭明德。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "晋者日出地上，取日初升",
+    "weather": "天光自地平线漫上，雾正退",
+    "weather_base": "晴",
+    "weather_reason": "明出地上，晋",
+    "terrain": "上涨",
+    "terrain_reason": "水随光升，漫过第一级阶"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "成列向上飞升"
+   },
+   "palette_zh": [
+    "朱红",
+    "赭黄",
+    "淡金"
+   ],
+   "palette_en": [
+    "vermilion",
+    "ochre yellow",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/jin/zh"
+  },
+  {
+   "no": 36,
+   "name": "明夷",
+   "symbol": "䷣",
+   "upper": "坤",
+   "lower": "離",
+   "lines": "101000",
+   "upper_realm": "地宫",
+   "upper_realm_en": "the Earthen Palace",
+   "lower_realm": "火殿",
+   "lower_realm_en": "the Flame Hall",
+   "guaci": "明夷：利艱貞。",
+   "tuan": "明入地中，明夷。內文明而外柔順，以蒙大難，文王以之。利艱貞，晦其明也，內難而能正其志，箕子以之。",
+   "daxiang": "明入地中，明夷；君子以蒞眾，用晦而明。",
+   "dials": {
+    "light": "夜",
+    "light_reason": "明入地中，取至暗之时",
+    "weather": "浓雾裹尽光源，唯余轮廓",
+    "weather_base": "浓雾",
+    "weather_reason": "明入地中，明夷",
+    "terrain": "静",
+    "terrain_reason": "水黑不反光，如无"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "敛翼藏于暗处，仅露一线白"
+   },
+   "palette_zh": [
+    "赭黄",
+    "朱红",
+    "月银"
+   ],
+   "palette_en": [
+    "ochre yellow",
+    "vermilion",
+    "moon silver"
+   ],
+   "source": "https://ctext.org/book-of-changes/ming-yi/zh"
+  },
+  {
+   "no": 37,
+   "name": "家人",
+   "symbol": "䷤",
+   "upper": "巽",
+   "lower": "離",
+   "lines": "101011",
+   "upper_realm": "风廊",
+   "upper_realm_en": "the Wind Gallery",
+   "lower_realm": "火殿",
+   "lower_realm_en": "the Flame Hall",
+   "guaci": "家人：利女貞。",
+   "tuan": "家人，女正位乎內，男正位乎外，男女正，天地之大義也。家人有嚴君焉，父母之謂也。父父，子子，兄兄，弟弟，夫夫，婦婦，而家道正；正家而天下定矣。",
+   "daxiang": "風自火出，家人；君子以言有物，而行有恆。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "家人之时，取归家掌灯之刻",
+    "weather": "薄雾绕檐，灯火透之",
+    "weather_base": "薄雾",
+    "weather_reason": "风自火出，家人",
+    "terrain": "静",
+    "terrain_reason": "庭中水池平静，映出窗火"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 5,
+    "state": "聚于一巢，大小相依"
+   },
+   "palette_zh": [
+    "竹青",
+    "朱红",
+    "橙红"
+   ],
+   "palette_en": [
+    "bamboo green",
+    "vermilion",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/jia-ren/zh"
+  },
+  {
+   "no": 38,
+   "name": "睽",
+   "symbol": "䷥",
+   "upper": "離",
+   "lower": "兌",
+   "lines": "110101",
+   "upper_realm": "火殿",
+   "upper_realm_en": "the Flame Hall",
+   "lower_realm": "泽苑",
+   "lower_realm_en": "the Marsh Garden",
+   "guaci": "睽：小事吉。",
+   "tuan": "睽，火動而上，澤動而下；二女同居，其志不同行；說而麗乎明，柔進而上行，得中而應乎剛；是以小事吉。天地睽，而其事同也；男女睽，而其志通也；萬物睽，而其事類也；睽之時用大矣哉！",
+   "daxiang": "上火下澤，睽；君子以同而異。",
+   "dials": {
+    "light": "夜",
+    "light_reason": "睽者乖离，取阴晦之时",
+    "weather": "浓雾自中间断开，两侧不通",
+    "weather_base": "浓雾",
+    "weather_reason": "上火下泽，睽",
+    "terrain": "干涸",
+    "terrain_reason": "两处水各自干涸，不相往来"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 2,
+    "state": "背向而立，各望一方"
+   },
+   "palette_zh": [
+    "朱红",
+    "荷粉",
+    "月银"
+   ],
+   "palette_en": [
+    "vermilion",
+    "lotus pink",
+    "moon silver"
+   ],
+   "source": "https://ctext.org/book-of-changes/kui/zh"
+  },
+  {
+   "no": 39,
+   "name": "蹇",
+   "symbol": "䷦",
+   "upper": "坎",
+   "lower": "艮",
+   "lines": "001010",
+   "upper_realm": "水府",
+   "upper_realm_en": "the Water Court",
+   "lower_realm": "山门",
+   "lower_realm_en": "the Mountain Gate",
+   "guaci": "蹇：利西南，不利東北；利見大人，貞吉。",
+   "tuan": "蹇，難也，險在前也。見險而能止，知矣哉！蹇利西南，往得中也；不利東北，其道窮也。利見大人，往有功也。當位貞吉，以正邦也。蹇之時用大矣哉！",
+   "daxiang": "山上有水，蹇；君子以反身修德。",
+   "dials": {
+    "light": "夜",
+    "light_reason": "蹇难之时，取行路最艰之刻",
+    "weather": "冻雪封路，风裹雪粒",
+    "weather_base": "雪",
+    "weather_reason": "山上有水，蹇",
+    "terrain": "静",
+    "terrain_reason": "水已冰封，凝止不流"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "半身陷于冰水不能行"
+   },
+   "palette_zh": [
+    "墨青",
+    "苍灰",
+    "月银"
+   ],
+   "palette_en": [
+    "ink blue-black",
+    "slate grey",
+    "moon silver"
+   ],
+   "source": "https://ctext.org/book-of-changes/jian/zh"
+  },
+  {
+   "no": 40,
+   "name": "解",
+   "symbol": "䷧",
+   "upper": "震",
+   "lower": "坎",
+   "lines": "010100",
+   "upper_realm": "雷坛",
+   "upper_realm_en": "the Thunder Altar",
+   "lower_realm": "水府",
+   "lower_realm_en": "the Water Court",
+   "guaci": "解：利西南，无所往，其來復吉。有攸往，夙吉。",
+   "tuan": "解，險以動，動而免乎險，解。解利西南，往得眾也。其來復吉，乃得中也。有攸往夙吉，往有功也。天地解，而雷雨作，雷雨作，而百果草木皆甲坼，解之時大矣哉！",
+   "daxiang": "雷雨作，解；君子以赦過宥罪。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "解者缓也，取雨过天开之时",
+    "weather": "雷雨初歇，云正裂开",
+    "weather_base": "雨",
+    "weather_reason": "雷雨作，解",
+    "terrain": "奔涌",
+    "terrain_reason": "冰解水行，激流奔泻"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "舒翅飞出峡口"
+   },
+   "palette_zh": [
+    "青铜绿",
+    "墨青",
+    "淡金"
+   ],
+   "palette_en": [
+    "bronze verdigris",
+    "ink blue-black",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/jie/zh"
+  },
+  {
+   "no": 41,
+   "name": "損",
+   "symbol": "䷨",
+   "upper": "艮",
+   "lower": "兌",
+   "lines": "110001",
+   "upper_realm": "山门",
+   "upper_realm_en": "the Mountain Gate",
+   "lower_realm": "泽苑",
+   "lower_realm_en": "the Marsh Garden",
+   "guaci": "損：有孚，元吉，无咎，可貞，利有攸往。曷之用，二簋可用享。",
+   "tuan": "損，損下益上，其道上行。損而有孚，元吉，无咎，可貞，利有攸往。曷之用？二簋可用享；二簋應有時。損剛益柔有時，損益盈虛，與時偕行。",
+   "daxiang": "山下有澤，損；君子以懲忿窒欲。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "损者减也，取日渐损之时",
+    "weather": "薄雾稀薄，气渐减",
+    "weather_base": "薄雾",
+    "weather_reason": "山下有泽，损",
+    "terrain": "干涸",
+    "terrain_reason": "水退留下层层旧水痕"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "立于退去的水痕之上"
+   },
+   "palette_zh": [
+    "苍灰",
+    "荷粉",
+    "橙红"
+   ],
+   "palette_en": [
+    "slate grey",
+    "lotus pink",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/sun/zh"
+  },
+  {
+   "no": 42,
+   "name": "益",
+   "symbol": "䷩",
+   "upper": "巽",
+   "lower": "震",
+   "lines": "100011",
+   "upper_realm": "风廊",
+   "upper_realm_en": "the Wind Gallery",
+   "lower_realm": "雷坛",
+   "lower_realm_en": "the Thunder Altar",
+   "guaci": "益：利有攸往，利涉大川。",
+   "tuan": "益，損上益下，民說无疆，自上下下，其道大光。利有攸往，中正有慶。利涉大川，木道乃行。益動而巽，日進无疆。天施地生，其益无方。凡益之道，與時偕行。",
+   "daxiang": "風雷，益；君子以見善則遷，有過則改。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "益者增也，取日增之时",
+    "weather": "细雨润泽，无声",
+    "weather_base": "雨",
+    "weather_reason": "风雷，益",
+    "terrain": "上涨",
+    "terrain_reason": "水缓缓上涨，润及草木"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "下降受泽，翅微张"
+   },
+   "palette_zh": [
+    "竹青",
+    "青铜绿",
+    "淡金"
+   ],
+   "palette_en": [
+    "bamboo green",
+    "bronze verdigris",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/yi1/zh"
+  },
+  {
+   "no": 43,
+   "name": "夬",
+   "symbol": "䷪",
+   "upper": "兌",
+   "lower": "乾",
+   "lines": "111110",
+   "upper_realm": "泽苑",
+   "upper_realm_en": "the Marsh Garden",
+   "lower_realm": "天阙",
+   "lower_realm_en": "the Celestial Gate",
+   "guaci": "夬：揚于王庭，孚號，有厲，告自邑，不利即戎，利有攸往。",
+   "tuan": "夬，決也，剛決柔也。健而說，決而和，揚于王庭，柔乘五剛也。孚號有厲，其危乃光也。告自邑，不利即戎，所尚乃窮也。利有攸往，剛長乃終也。",
+   "daxiang": "澤上于天，夬；君子以施祿及下，居德則忌。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "夬者决也，取阳决阴之盛时",
+    "weather": "罡风撕云，天光直下",
+    "weather_base": "罡风",
+    "weather_reason": "泽上于天，夬",
+    "terrain": "奔涌",
+    "terrain_reason": "决堤之水横泻而下"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "疾飞避水"
+   },
+   "palette_zh": [
+    "荷粉",
+    "鎏金",
+    "白炽"
+   ],
+   "palette_en": [
+    "lotus pink",
+    "gilt gold",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/guai/zh"
+  },
+  {
+   "no": 44,
+   "name": "姤",
+   "symbol": "䷫",
+   "upper": "乾",
+   "lower": "巽",
+   "lines": "011111",
+   "upper_realm": "天阙",
+   "upper_realm_en": "the Celestial Gate",
+   "lower_realm": "风廊",
+   "lower_realm_en": "the Wind Gallery",
+   "guaci": "姤：女壯，勿用取女。",
+   "tuan": "姤，遇也，柔遇剛也。勿用取女，不可與長也。天地相遇，品物咸章也。剛遇中正，天下大行也。姤之時義大矣哉！",
+   "daxiang": "天下有風，姤；后以施命誥四方。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "姤者遇也，取阴始生之时",
+    "weather": "风起于廊底，幡帘微动",
+    "weather_base": "薄雾",
+    "weather_reason": "天下有风，姤",
+    "terrain": "静",
+    "terrain_reason": "水面初起一道细纹"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "与一只玄鸟不期而遇"
+   },
+   "palette_zh": [
+    "鎏金",
+    "竹青",
+    "橙红"
+   ],
+   "palette_en": [
+    "gilt gold",
+    "bamboo green",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/gou/zh"
+  },
+  {
+   "no": 45,
+   "name": "萃",
+   "symbol": "䷬",
+   "upper": "兌",
+   "lower": "坤",
+   "lines": "000110",
+   "upper_realm": "泽苑",
+   "upper_realm_en": "the Marsh Garden",
+   "lower_realm": "地宫",
+   "lower_realm_en": "the Earthen Palace",
+   "guaci": "萃：亨。王假有廟，利見大人，亨，利貞。用大牲吉，利有攸往。",
+   "tuan": "萃，聚也；順以說，剛中而應，故聚也。王假有廟，致孝享也。利見大人亨，聚以正也。用大牲吉，利有攸往，順天命也。觀其所聚，而天地萬物之情可見矣。",
+   "daxiang": "澤上於地，萃；君子以除戎器，戒不虞。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "萃者聚也，取众所归之时",
+    "weather": "晴空无云，气清",
+    "weather_base": "晴",
+    "weather_reason": "泽上于地，萃",
+    "terrain": "上涨",
+    "terrain_reason": "水聚成泽，渐次上涨"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 12,
+    "state": "大聚于一处，密不可数"
+   },
+   "palette_zh": [
+    "荷粉",
+    "赭黄",
+    "白炽"
+   ],
+   "palette_en": [
+    "lotus pink",
+    "ochre yellow",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/cui/zh"
+  },
+  {
+   "no": 46,
+   "name": "升",
+   "symbol": "䷭",
+   "upper": "坤",
+   "lower": "巽",
+   "lines": "011000",
+   "upper_realm": "地宫",
+   "upper_realm_en": "the Earthen Palace",
+   "lower_realm": "风廊",
+   "lower_realm_en": "the Wind Gallery",
+   "guaci": "升：元亨，用見大人，勿恤，南征吉。",
+   "tuan": "柔以時升，巽而順，剛中而應，是以大亨。用見大人，勿恤；有慶也。南征吉，志行也。",
+   "daxiang": "地中生木，升；君子以順德，積小以高大。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "升者进也，取日升之时",
+    "weather": "薄雾自下而上贯穿廊柱",
+    "weather_base": "薄雾",
+    "weather_reason": "地中生木，升",
+    "terrain": "上涨",
+    "terrain_reason": "水沿阶级逐层上升"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "盘旋而上，越升越高"
+   },
+   "palette_zh": [
+    "赭黄",
+    "竹青",
+    "淡金"
+   ],
+   "palette_en": [
+    "ochre yellow",
+    "bamboo green",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/sheng/zh"
+  },
+  {
+   "no": 47,
+   "name": "困",
+   "symbol": "䷮",
+   "upper": "兌",
+   "lower": "坎",
+   "lines": "010110",
+   "upper_realm": "泽苑",
+   "upper_realm_en": "the Marsh Garden",
+   "lower_realm": "水府",
+   "lower_realm_en": "the Water Court",
+   "guaci": "困：亨，貞，大人吉，无咎，有言不信。",
+   "tuan": "困，剛掩也。險以說，困而不失其所，亨；其唯君子乎？貞大人吉，以剛中也。有言不信，尚口乃窮也。",
+   "daxiang": "澤无水，困；君子以致命遂志。",
+   "dials": {
+    "light": "夜",
+    "light_reason": "困者穷也，取至暗至穷",
+    "weather": "浓雾压顶，无路可出",
+    "weather_base": "浓雾",
+    "weather_reason": "泽无水，困",
+    "terrain": "干涸",
+    "terrain_reason": "泽底龟裂，滴水不存"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "困于涸泽，翅垂"
+   },
+   "palette_zh": [
+    "荷粉",
+    "墨青",
+    "月银"
+   ],
+   "palette_en": [
+    "lotus pink",
+    "ink blue-black",
+    "moon silver"
+   ],
+   "source": "https://ctext.org/book-of-changes/kun1/zh"
+  },
+  {
+   "no": 48,
+   "name": "井",
+   "symbol": "䷯",
+   "upper": "坎",
+   "lower": "巽",
+   "lines": "011010",
+   "upper_realm": "水府",
+   "upper_realm_en": "the Water Court",
+   "lower_realm": "风廊",
+   "lower_realm_en": "the Wind Gallery",
+   "guaci": "井：改邑不改井，无喪无得，往來井井。汔至，亦未繘井，羸其瓶，凶。",
+   "tuan": "巽乎水而上水，井；井養而不窮也。改邑不改井，乃以剛中也。汔至亦未繘井，未有功也。羸其瓶，是以凶也。",
+   "daxiang": "木上有水，井；君子以勞民勸相。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "井养不穷，取汲水之晨",
+    "weather": "薄雾覆井口，气自井中升",
+    "weather_base": "薄雾",
+    "weather_reason": "木上有水，井",
+    "terrain": "静",
+    "terrain_reason": "井水深而不动，可鉴人"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "俯井而饮"
+   },
+   "palette_zh": [
+    "墨青",
+    "竹青",
+    "淡金"
+   ],
+   "palette_en": [
+    "ink blue-black",
+    "bamboo green",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/jing/zh"
+  },
+  {
+   "no": 49,
+   "name": "革",
+   "symbol": "䷰",
+   "upper": "兌",
+   "lower": "離",
+   "lines": "101110",
+   "upper_realm": "泽苑",
+   "upper_realm_en": "the Marsh Garden",
+   "lower_realm": "火殿",
+   "lower_realm_en": "the Flame Hall",
+   "guaci": "革：巳日乃孚，元亨利貞，悔亡。",
+   "tuan": "革，水火相息，二女同居，其志不相得，曰革。巳日乃孚；革而信也。文明以說，大亨以正，革而當，其悔乃亡。天地革而四時成，湯武革命，順乎天而應乎人，革之時大矣哉！",
+   "daxiang": "澤中有火，革；君子以治歷明時。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "革者变也，取昼夜交替之际",
+    "weather": "罡风换向，云势翻转",
+    "weather_base": "罡风",
+    "weather_reason": "泽中有火，革",
+    "terrain": "干涸",
+    "terrain_reason": "水火相息，水位骤降"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 5,
+    "state": "换羽，旧羽落于水面"
+   },
+   "palette_zh": [
+    "荷粉",
+    "朱红",
+    "橙红"
+   ],
+   "palette_en": [
+    "lotus pink",
+    "vermilion",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/ge/zh"
+  },
+  {
+   "no": 50,
+   "name": "鼎",
+   "symbol": "䷱",
+   "upper": "離",
+   "lower": "巽",
+   "lines": "011101",
+   "upper_realm": "火殿",
+   "upper_realm_en": "the Flame Hall",
+   "lower_realm": "风廊",
+   "lower_realm_en": "the Wind Gallery",
+   "guaci": "鼎：元吉，亨。",
+   "tuan": "鼎，象也。以木巽火，亨飪也。聖人亨以享上帝，而大亨以養聖賢。巽而耳目聰明，柔進而上行，得中而應乎剛，是以元亨。",
+   "daxiang": "木上有火，鼎；君子以正位凝命。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "鼎者定也，取正位凝命之时",
+    "weather": "晴而有炊烟直上",
+    "weather_base": "晴",
+    "weather_reason": "木上有火，鼎",
+    "terrain": "静",
+    "terrain_reason": "水静而鼎影不摇"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 2,
+    "state": "分立鼎侧如守"
+   },
+   "palette_zh": [
+    "朱红",
+    "竹青",
+    "白炽"
+   ],
+   "palette_en": [
+    "vermilion",
+    "bamboo green",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/ding/zh"
+  },
+  {
+   "no": 51,
+   "name": "震",
+   "symbol": "䷲",
+   "upper": "震",
+   "lower": "震",
+   "lines": "100100",
+   "upper_realm": "雷坛",
+   "upper_realm_en": "the Thunder Altar",
+   "lower_realm": "雷坛",
+   "lower_realm_en": "the Thunder Altar",
+   "guaci": "震：亨。震來虩虩，笑言啞啞。震驚百里，不喪匕鬯。",
+   "tuan": "震，亨。震來虩虩，恐致福也。笑言啞啞，後有則也。震驚百里，驚遠而懼邇也。出可以守宗廟社稷，以為祭主也。",
+   "daxiang": "洊雷，震；君子以恐懼脩省。",
+   "dials": {
+    "light": "夜",
+    "light_reason": "震惊百里，取雷夜",
+    "weather": "雷电交作，罡风裂幡",
+    "weather_base": "罡风",
+    "weather_reason": "洊雷，震",
+    "terrain": "奔涌",
+    "terrain_reason": "水面被震得寸寸碎裂"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 12,
+    "state": "满境惊飞"
+   },
+   "palette_zh": [
+    "青铜绿",
+    "焦黑",
+    "月银"
+   ],
+   "palette_en": [
+    "bronze verdigris",
+    "charred black",
+    "moon silver"
+   ],
+   "source": "https://ctext.org/book-of-changes/zhen/zh"
+  },
+  {
+   "no": 52,
+   "name": "艮",
+   "symbol": "䷳",
+   "upper": "艮",
+   "lower": "艮",
+   "lines": "001001",
+   "upper_realm": "山门",
+   "upper_realm_en": "the Mountain Gate",
+   "lower_realm": "山门",
+   "lower_realm_en": "the Mountain Gate",
+   "guaci": "艮：艮其背，不獲其身，行其庭，不見其人，无咎。",
+   "tuan": "艮，止也。時止則止，時行則行，動靜不失其時，其道光明。艮其止，止其所也。上下敵應，不相與也。是以不獲其身，行其庭不見其人，无咎也。",
+   "daxiang": "兼山，艮；君子以思不出其位。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "艮者止也，取日中而定",
+    "weather": "晴，风全止，纤尘不动",
+    "weather_base": "晴",
+    "weather_reason": "兼山，艮",
+    "terrain": "静",
+    "terrain_reason": "水面绝无一纹，如凝固"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "一足独立，久不移"
+   },
+   "palette_zh": [
+    "苍灰",
+    "松绿",
+    "白炽"
+   ],
+   "palette_en": [
+    "slate grey",
+    "pine green",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/gen/zh"
+  },
+  {
+   "no": 53,
+   "name": "漸",
+   "symbol": "䷴",
+   "upper": "巽",
+   "lower": "艮",
+   "lines": "001011",
+   "upper_realm": "风廊",
+   "upper_realm_en": "the Wind Gallery",
+   "lower_realm": "山门",
+   "lower_realm_en": "the Mountain Gate",
+   "guaci": "漸：女歸吉，利貞。",
+   "tuan": "漸之進也，女歸吉也。進得位，往有功也。進以正，可以正邦也。其位剛，得中也。止而巽，動不窮也。",
+   "daxiang": "山上有木，漸；君子以居賢德，善俗。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "渐者进以序，取日渐升之时",
+    "weather": "薄雾一层层次第退去",
+    "weather_base": "薄雾",
+    "weather_reason": "山上有木，渐",
+    "terrain": "上涨",
+    "terrain_reason": "水逐级漫过石阶，一级一停"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 7,
+    "state": "列队渐次登阶"
+   },
+   "palette_zh": [
+    "竹青",
+    "苍灰",
+    "淡金"
+   ],
+   "palette_en": [
+    "bamboo green",
+    "slate grey",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/jian1/zh"
+  },
+  {
+   "no": 54,
+   "name": "歸妹",
+   "symbol": "䷵",
+   "upper": "震",
+   "lower": "兌",
+   "lines": "110100",
+   "upper_realm": "雷坛",
+   "upper_realm_en": "the Thunder Altar",
+   "lower_realm": "泽苑",
+   "lower_realm_en": "the Marsh Garden",
+   "guaci": "歸妹：征凶，无攸利。",
+   "tuan": "歸妹，天地之大義也。天地不交，而萬物不興，歸妹人之終始也。說以動，所歸妹也。征凶，位不當也。无攸利，柔乘剛也。",
+   "daxiang": "澤上有雷，歸妹；君子以永終知敝。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "归妹，取昏时行嫁之礼",
+    "weather": "薄雾染霞，色偏暖",
+    "weather_base": "薄雾",
+    "weather_reason": "泽上有雷，归妹",
+    "terrain": "静",
+    "terrain_reason": "水静，映出两影一前一后"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 2,
+    "state": "一前一后，不并行"
+   },
+   "palette_zh": [
+    "青铜绿",
+    "荷粉",
+    "橙红"
+   ],
+   "palette_en": [
+    "bronze verdigris",
+    "lotus pink",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/gui-mei/zh"
+  },
+  {
+   "no": 55,
+   "name": "豐",
+   "symbol": "䷶",
+   "upper": "震",
+   "lower": "離",
+   "lines": "101100",
+   "upper_realm": "雷坛",
+   "upper_realm_en": "the Thunder Altar",
+   "lower_realm": "火殿",
+   "lower_realm_en": "the Flame Hall",
+   "guaci": "豐：亨，王假之，勿憂，宜日中。",
+   "tuan": "豐，大也。明以動，故丰。王假之，尚大也。勿憂宜日中，宜照天下也。日中則昃，月盈則食，天地盈虛，與時消息，而況人於人乎？況於鬼神乎？",
+   "daxiang": "雷電皆至，豐；君子以折獄致刑。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "丰者大也，取日中之至盛",
+    "weather": "晴，光强至物无侧影",
+    "weather_base": "晴",
+    "weather_reason": "雷电皆至，丰",
+    "terrain": "静",
+    "terrain_reason": "水满而平，盛极"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 12,
+    "state": "极盛，满境皆是"
+   },
+   "palette_zh": [
+    "青铜绿",
+    "朱红",
+    "白炽"
+   ],
+   "palette_en": [
+    "bronze verdigris",
+    "vermilion",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/feng/zh"
+  },
+  {
+   "no": 56,
+   "name": "旅",
+   "symbol": "䷷",
+   "upper": "離",
+   "lower": "艮",
+   "lines": "001101",
+   "upper_realm": "火殿",
+   "upper_realm_en": "the Flame Hall",
+   "lower_realm": "山门",
+   "lower_realm_en": "the Mountain Gate",
+   "guaci": "旅：小亨，旅貞吉。",
+   "tuan": "旅，小亨，柔得中乎外，而順乎剛，止而麗乎明，是以小亨，旅貞吉也。旅之時義大矣哉！",
+   "daxiang": "山上有火，旅；君子以明慎用刑，而不留獄。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "旅者不居，取日暮投宿之时",
+    "weather": "薄雾在远处，近处清",
+    "weather_base": "薄雾",
+    "weather_reason": "山上有火，旅",
+    "terrain": "干涸",
+    "terrain_reason": "水浅不足以居"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "过境不停，翅未收"
+   },
+   "palette_zh": [
+    "朱红",
+    "苍灰",
+    "橙红"
+   ],
+   "palette_en": [
+    "vermilion",
+    "slate grey",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/lu1/zh"
+  },
+  {
+   "no": 57,
+   "name": "巽",
+   "symbol": "䷸",
+   "upper": "巽",
+   "lower": "巽",
+   "lines": "011011",
+   "upper_realm": "风廊",
+   "upper_realm_en": "the Wind Gallery",
+   "lower_realm": "风廊",
+   "lower_realm_en": "the Wind Gallery",
+   "guaci": "巽：小亨，利攸往，利見大人。",
+   "tuan": "重巽以申命，剛巽乎中正而志行。柔皆順乎剛，是以小亨，利有攸往，利見大人。",
+   "daxiang": "隨風，巽；君子以申命行事。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "巽者入也，取风行最畅之时",
+    "weather": "长风贯廊，万幡尽偃",
+    "weather_base": "罡风",
+    "weather_reason": "随风，巽",
+    "terrain": "静",
+    "terrain_reason": "水面被风压得极平"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "顺风滑翔，翅不动"
+   },
+   "palette_zh": [
+    "竹青",
+    "纱白",
+    "白炽"
+   ],
+   "palette_en": [
+    "bamboo green",
+    "gauze white",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/xun/zh"
+  },
+  {
+   "no": 58,
+   "name": "兌",
+   "symbol": "䷹",
+   "upper": "兌",
+   "lower": "兌",
+   "lines": "110110",
+   "upper_realm": "泽苑",
+   "upper_realm_en": "the Marsh Garden",
+   "lower_realm": "泽苑",
+   "lower_realm_en": "the Marsh Garden",
+   "guaci": "兌：亨，利貞。",
+   "tuan": "兌，說也。剛中而柔外，說以利貞，是以順乎天，而應乎人。說以先民，民忘其勞；說以犯難，民忘其死；說之大，民勸矣哉！",
+   "daxiang": "麗澤，兌；君子以朋友講習。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "兑者说也，取最悦之时",
+    "weather": "晴，光碎在水面",
+    "weather_base": "晴",
+    "weather_reason": "丽泽，兑",
+    "terrain": "静",
+    "terrain_reason": "两泽相连，水面相通"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "戏水，水花溅起"
+   },
+   "palette_zh": [
+    "荷粉",
+    "水绿",
+    "白炽"
+   ],
+   "palette_en": [
+    "lotus pink",
+    "water green",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/dui/zh"
+  },
+  {
+   "no": 59,
+   "name": "渙",
+   "symbol": "䷺",
+   "upper": "巽",
+   "lower": "坎",
+   "lines": "010011",
+   "upper_realm": "风廊",
+   "upper_realm_en": "the Wind Gallery",
+   "lower_realm": "水府",
+   "lower_realm_en": "the Water Court",
+   "guaci": "渙：亨。王假有廟，利涉大川，利貞。",
+   "tuan": "渙，亨。剛來而不窮，柔得位乎外而上同。王假有廟，王乃在中也。利涉大川，乘木有功也。",
+   "daxiang": "風行水上，渙；先王以享于帝立廟。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "涣者散也，取雾散之晨",
+    "weather": "罡风吹散一切聚合之物",
+    "weather_base": "罡风",
+    "weather_reason": "风行水上，涣",
+    "terrain": "奔涌",
+    "terrain_reason": "水被风推散，纹路四射"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "四散飞开，无一同向"
+   },
+   "palette_zh": [
+    "竹青",
+    "墨青",
+    "淡金"
+   ],
+   "palette_en": [
+    "bamboo green",
+    "ink blue-black",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/huan/zh"
+  },
+  {
+   "no": 60,
+   "name": "節",
+   "symbol": "䷻",
+   "upper": "坎",
+   "lower": "兌",
+   "lines": "110010",
+   "upper_realm": "水府",
+   "upper_realm_en": "the Water Court",
+   "lower_realm": "泽苑",
+   "lower_realm_en": "the Marsh Garden",
+   "guaci": "節：亨。苦節，不可貞。",
+   "tuan": "節，亨，剛柔分，而剛得中。苦節不可貞，其道窮也。說以行險，當位以節，中正以通。天地節而四時成，節以制度，不傷財，不害民。",
+   "daxiang": "澤上有水，節；君子以制數度，議德行。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "节者止也，取日中有度之时",
+    "weather": "晴，云各有界不相侵",
+    "weather_base": "晴",
+    "weather_reason": "泽上有水，节",
+    "terrain": "静",
+    "terrain_reason": "水位恰在阶级刻度处"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 2,
+    "state": "分立于分水处两侧"
+   },
+   "palette_zh": [
+    "墨青",
+    "荷粉",
+    "白炽"
+   ],
+   "palette_en": [
+    "ink blue-black",
+    "lotus pink",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/jie1/zh"
+  },
+  {
+   "no": 61,
+   "name": "中孚",
+   "symbol": "䷼",
+   "upper": "巽",
+   "lower": "兌",
+   "lines": "110011",
+   "upper_realm": "风廊",
+   "upper_realm_en": "the Wind Gallery",
+   "lower_realm": "泽苑",
+   "lower_realm_en": "the Marsh Garden",
+   "guaci": "中孚：豚魚吉，利涉大川，利貞。",
+   "tuan": "中孚，柔在內而剛得中。說而巽，孚，乃化邦也。豚魚吉，信及豚魚也。利涉大川，乘木舟虛也。中孚以利貞，乃應乎天也。",
+   "daxiang": "澤上有風，中孚；君子以議獄緩死。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "中孚，取鹤鸣在阴之晨",
+    "weather": "薄雾覆泽，声传其中",
+    "weather_base": "薄雾",
+    "weather_reason": "泽上有风，中孚",
+    "terrain": "静",
+    "terrain_reason": "水静，声纹可见"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 3,
+    "state": "一大二雏，鸣而相和"
+   },
+   "palette_zh": [
+    "竹青",
+    "荷粉",
+    "淡金"
+   ],
+   "palette_en": [
+    "bamboo green",
+    "lotus pink",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/zhong-fu/zh"
+  },
+  {
+   "no": 62,
+   "name": "小過",
+   "symbol": "䷽",
+   "upper": "震",
+   "lower": "艮",
+   "lines": "001100",
+   "upper_realm": "雷坛",
+   "upper_realm_en": "the Thunder Altar",
+   "lower_realm": "山门",
+   "lower_realm_en": "the Mountain Gate",
+   "guaci": "小過：亨，利貞，可小事，不可大事。飛鳥遺之音，不宜上，宜下，大吉。",
+   "tuan": "小過，小者過而亨也。過以利貞，與時行也。柔得中，是以小事吉也。剛失位而不中，是以不可大事也。有飛鳥之象焉，有飛鳥遺之音，不宜上宜下，大吉；上逆而下順也。",
+   "daxiang": "山上有雷，小過；君子以行過乎恭，喪過乎哀，用過乎儉。",
+   "dials": {
+    "light": "薄暮",
+    "light_reason": "小过，取日已过中之时",
+    "weather": "罡风掠山脊，云低而疾",
+    "weather_base": "罡风",
+    "weather_reason": "山上有雷，小过",
+    "terrain": "静",
+    "terrain_reason": "水面仅起微澜，过而不深"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "低飞过山，不高举"
+   },
+   "palette_zh": [
+    "青铜绿",
+    "苍灰",
+    "橙红"
+   ],
+   "palette_en": [
+    "bronze verdigris",
+    "slate grey",
+    "orange-red"
+   ],
+   "source": "https://ctext.org/book-of-changes/xiao-guo/zh"
+  },
+  {
+   "no": 63,
+   "name": "既濟",
+   "symbol": "䷾",
+   "upper": "坎",
+   "lower": "離",
+   "lines": "101010",
+   "upper_realm": "水府",
+   "upper_realm_en": "the Water Court",
+   "lower_realm": "火殿",
+   "lower_realm_en": "the Flame Hall",
+   "guaci": "既濟：亨，小利貞，初吉終亂。",
+   "tuan": "既濟，亨，小者亨也。利貞，剛柔正而位當也。初吉，柔得中也。終止則亂，其道窮也。",
+   "daxiang": "水在火上，既濟；君子以思患而預防之。",
+   "dials": {
+    "light": "正午",
+    "light_reason": "既济，取水火各得其位之正时",
+    "weather": "薄雾均匀，气无偏胜",
+    "weather_base": "薄雾",
+    "weather_reason": "水在火上，既济",
+    "terrain": "静",
+    "terrain_reason": "水位与火位相平，各安"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 9,
+    "state": "各得其位，间距均等"
+   },
+   "palette_zh": [
+    "墨青",
+    "朱红",
+    "白炽"
+   ],
+   "palette_en": [
+    "ink blue-black",
+    "vermilion",
+    "white-hot"
+   ],
+   "source": "https://ctext.org/book-of-changes/ji-ji/zh"
+  },
+  {
+   "no": 64,
+   "name": "未濟",
+   "symbol": "䷿",
+   "upper": "離",
+   "lower": "坎",
+   "lines": "010101",
+   "upper_realm": "火殿",
+   "upper_realm_en": "the Flame Hall",
+   "lower_realm": "水府",
+   "lower_realm_en": "the Water Court",
+   "guaci": "未濟：亨，小狐汔濟，濡其尾，无攸利。",
+   "tuan": "未濟，亨；柔得中也。小狐汔濟，未出中也。濡其尾，无攸利；不續終也。雖不當位，剛柔應也。",
+   "daxiang": "火在水上，未濟；君子以慎辨物居方。",
+   "dials": {
+    "light": "拂晓",
+    "light_reason": "未济，取事未成之晨",
+    "weather": "浓雾未开，前路不辨",
+    "weather_base": "浓雾",
+    "weather_reason": "火在水上，未济",
+    "terrain": "奔涌",
+    "terrain_reason": "水急而未可涉"
+   },
+   "creature": {
+    "kind": "丹顶鹤",
+    "count": 1,
+    "state": "幼鹤涉水，濡其尾"
+   },
+   "palette_zh": [
+    "朱红",
+    "墨青",
+    "淡金"
+   ],
+   "palette_en": [
+    "vermilion",
+    "ink blue-black",
+    "pale gold"
+   ],
+   "source": "https://ctext.org/book-of-changes/wei-ji/zh"
+  }
+ ]
+}

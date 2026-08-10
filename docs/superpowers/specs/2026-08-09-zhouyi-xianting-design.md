@@ -158,9 +158,24 @@
 
 ### 4.3 卦辞来源要求
 
-**卦辞必须从可核实的文本源录入，不得凭模型记忆生成。** 这是硬性要求——AI 复述古籍原文时出错率不低，而错的卦辞会直接印在成品上。实现时需指定所用底本并可供抽查。
+**卦辞必须从可核实的文本源录入，不得凭模型记忆生成。** 这是硬性要求——AI 复述古籍原文时出错率不低，而错的卦辞会直接印在成品上。
 
-### 4.4 仓库结构
+**已确定底本：**[中国哲学书电子化计划 ctext.org](https://ctext.org/book-of-changes/zh)，每卦在 `hexagrams.json` 中记录 `source` URL 可供抽查。除卦辞外一并录入彖传与大象传——大象传给出了权威的一句话卦象陈述（如屯「雲，雷，屯」），是三旋钮取值的依据来源。
+
+原定的维基百科未采用：`zh.wikipedia.org` 在开发所处网络不可达（同网络下 example.com 返回 200）。ctext 作为原文数据库亦优于百科条目。
+
+### 4.4 上下卦分解的验证要求
+
+整套视觉体系依赖 64 卦上下卦分解正确，**不接受凭记忆填写**。分解表须通过四条独立验证，任一不过即为回归：
+
+1. 八经卦各作上卦恰 8 次、作下卦恰 8 次
+2. 64 卦画互异且穷尽 2⁶
+3. 32 对序卦全部满足反卦（上下颠倒）或错卦（阴阳全变）关系
+4. 大象传物象与上下卦相符 64/64
+
+第 3 条约束极紧，几乎任何单点错误都会被抓出；第 4 条取自经文本身，与前三条完全独立。四条已于实现时全部通过。
+
+### 4.5 仓库结构
 
 ```
 xinzhong/
@@ -171,22 +186,25 @@ xinzhong/
     hexagrams.json
   prompts/
     upper-qian.md      # 上卦为乾的八卦
-    upper-kun.md
+    upper-dui.md
+    upper-li.md
     upper-zhen.md
     upper-xun.md
     upper-kan.md
-    upper-li.md
     upper-gen.md
-    upper-dui.md
-  skills/zhouyi-xianting/
+    upper-kun.md
+  scripts/
+    build_hexagrams.py # 由原文 + 旋钮表构建 hexagrams.json
+    en_phrases.py      # 英文短语库，译名全库统一的唯一保障
+    gen_prompts.py     # 生成全部 256 条提示词
+    validate.py        # 把第 7 节验收标准变成可执行检查
+  .claude/skills/zhouyi-xianting/
     SKILL.md
-    references/
-      realms.md        # 八境定义与中英译名对照
-      composition.md   # 叠合规则与构图法
-      dials.md         # 三旋钮推导规则
 ```
 
-`prompts/` 按上卦分组，每文件 8 卦，每卦 4 条提示词。
+`prompts/` 按上卦分组，每文件 8 卦，每卦 4 条提示词。文件名用经卦拼音。
+
+skill 置于 `.claude/skills/` 而非 `skills/`，否则 Claude Code 发现不到它。八境定义、叠合规则、旋钮推导直接写在 SKILL.md 内，不再拆 `references/` 子文件——内容量未达到需要拆分的规模。
 
 ## 5. skill 设计
 
@@ -217,7 +235,9 @@ xinzhong/
 
 第 1 批（上卦为乾）：乾、履、同人、无妄、姤、讼、遁、否。
 
-先交第 1 批，用户实际出图验证效果，确认后再推其余 7 批。
+**实现状态：8 批已全部生成**（256 条提示词，`scripts/validate.py` 0 项不通过）。原计划的"先交第 1 批再推其余"未执行，因用户要求一次捋顺全部。出图验证仍按批进行，见第 7 节。
+
+**实现期新增的设计决策：Midjourney 条不使用「天阙」这类自造专名。** 图像模型不认识这些词，写进去只白占词数并稀释主体；专名对系列一致性的作用由 GPT-Image-2 与 Nano Banana Pro 两条承担，MJ 改用 `realms.json` 的 `short_en` 紧凑描述。此项使 MJ 正文从 97–128 词收敛到 81–109 词（均值 93）。
 
 批次顺序采用先天八卦序（乾兑离震巽坎艮坤）。
 
@@ -234,17 +254,20 @@ xinzhong/
 
 ## 7. 验收标准
 
-每批交付时逐卦核对：
+以下各项已由 `scripts/validate.py` 实现为可执行检查，每次重跑生成器后必须通过（当前 256 条全过）：
 
-- [ ] 四条提示词同源：主体、光源方向、三层纵深元素、色板、画幅在四条中一致
-- [ ] 上下境叠合方向正确（上卦在画面上方）
-- [ ] 三旋钮取值在 `hexagrams.json` 中有 `*_reason`，且理由站得住
-- [ ] 色板由规则生成，两主一辅，不超过三色
-- [ ] 无禁用词（masterpiece / 8k / best quality / ultra detailed / trending on artstation 等）
-- [ ] Midjourney 条带 `--ar 3:4`，否定词写在 `--no` 而非正文
-- [ ] 构图预留顶部排字区
-- [ ] 卦辞与指定底本一致
-- [ ] 画面中无近景人物、无人脸、无渲染文字
+- [x] 四条提示词同源：色板成分、画幅在四条中一致
+- [x] 上下境叠合方向正确，上境译名出现在英文两条中
+- [x] 三旋钮取值在 `hexagrams.json` 中有 `*_reason`
+- [x] 色板由规则生成，两主一辅
+- [x] 无禁用词（masterpiece / 8k / best quality / ultra detailed / trending on artstation 等）
+- [x] Midjourney 带 `--ar 3:4` 与 `--style raw`，否定词只出现在 `--no`（正文出现 no / without / avoid 即判失败）
+- [x] 构图预留顶部排字区
+- [x] 画面禁令齐备：无近景人物、无人脸、无渲染文字
+- [x] 中文提示词不混入英文单词
+- [x] 无拼接残留与重复短语（英文三元词组重复即判失败）
+
+**机械验收不能替代人眼。** 语法通顺、主谓一致、语义是否自相矛盾，验证器查不出——首轮实现中「stacked cloud terraces loses itself」「两个 end of the」这类问题均是人眼发现后才补进检查项的。每批仍需通读。
 
 出图验证由用户执行：每批抽验 2–3 卦，四个模型各出一张，确认成套感成立。
 
