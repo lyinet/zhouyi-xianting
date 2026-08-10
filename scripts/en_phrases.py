@@ -27,21 +27,21 @@ FOREGROUND = {
  '震': ('一根焦黑的青铜柱', 'a charred bronze pillar'),
  '巽': ('几幅深色纱幡', 'dark gauze banners'),
  '坎': ('湿黑的岩石与一道水帘', 'wet black rock and a hanging water curtain'),
- '離': ('一座灯架的暗部轮廓', 'the dark silhouette of a lamp stand'),
+ '離': ('一座灯架', 'a lamp stand'),
  '艮': ('一道崖壁岩棱', 'a spur of cliff rock'),
  '兌': ('深色的荷梗与残叶', 'dark lotus stems and spent leaves'),
 }
 
 # 上卦 -> 远景消隐物（最远层，几乎化入天光）
 FARFADE = {
- '乾': ('云台层叠', 'stacked cloud terraces'),
+ '乾': ('层层云头', 'banked cloud heads'),
  '坤': ('夯土层台', 'earthen tiers'),
- '震': ('铜柱列', 'ranks of bronze pillars'),
- '巽': ('长廊尽头', 'the end of the colonnade'),
+ '震': ('最后几根焦立柱', 'the last charred posts'),
+ '巽': ('最淡的一片竹影', 'the faintest stand of bamboo'),
  '坎': ('远处的一道垂瀑', 'a far cascade'),
- '離': ('灯阵', 'ranks of lamps'),
- '艮': ('石门阙', 'a stone gateway'),
- '兌': ('池面一角', 'the far reach of the pond'),
+ '離': ('几点残火', 'a few last points of lamplight'),
+ '艮': ('裸露的山脊线', 'a bare ridgeline'),
+ '兌': ('望不到岸的开阔水面', 'open water stretching past any shore'),
 }
 
 # 序号 -> (灵禽英文, 天候英文, 水势英文)

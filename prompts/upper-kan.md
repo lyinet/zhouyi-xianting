@@ -404,7 +404,7 @@ Hold the colour to ink blue-black and lotus pink, letting white-hot appear only 
 **Midjourney 8.2**
 
 ```
-vertical low-angle composition, a sunken water court around a deep pool in the upper half, a hall of eternal lamps and vermilion columns in the lower half, the dark silhouette of a lamp stand in dark silhouette across the near edge, a far cascade fading out at the far distance, a high noon sun directly overhead, even mist, water level matched to fire level, nine cranes each in its own position, small and distant, ink blue-black and vermilion with white-hot accents, photoreal cinematic still, atmospheric perspective, fine micro-detail, subtle grain --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects
+vertical low-angle composition, a sunken water court around a deep pool in the upper half, a hall of eternal lamps and vermilion columns in the lower half, a lamp stand in dark silhouette across the near edge, a far cascade fading out at the far distance, a high noon sun directly overhead, even mist, water level matched to fire level, nine cranes each in its own position, small and distant, ink blue-black and vermilion with white-hot accents, photoreal cinematic still, atmospheric perspective, fine micro-detail, subtle grain --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects
 ```
 
 
@@ -413,7 +413,7 @@ vertical low-angle composition, a sunken water court around a deep pool in the u
 ```
 A photoreal cinematic still in a vertical 3:4 frame, shot from a low angle.
 
-Three depth layers. Upper half: the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone. Lower half, directly beneath it: the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, daylight cutting through high windows. Near foreground: the dark silhouette of a lamp stand crossing the near edge, almost black, framing the composition. Far distance: nothing but a far cascade, dissolving into the air.
+Three depth layers. Upper half: the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone. Lower half, directly beneath it: the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, a deep inner hall. Near foreground: a lamp stand crossing the near edge, almost black, framing the composition. Far distance: nothing but a far cascade, dissolving into the air.
 
 The only light source is a high noon sun directly overhead. Even mist, neither element dominant. Water level matched to fire level, each in place.
 
@@ -430,7 +430,7 @@ Leave the top fifth of the frame relatively empty for a later title. Do not rend
 ```
 Photograph this from a low angle in a vertical 3:4 frame.
 
-Closest to the camera, the dark silhouette of a lamp stand crosses the near edge, almost black, framing everything behind it. Above, the top half of the picture is the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone. Beneath it, the bottom half is the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, daylight cutting through high windows. Furthest back, nothing remains but a far cascade, dissolving into the air.
+Closest to the camera, a lamp stand crosses the near edge, almost black, framing everything behind it. Above, the top half of the picture is the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone. Beneath it, the bottom half is the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, a deep inner hall. Furthest back, nothing remains but a far cascade, dissolving into the air.
 
 A high noon sun directly overhead is the only thing lighting the scene. Even mist, neither element dominant. Water level matched to fire level, each in place. Somewhere small and far off, nine cranes each in its own position, evenly spaced.
 
@@ -441,5 +441,5 @@ Hold the colour to ink blue-black and vermilion, letting white-hot appear only a
 **Seedream 5.0 Pro**
 
 ```
-水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，占据画面上方；火殿，长明灯阵、琉璃与铜镜、朱漆廊柱、天光透窗，占据画面下方。近景一座灯架的暗部轮廓，几乎全黑，压住画面下缘；最远处远处的一道垂瀑几乎完全消融在天光里。正午顶光，日在中天，为画面唯一光源。薄雾均匀，气无偏胜。水位与火位相平，各安。远景有9只丹顶鹤，各得其位，间距均等，在画面中很小。色调以墨青与朱红为主，仅以白炽点缀。照相写实电影剧照质感，强烈大气透视，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，占据画面上方；火殿，长明灯阵、琉璃与铜镜、朱漆廊柱、幽深的内殿，占据画面下方。近景一座灯架，几乎全黑，压住画面下缘；最远处远处的一道垂瀑几乎完全消融在天光里。正午顶光，日在中天，为画面唯一光源。薄雾均匀，气无偏胜。水位与火位相平，各安。远景有9只丹顶鹤，各得其位，间距均等，在画面中很小。色调以墨青与朱红为主，仅以白炽点缀。照相写实电影剧照质感，强烈大气透视，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
 ```

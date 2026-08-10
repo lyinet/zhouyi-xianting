@@ -52,6 +52,19 @@ for n, d in allp.items():
         fails.append(f'第{n}卦缺模型: {missing}')
 
 by_no = {h['no']: h for h in H}
+
+# 结构不变量：远景消隐物不得与本境中景招牌物件同名。
+# MJ 把 short_en（中景）与 FARFADE（远景）直接并置，同名会让同一件东西
+# 既在中景又在最远处 —— 首轮实现中艮境「a stone gateway」即此症。
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from en_phrases import FARFADE
+for tri, r in R.items():
+    mid = set(re.findall(r"[a-z']+", r['short_en'].lower()))
+    far = set(re.findall(r"[a-z']+", FARFADE[tri][1].lower()))
+    overlap = {w for w in mid & far if len(w) > 3}
+    if overlap:
+        fails.append(f'{r["realm"]} 远景与中景招牌物件同名: {sorted(overlap)}')
+
 for n, d in sorted(allp.items()):
     h = by_no[n]
     up, lo = R[h['upper']], R[h['lower']]
@@ -118,6 +131,8 @@ for n, d in sorted(allp.items()):
             fails.append(f'{tag} Seedream 拼接残留「{bad}」')
 
     # 9b 英文重复短语 —— 模板与组件都带同一个框架词时会出现，人眼易漏
+    # 注：不检查实词二元组。前景框规定「就近取材于下境」，下境材料必然在
+    # 前景与中景各出现一次（rammed-earth 等），那是设计使然，不是缺陷。
     for p, nm in ((mj, 'MJ'), (gpt, 'GPT'), (nano, 'Nano')):
         w = re.findall(r"[a-z']+", p.lower())
         grams = [' '.join(w[i:i+3]) for i in range(len(w) - 2)]
@@ -125,6 +140,10 @@ for n, d in sorted(allp.items()):
         dup -= {'no text no', 'text no people', 'no people no'}   # 负面清单本身允许并列
         if dup:
             fails.append(f'{tag} {nm} 重复短语 {sorted(dup)[:3]}')
+        # 单光源规则：日光与月光不得同时出现
+        low = p.lower()
+        if 'moonlight' in low and ('daylight' in low or 'sun ' in low):
+            fails.append(f'{tag} {nm} 同时出现月光与日光，违反单光源规则')
     if re.search(r'\b(\w+ \w+) \1\b', gpt):
         warns.append(f'{tag} GPT 疑似重复短语')
 

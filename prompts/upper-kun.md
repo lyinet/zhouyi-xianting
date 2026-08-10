@@ -349,7 +349,7 @@ Hold the colour to ochre yellow and bronze verdigris, letting pale gold appear o
 **Midjourney 8.2**
 
 ```
-vertical low-angle composition, rammed-earth terraces stepped like paddy fields in the upper half, a hall of eternal lamps and vermilion columns in the lower half, the dark silhouette of a lamp stand in dark silhouette across the near edge, earthen tiers fading out at the far distance, moonlight from high on the left, dense fog swallowing every source of light, black water giving back nothing, one crane with folded wings hidden in the dark, small and distant, ochre yellow and vermilion with moon silver accents, photoreal cinematic still, atmospheric perspective, fine micro-detail, subtle grain --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects
+vertical low-angle composition, rammed-earth terraces stepped like paddy fields in the upper half, a hall of eternal lamps and vermilion columns in the lower half, a lamp stand in dark silhouette across the near edge, earthen tiers fading out at the far distance, moonlight from high on the left, dense fog swallowing every source of light, black water giving back nothing, one crane with folded wings hidden in the dark, small and distant, ochre yellow and vermilion with moon silver accents, photoreal cinematic still, atmospheric perspective, fine micro-detail, subtle grain --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects
 ```
 
 
@@ -358,7 +358,7 @@ vertical low-angle composition, rammed-earth terraces stepped like paddy fields 
 ```
 A photoreal cinematic still in a vertical 3:4 frame, shot from a low angle.
 
-Three depth layers. Upper half: the Earthen Palace, rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos. Lower half, directly beneath it: the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, daylight cutting through high windows. Near foreground: the dark silhouette of a lamp stand crossing the near edge, almost black, framing the composition. Far distance: nothing but earthen tiers, dissolving into the air.
+Three depth layers. Upper half: the Earthen Palace, rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos. Lower half, directly beneath it: the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, a deep inner hall. Near foreground: a lamp stand crossing the near edge, almost black, framing the composition. Far distance: nothing but earthen tiers, dissolving into the air.
 
 The only light source is moonlight from high on the left. Dense fog swallowing every source of light. Black water giving back nothing.
 
@@ -375,7 +375,7 @@ Leave the top fifth of the frame relatively empty for a later title. Do not rend
 ```
 Photograph this from a low angle in a vertical 3:4 frame.
 
-Closest to the camera, the dark silhouette of a lamp stand crosses the near edge, almost black, framing everything behind it. Above, the top half of the picture is the Earthen Palace, rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos. Beneath it, the bottom half is the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, daylight cutting through high windows. Furthest back, nothing remains but earthen tiers, dissolving into the air.
+Closest to the camera, a lamp stand crosses the near edge, almost black, framing everything behind it. Above, the top half of the picture is the Earthen Palace, rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos. Beneath it, the bottom half is the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, a deep inner hall. Furthest back, nothing remains but earthen tiers, dissolving into the air.
 
 Moonlight from high on the left is the only thing lighting the scene. Dense fog swallowing every source of light. Black water giving back nothing. Somewhere small and far off, one crane with folded wings hidden in the dark, a single white line showing.
 
@@ -386,7 +386,7 @@ Hold the colour to ochre yellow and vermilion, letting moon silver appear only a
 **Seedream 5.0 Pro**
 
 ```
-地宫，夯土层台、梯田式庭院、藏于山腹的暗殿、陶砖与粟囷，占据画面上方；火殿，长明灯阵、琉璃与铜镜、朱漆廊柱、天光透窗，占据画面下方。近景一座灯架的暗部轮廓，几乎全黑，压住画面下缘；最远处夯土层台几乎完全消融在天光里。夜色，月光自左上斜下，为画面唯一光源。浓雾裹尽光源，唯余轮廓。水黑不反光，如无。远景有1只丹顶鹤，敛翼藏于暗处，仅露一线白，在画面中很小。色调以赭黄与朱红为主，仅以月银点缀。照相写实电影剧照质感，强烈大气透视，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+地宫，夯土层台、梯田式庭院、藏于山腹的暗殿、陶砖与粟囷，占据画面上方；火殿，长明灯阵、琉璃与铜镜、朱漆廊柱、幽深的内殿，占据画面下方。近景一座灯架，几乎全黑，压住画面下缘；最远处夯土层台几乎完全消融在天光里。夜色，月光自左上斜下，为画面唯一光源。浓雾裹尽光源，唯余轮廓。水黑不反光，如无。远景有1只丹顶鹤，敛翼藏于暗处，仅露一线白，在画面中很小。色调以赭黄与朱红为主，仅以月银点缀。照相写实电影剧照质感，强烈大气透视，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
 ```
 
 
