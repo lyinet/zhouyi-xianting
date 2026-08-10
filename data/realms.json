@@ -186,8 +186,12 @@
     "render_zh": "照相写实 CG 电影剧照，大气透视，微观细节，轻微胶片颗粒",
     "render_en": "photoreal cinematic still, deep atmospheric perspective, fine micro-detail, subtle film grain",
     "composition": "暗前景框 + 上下二分（上卦占上方，下卦占下方） + 远景消隐",
-    "camera": "默认低机位仰视；下卦为坎或兌时改平视贴水面取倒影；不用俯视",
+    "camera": "24mm 广角低机位仰视，极远景交代环境；下卦为坎或兌时改平视贴水面取倒影；不用俯视",
     "creature": "远景小点，不露脸，默认丹顶鹤",
-    "text": "图上不渲染文字，顶部约 1/5 留白供后期排卦名与卦辞"
+    "text": "图上不渲染文字，顶部约 1/5 留白供后期排卦名与卦辞",
+    "exposure_zh": "整体明亮通透，雾气本身被光点亮、是画面最亮的区域；暗部开放保留细节，不压死黑",
+    "exposure_en": "bright luminous overall exposure, the mist itself lit from within and forming the brightest zone of the picture, shadows open and full of detail, no crushed blacks",
+    "scale_zh": "建筑体量极大，上境向画面顶部之外继续升高；灵禽小如尘点，仅作尺度对照；纵深不少于四层，最远层没入光里",
+    "scale_en": "immense architectural scale, the upper realm continuing up beyond the top edge of the frame, the birds reduced to specks purely for scale, at least four receding depth layers, the furthest lost in light"
   }
 }

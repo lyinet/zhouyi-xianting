@@ -120,8 +120,20 @@ for n, d in sorted(allp.items()):
     if '不出现任何文字、人物与人脸' not in seed:
         fails.append(f'{tag} Seedream 未禁止文字人物人脸')
 
+    # 7b 明度锚点与尺度锚点 —— 缺任一条就会回到「太暗、不宏大」
+    for p, nm in ((mj, 'MJ'), (gpt, 'GPT'), (nano, 'Nano')):
+        low = p.lower()
+        if 'glow' not in low and 'lit from within' not in low:
+            fails.append(f'{tag} {nm} 缺明度锚点（雾发光）')
+        if 'speck' not in low and 'immense' not in low and 'enormous' not in low:
+            fails.append(f'{tag} {nm} 缺尺度锚点')
+    if '最亮的区域' not in seed:
+        fails.append(f'{tag} Seedream 缺明度锚点')
+    if '小如尘点' not in seed or '体量极大' not in seed:
+        fails.append(f'{tag} Seedream 缺尺度锚点')
+
     # 8 中文提示词不得混入英文单词（3:4、4K 除外）
-    stray = re.findall(r'[A-Za-z]{2,}', seed.replace('4K', ''))
+    stray = re.findall(r'[A-Za-z]{2,}', seed.replace('4K', '').replace('24mm', ''))
     if stray:
         fails.append(f'{tag} Seedream 混入英文: {set(stray)}')
 
