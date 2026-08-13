@@ -1,8 +1,6 @@
-# 上卦 巽（☴ 风）· 风廊 the Wind Gallery
+# 上卦 巽（☴ 风）· 风廊 the Wind Gallery — 3:4
 
-本组 8 卦共享同一上境，风廊 的渲染描述批内复用。
-
-发布顺序按序卦，非本文件顺序。
+本组 8 卦共享同一上境。发布顺序按序卦，非本文件顺序。
 
 
 ---
@@ -19,44 +17,56 @@
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, an endless colonnade hung with banners towering past the top edge, a white jade terrace above a sea of clouds far below, a wind-scoured jade balustrade dark at the near edge, the faintest stand of bamboo dissolving far off, a low sun minutes from setting, raking in from the left, dense cloud that refuses to release its rain, the bed dry, a lone crane looking up as specks for scale, glowing mist as the brightest zone, open shadows, bamboo green and gilt gold with orange-red accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, an endless colonnade hung with banners floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, dragons coiling up the pillars sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a low sun minutes from setting, raking in from the left, dense cloud that refuses to release its rain, bamboo green and gilt gold with orange-red accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so high it continues past the upper edge. Lower half, directly beneath it: the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind. Near foreground: a wind-scoured jade balustrade crossing the near edge in shadow, framing the composition. Far distance: nothing but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Celestial Gate, itself a platform floating in open air.
 
-The directional light is a low sun minutes from setting, raking in from the left. Dense cloud that refuses to release its rain. The bed dry, the water withdrawn. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place a lone crane looking up, waiting for rain that will not come — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: dragons coiling up the pillars, layered flying eaves, gilded ridge beasts, balustrade panels cut with swirling vapour scrollwork, painted dougong brackets. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Wind Gallery, tiny with distance. Along the horizon band, the faintest stand of bamboo.
+
+The directional light is a low sun minutes from setting, raking in from the left. Dense cloud that refuses to release its rain. The bed dry, the water withdrawn. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: a lone crane looking up, waiting for rain that will not come.
 
 Palette: bamboo green and gilt gold, with orange-red only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a wind-scoured jade balustrade crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so far it leaves the frame. Beneath it, the bottom half is the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind. Furthest back, nothing remains but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Celestial Gate, itself a platform floating in open air.
 
-A low sun minutes from setting, raking in from the left gives the scene its direction. Dense cloud that refuses to release its rain. The bed dry, the water withdrawn. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, a lone crane looking up, waiting for rain that will not come, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to bamboo green and gilt gold, letting orange-red appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: dragons coiling up the pillars, layered flying eaves, gilded ridge beasts, balustrade panels cut with swirling vapour scrollwork, painted dougong brackets. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Wind Gallery, so far away it is almost a speck. Along the horizon, the faintest stand of bamboo.
+
+A low sun minutes from setting, raking in from the left gives the scene its direction. Dense cloud that refuses to release its rain. The bed dry, the water withdrawn. Expose bright, let the air glow, keep the shadows open. Somewhere far off, a lone crane looking up, waiting for rain that will not come.
+
+Hold the colour to bamboo green and gilt gold, with orange-red only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。风廊，极长的空廊、万千经幡与纱帘、镂空花窗、竹林，占据画面上方，向画面顶部之外继续升高；天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，占据画面下方。近景被罡风蚀过的白玉栏杆压住画面下缘，处在暗部但保留细节；最远处最淡的一片竹影几乎完全消融在光里。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。密云不雨，云层厚而不落。水痕见底，泽未及物。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，仰首待雨不得，小如尘点，仅用来对照建筑之巨。色调以竹青与鎏金为主，仅以橙红点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。风廊，极长的空廊、万千经幡、层叠的檐口，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的天阙上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：蟠龙抱柱、层叠飞檐、鎏金脊兽、云气纹栏板、斗拱彩画，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的风廊，远得几乎成点；地平线一带是最淡的一片竹影。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。密云不雨，云层厚而不落。水痕见底，泽未及物。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，仰首待雨不得，在远处很小。色调以竹青与鎏金为主，仅以橙红点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -74,44 +84,56 @@ Hold the colour to bamboo green and gilt gold, letting orange-red appear only as
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, an endless colonnade hung with banners towering past the top edge, rammed-earth terraces stepped like paddy fields far below, a rammed-earth parapet dark at the near edge, the faintest stand of bamboo dissolving far off, a high noon sun directly overhead, mist below, the water a mirror, a lone crane standing high on the gallery as specks for scale, glowing mist as the brightest zone, open shadows, bamboo green and ochre yellow with white-hot accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, an endless colonnade hung with banners floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, grain-patterned fired brick sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a high noon sun directly overhead, mist below, bamboo green and ochre yellow with white-hot accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so high it continues past the upper edge. Lower half, directly beneath it: the Earthen Palace, rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos. Near foreground: a rammed-earth parapet crossing the near edge in shadow, framing the composition. Far distance: nothing but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Earthen Palace, itself a platform floating in open air.
 
-The directional light is a high noon sun directly overhead. Mist below, the height alone clear. The water a mirror, held for the high vantage. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place a lone crane standing high on the gallery, gazing far out — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: grain-patterned fired brick, plain column bases, square unpainted beams, undecorated parapets, visible tamping seams. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Wind Gallery, tiny with distance. Along the horizon band, the faintest stand of bamboo.
+
+The directional light is a high noon sun directly overhead. Mist below, the height alone clear. The water a mirror, held for the high vantage. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: a lone crane standing high on the gallery, gazing far out.
 
 Palette: bamboo green and ochre yellow, with white-hot only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a rammed-earth parapet crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so far it leaves the frame. Beneath it, the bottom half is the Earthen Palace, rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos. Furthest back, nothing remains but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Earthen Palace, itself a platform floating in open air.
 
-A high noon sun directly overhead gives the scene its direction. Mist below, the height alone clear. The water a mirror, held for the high vantage. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, a lone crane standing high on the gallery, gazing far out, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to bamboo green and ochre yellow, letting white-hot appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: grain-patterned fired brick, plain column bases, square unpainted beams, undecorated parapets, visible tamping seams. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Wind Gallery, so far away it is almost a speck. Along the horizon, the faintest stand of bamboo.
+
+A high noon sun directly overhead gives the scene its direction. Mist below, the height alone clear. The water a mirror, held for the high vantage. Expose bright, let the air glow, keep the shadows open. Somewhere far off, a lone crane standing high on the gallery, gazing far out.
+
+Hold the colour to bamboo green and ochre yellow, with white-hot only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。风廊，极长的空廊、万千经幡与纱帘、镂空花窗、竹林，占据画面上方，向画面顶部之外继续升高；地宫，夯土层台、梯田式庭院、藏于山腹的暗殿、陶砖与粟囷，占据画面下方。近景一道夯土矮墙压住画面下缘，处在暗部但保留细节；最远处最淡的一片竹影几乎完全消融在光里。正午顶光，日在中天，为画面的主光方向。薄雾在下，高处独明。水面如镜，供高处俯观。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，高立廊端远眺，小如尘点，仅用来对照建筑之巨。色调以竹青与赭黄为主，仅以白炽点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。风廊，极长的空廊、万千经幡、层叠的檐口，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的地宫上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：粟纹陶砖、素面石础、方直梁枋、无纹平栏、夯痕层叠，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的风廊，远得几乎成点；地平线一带是最淡的一片竹影。正午顶光，日在中天，为画面的主光方向。薄雾在下，高处独明。水面如镜，供高处俯观。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，高立廊端远眺，在远处很小。色调以竹青与赭黄为主，仅以白炽点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -129,44 +151,56 @@ Hold the colour to bamboo green and ochre yellow, letting white-hot appear only 
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, an endless colonnade hung with banners towering past the top edge, a hall of eternal lamps and vermilion columns far below, a lamp stand dark at the near edge, the faintest stand of bamboo dissolving far off, a low sun minutes from setting, raking in from the left, mist round the eaves with lamplight through it, the courtyard pool still, five cranes gathered at one nest as specks for scale, glowing mist as the brightest zone, open shadows, bamboo green and vermilion with orange-red accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, an endless colonnade hung with banners floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, glazed ceramic ridge beasts sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a low sun minutes from setting, raking in from the left, mist round the eaves with lamplight through it, bamboo green and vermilion with orange-red accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so high it continues past the upper edge. Lower half, directly beneath it: the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, a deep inner hall. Near foreground: a lamp stand crossing the near edge in shadow, framing the composition. Far distance: nothing but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Flame Hall, itself a platform floating in open air.
 
-The directional light is a low sun minutes from setting, raking in from the left. Mist round the eaves with lamplight through it. The courtyard pool still, holding the lit windows. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place five cranes gathered at one nest, large and small together — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: glazed ceramic ridge beasts, bronze mirrors set into the walls, polychrome-painted beams, a coffered caisson ceiling, carved red lacquer. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Wind Gallery, tiny with distance. Along the horizon band, the faintest stand of bamboo.
+
+The directional light is a low sun minutes from setting, raking in from the left. Mist round the eaves with lamplight through it. The courtyard pool still, holding the lit windows. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: five cranes gathered at one nest, large and small together.
 
 Palette: bamboo green and vermilion, with orange-red only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a lamp stand crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so far it leaves the frame. Beneath it, the bottom half is the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, a deep inner hall. Furthest back, nothing remains but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Flame Hall, itself a platform floating in open air.
 
-A low sun minutes from setting, raking in from the left gives the scene its direction. Mist round the eaves with lamplight through it. The courtyard pool still, holding the lit windows. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, five cranes gathered at one nest, large and small together, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to bamboo green and vermilion, letting orange-red appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: glazed ceramic ridge beasts, bronze mirrors set into the walls, polychrome-painted beams, a coffered caisson ceiling, carved red lacquer. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Wind Gallery, so far away it is almost a speck. Along the horizon, the faintest stand of bamboo.
+
+A low sun minutes from setting, raking in from the left gives the scene its direction. Mist round the eaves with lamplight through it. The courtyard pool still, holding the lit windows. Expose bright, let the air glow, keep the shadows open. Somewhere far off, five cranes gathered at one nest, large and small together.
+
+Hold the colour to bamboo green and vermilion, with orange-red only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。风廊，极长的空廊、万千经幡与纱帘、镂空花窗、竹林，占据画面上方，向画面顶部之外继续升高；火殿，长明灯阵、琉璃与铜镜、朱漆廊柱、幽深的内殿，占据画面下方。近景一座灯架压住画面下缘，处在暗部但保留细节；最远处最淡的一片竹影几乎完全消融在光里。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。薄雾绕檐，灯火透之。庭中水池平静，映出窗火。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有5只丹顶鹤，聚于一巢，大小相依，小如尘点，仅用来对照建筑之巨。色调以竹青与朱红为主，仅以橙红点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。风廊，极长的空廊、万千经幡、层叠的檐口，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的火殿上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：琉璃脊兽、铜镜嵌壁、彩画梁枋、藻井、朱漆剔花，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的风廊，远得几乎成点；地平线一带是最淡的一片竹影。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。薄雾绕檐，灯火透之。庭中水池平静，映出窗火。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有5只丹顶鹤，聚于一巢，大小相依，在远处很小。色调以竹青与朱红为主，仅以橙红点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -184,44 +218,56 @@ Hold the colour to bamboo green and vermilion, letting orange-red appear only as
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, an endless colonnade hung with banners towering past the top edge, an open bronze altar under thunderheads far below, a charred bronze pillar dark at the near edge, the faintest stand of bamboo dissolving far off, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, fine rain, water rising slowly, nine cranes descending to receive it as specks for scale, glowing mist as the brightest zone, open shadows, bamboo green and bronze verdigris with pale gold accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, an endless colonnade hung with banners floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, taotie masks cast into the pillar shafts sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, fine rain, bamboo green and bronze verdigris with pale gold accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so high it continues past the upper edge. Lower half, directly beneath it: the Thunder Altar, an open circular altar, bronze chime-bells and bronze pillars, charred timber, a low ceiling of thunderheads. Near foreground: a charred bronze pillar crossing the near edge in shadow, framing the composition. Far distance: nothing but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Thunder Altar, itself a platform floating in open air.
 
-The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. Fine rain, soundless. Water rising slowly, reaching the roots. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place nine cranes descending to receive it, wings slightly open — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: taotie masks cast into the pillar shafts, ranked chime-bells, thunder-pattern door rings, charred timber brackets, a cracked pavement. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Wind Gallery, tiny with distance. Along the horizon band, the faintest stand of bamboo.
+
+The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. Fine rain, soundless. Water rising slowly, reaching the roots. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: nine cranes descending to receive it, wings slightly open.
 
 Palette: bamboo green and bronze verdigris, with pale gold only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a charred bronze pillar crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so far it leaves the frame. Beneath it, the bottom half is the Thunder Altar, an open circular altar, bronze chime-bells and bronze pillars, charred timber, a low ceiling of thunderheads. Furthest back, nothing remains but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Thunder Altar, itself a platform floating in open air.
 
-First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. Fine rain, soundless. Water rising slowly, reaching the roots. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, nine cranes descending to receive it, wings slightly open, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to bamboo green and bronze verdigris, letting pale gold appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: taotie masks cast into the pillar shafts, ranked chime-bells, thunder-pattern door rings, charred timber brackets, a cracked pavement. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Wind Gallery, so far away it is almost a speck. Along the horizon, the faintest stand of bamboo.
+
+First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. Fine rain, soundless. Water rising slowly, reaching the roots. Expose bright, let the air glow, keep the shadows open. Somewhere far off, nine cranes descending to receive it, wings slightly open.
+
+Hold the colour to bamboo green and bronze verdigris, with pale gold only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。风廊，极长的空廊、万千经幡与纱帘、镂空花窗、竹林，占据画面上方，向画面顶部之外继续升高；雷坛，露天圆坛、青铜编钟与铜柱、焦木、低压雷云，占据画面下方。近景一根焦黑的青铜柱压住画面下缘，处在暗部但保留细节；最远处最淡的一片竹影几乎完全消融在光里。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。细雨润泽，无声。水缓缓上涨，润及草木。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有9只丹顶鹤，下降受泽，翅微张，小如尘点，仅用来对照建筑之巨。色调以竹青与青铜绿为主，仅以淡金点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。风廊，极长的空廊、万千经幡、层叠的檐口，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的雷坛上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：饕餮纹柱身、编钟成列、雷纹铺首、焦木斗拱、裂纹坛面，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的风廊，远得几乎成点；地平线一带是最淡的一片竹影。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。细雨润泽，无声。水缓缓上涨，润及草木。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有9只丹顶鹤，下降受泽，翅微张，在远处很小。色调以竹青与青铜绿为主，仅以淡金点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -239,44 +285,56 @@ Hold the colour to bamboo green and bronze verdigris, letting pale gold appear o
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, an endless colonnade hung with banners towering past the top edge, a colossal stone gateway on a cliff far below, a spur of cliff rock dark at the near edge, the faintest stand of bamboo dissolving far off, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, mist withdrawing layer by layer, water crossing the steps one level at a time, seven cranes climbing the stair in strict order as specks for scale, glowing mist as the brightest zone, open shadows, bamboo green and slate grey with pale gold accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, an endless colonnade hung with banners floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, pillars wound with coiled dragons sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, mist withdrawing layer by layer, bamboo green and slate grey with pale gold accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so high it continues past the upper edge. Lower half, directly beneath it: the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele. Near foreground: a spur of cliff rock crossing the near edge in shadow, framing the composition. Far distance: nothing but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Mountain Gate, itself a platform floating in open air.
 
-The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. Mist withdrawing layer by layer. Water crossing the steps one level at a time, pausing at each. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place seven cranes climbing the stair in strict order — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: pillars wound with coiled dragons, drum-shaped gate blocks, a boundary stele in seal script, a carved lintel plaque, ashlar still showing the chisel. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Wind Gallery, tiny with distance. Along the horizon band, the faintest stand of bamboo.
+
+The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. Mist withdrawing layer by layer. Water crossing the steps one level at a time, pausing at each. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: seven cranes climbing the stair in strict order.
 
 Palette: bamboo green and slate grey, with pale gold only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a spur of cliff rock crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so far it leaves the frame. Beneath it, the bottom half is the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele. Furthest back, nothing remains but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Mountain Gate, itself a platform floating in open air.
 
-First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. Mist withdrawing layer by layer. Water crossing the steps one level at a time, pausing at each. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, seven cranes climbing the stair in strict order, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to bamboo green and slate grey, letting pale gold appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: pillars wound with coiled dragons, drum-shaped gate blocks, a boundary stele in seal script, a carved lintel plaque, ashlar still showing the chisel. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Wind Gallery, so far away it is almost a speck. Along the horizon, the faintest stand of bamboo.
+
+First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. Mist withdrawing layer by layer. Water crossing the steps one level at a time, pausing at each. Expose bright, let the air glow, keep the shadows open. Somewhere far off, seven cranes climbing the stair in strict order.
+
+Hold the colour to bamboo green and slate grey, with pale gold only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。风廊，极长的空廊、万千经幡与纱帘、镂空花窗、竹林，占据画面上方，向画面顶部之外继续升高；山门，巨石门阙、绝壁栈道、石阶尽头、苍松与界碑，占据画面下方。近景一道崖壁岩棱压住画面下缘，处在暗部但保留细节；最远处最淡的一片竹影几乎完全消融在光里。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。薄雾一层层次第退去。水逐级漫过石阶，一级一停。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有7只丹顶鹤，列队渐次登阶，小如尘点，仅用来对照建筑之巨。色调以竹青与苍灰为主，仅以淡金点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。风廊，极长的空廊、万千经幡、层叠的檐口，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的山门上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：蟠龙石柱、抱鼓石、界碑篆刻、门额石匾、凿痕未磨的条石，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的风廊，远得几乎成点；地平线一带是最淡的一片竹影。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。薄雾一层层次第退去。水逐级漫过石阶，一级一停。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有7只丹顶鹤，列队渐次登阶，在远处很小。色调以竹青与苍灰为主，仅以淡金点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -294,44 +352,56 @@ Hold the colour to bamboo green and slate grey, letting pale gold appear only as
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, an endless colonnade hung with banners, tier upon tier towering past the top edge, the same realm continuing far below, dark gauze banners dark at the near edge, the faintest stand of bamboo dissolving far off, a high noon sun directly overhead, a long wind through the gallery, the water pressed dead flat by the wind, nine cranes gliding downwind as specks for scale, glowing mist as the brightest zone, open shadows, bamboo green and gauze white with white-hot accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, an endless colonnade hung with banners floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, pierced lattice windows sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a high noon sun directly overhead, a long wind through the gallery, bamboo green and gauze white with white-hot accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Wind Gallery stacked tier upon tier, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, rising so high it continues past the upper edge. Lower half, directly beneath it: the same realm continuing downward, pierced lattice windows, bamboo. Near foreground: dark gauze banners crossing the near edge in shadow, framing the composition. Far distance: nothing but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on a lower tier of the same realm, itself a platform floating in open air.
 
-The directional light is a high noon sun directly overhead. A long wind through the gallery, every banner laid flat. The water pressed dead flat by the wind. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place nine cranes gliding downwind, wings motionless — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: pierced lattice windows, iron wind-bells at the ridge ends, bronze rings for the gauze, shafts cut like bamboo joints, an unbroken carved valance. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Wind Gallery, tiny with distance. Along the horizon band, the faintest stand of bamboo.
+
+The directional light is a high noon sun directly overhead. A long wind through the gallery, every banner laid flat. The water pressed dead flat by the wind. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: nine cranes gliding downwind, wings motionless.
 
 Palette: bamboo green and gauze white, with white-hot only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, dark gauze banners crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Wind Gallery stacked tier upon tier, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, rising so far it leaves the frame. Beneath it, the bottom half is the same realm continuing downward, pierced lattice windows, bamboo. Furthest back, nothing remains but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on a lower tier of the same realm, itself a platform floating in open air.
 
-A high noon sun directly overhead gives the scene its direction. A long wind through the gallery, every banner laid flat. The water pressed dead flat by the wind. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, nine cranes gliding downwind, wings motionless, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to bamboo green and gauze white, letting white-hot appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: pierced lattice windows, iron wind-bells at the ridge ends, bronze rings for the gauze, shafts cut like bamboo joints, an unbroken carved valance. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Wind Gallery, so far away it is almost a speck. Along the horizon, the faintest stand of bamboo.
+
+A high noon sun directly overhead gives the scene its direction. A long wind through the gallery, every banner laid flat. The water pressed dead flat by the wind. Expose bright, let the air glow, keep the shadows open. Somewhere far off, nine cranes gliding downwind, wings motionless.
+
+Hold the colour to bamboo green and gauze white, with white-hot only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。风廊层层向上叠加，极长的空廊、万千经幡与纱帘，占据画面上方，向画面顶部之外继续升高；同一风廊向下层层延伸，镂空花窗、竹林，占据画面下方。近景几幅深色纱幡压住画面下缘，处在暗部但保留细节；最远处最淡的一片竹影几乎完全消融在光里。正午顶光，日在中天，为画面的主光方向。长风贯廊，万幡尽偃。水面被风压得极平。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有9只丹顶鹤，顺风滑翔，翅不动，小如尘点，仅用来对照建筑之巨。色调以竹青与纱白为主，仅以白炽点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。风廊，极长的空廊、万千经幡、层叠的檐口，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的同一风廊的下一层平台上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：镂空花窗、垂脊铁马、纱幔铜环、竹节纹柱、连绵挂落，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的风廊，远得几乎成点；地平线一带是最淡的一片竹影。正午顶光，日在中天，为画面的主光方向。长风贯廊，万幡尽偃。水面被风压得极平。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有9只丹顶鹤，顺风滑翔，翅不动，在远处很小。色调以竹青与纱白为主，仅以白炽点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -349,44 +419,56 @@ Hold the colour to bamboo green and gauze white, letting white-hot appear only a
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, an endless colonnade hung with banners towering past the top edge, a sunken water court around a deep pool far below, wet black rock and a hanging water curtain dark at the near edge, the faintest stand of bamboo dissolving far off, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, high wind driving apart everything that had gathered, water pushed apart, nine cranes scattering as specks for scale, glowing mist as the brightest zone, open shadows, bamboo green and ink blue-black with pale gold accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, an endless colonnade hung with banners floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, marble dragon-head spouts sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, high wind driving apart everything that had gathered, bamboo green and ink blue-black with pale gold accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so high it continues past the upper edge. Lower half, directly beneath it: the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone. Near foreground: wet black rock and a hanging water curtain crossing the near edge in shadow, framing the composition. Far distance: nothing but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Water Court, itself a platform floating in open air.
 
-The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. High wind driving apart everything that had gathered. Water pushed apart, ripples radiating outward. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place nine cranes scattering, no two on the same heading — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: marble dragon-head spouts, balustrade panels cut with the wave-and-cliff motif, moss-stained steps, carved culvert mouths, polished grey brick. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Wind Gallery, tiny with distance. Along the horizon band, the faintest stand of bamboo.
+
+The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. High wind driving apart everything that had gathered. Water pushed apart, ripples radiating outward. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: nine cranes scattering, no two on the same heading.
 
 Palette: bamboo green and ink blue-black, with pale gold only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, wet black rock and a hanging water curtain crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so far it leaves the frame. Beneath it, the bottom half is the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone. Furthest back, nothing remains but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Water Court, itself a platform floating in open air.
 
-First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. High wind driving apart everything that had gathered. Water pushed apart, ripples radiating outward. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, nine cranes scattering, no two on the same heading, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to bamboo green and ink blue-black, letting pale gold appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: marble dragon-head spouts, balustrade panels cut with the wave-and-cliff motif, moss-stained steps, carved culvert mouths, polished grey brick. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Wind Gallery, so far away it is almost a speck. Along the horizon, the faintest stand of bamboo.
+
+First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. High wind driving apart everything that had gathered. Water pushed apart, ripples radiating outward. Expose bright, let the air glow, keep the shadows open. Somewhere far off, nine cranes scattering, no two on the same heading.
+
+Hold the colour to bamboo green and ink blue-black, with pale gold only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。风廊，极长的空廊、万千经幡与纱帘、镂空花窗、竹林，占据画面上方，向画面顶部之外继续升高；水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，占据画面下方。近景湿黑的岩石与一道水帘压住画面下缘，处在暗部但保留细节；最远处最淡的一片竹影几乎完全消融在光里。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。罡风吹散一切聚合之物。水被风推散，纹路四射。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有9只丹顶鹤，四散飞开，无一同向，小如尘点，仅用来对照建筑之巨。色调以竹青与墨青为主，仅以淡金点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。风廊，极长的空廊、万千经幡、层叠的檐口，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的水府上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：螭首吐流、江崖海浪纹栏板、苔痕石阶、暗渠石雕、水磨青砖，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的风廊，远得几乎成点；地平线一带是最淡的一片竹影。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。罡风吹散一切聚合之物。水被风推散，纹路四射。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有9只丹顶鹤，四散飞开，无一同向，在远处很小。色调以竹青与墨青为主，仅以淡金点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -404,42 +486,54 @@ Hold the colour to bamboo green and ink blue-black, letting pale gold appear onl
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, an endless colonnade hung with banners towering past the top edge, a lotus pond with a zigzag bridge far below, dark lotus stems and spent leaves dark at the near edge, the faintest stand of bamboo dissolving far off, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, mist over the marsh carrying the sound, still water in which the sound seems visible, three cranes as specks for scale, glowing mist as the brightest zone, open shadows, bamboo green and lotus pink with pale gold accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, an endless colonnade hung with banners floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, newel posts capped with carved buds sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, mist over the marsh carrying the sound, bamboo green and lotus pink with pale gold accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so high it continues past the upper edge. Lower half, directly beneath it: the Marsh Garden, a lotus pond and zigzag bridge, a water pavilion, a covered walk along the water, lotus and koi. Near foreground: dark lotus stems and spent leaves crossing the near edge in shadow, framing the composition. Far distance: nothing but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Marsh Garden, itself a platform floating in open air.
 
-The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. Mist over the marsh carrying the sound. Still water in which the sound seems visible. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place three cranes, one adult and two chicks, calling and answering — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: newel posts capped with carved buds, balustrade panels in low relief, a carved valance under the eaves, koi worked into the stone, a curved railing bench. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Wind Gallery, tiny with distance. Along the horizon band, the faintest stand of bamboo.
+
+The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. Mist over the marsh carrying the sound. Still water in which the sound seems visible. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: three cranes, one adult and two chicks, calling and answering.
 
 Palette: bamboo green and lotus pink, with pale gold only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, dark lotus stems and spent leaves crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo, rising so far it leaves the frame. Beneath it, the bottom half is the Marsh Garden, a lotus pond and zigzag bridge, a water pavilion, a covered walk along the water, lotus and koi. Furthest back, nothing remains but the faintest stand of bamboo, dissolving into light.
+High above, the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners, tier upon tier of eaves, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Marsh Garden, itself a platform floating in open air.
 
-First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. Mist over the marsh carrying the sound. Still water in which the sound seems visible. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, three cranes, one adult and two chicks, calling and answering, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to bamboo green and lotus pink, letting pale gold appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: newel posts capped with carved buds, balustrade panels in low relief, a carved valance under the eaves, koi worked into the stone, a curved railing bench. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Wind Gallery, so far away it is almost a speck. Along the horizon, the faintest stand of bamboo.
+
+First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. Mist over the marsh carrying the sound. Still water in which the sound seems visible. Expose bright, let the air glow, keep the shadows open. Somewhere far off, three cranes, one adult and two chicks, calling and answering.
+
+Hold the colour to bamboo green and lotus pink, with pale gold only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。风廊，极长的空廊、万千经幡与纱帘、镂空花窗、竹林，占据画面上方，向画面顶部之外继续升高；泽苑，荷池与曲桥、水榭、临水回廊、莲与锦鲤，占据画面下方。近景深色的荷梗与残叶压住画面下缘，处在暗部但保留细节；最远处最淡的一片竹影几乎完全消融在光里。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。薄雾覆泽，声传其中。水静，声纹可见。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有3只丹顶鹤，一大二雏，鸣而相和，小如尘点，仅用来对照建筑之巨。色调以竹青与荷粉为主，仅以淡金点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。风廊，极长的空廊、万千经幡、层叠的檐口，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的泽苑上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：望柱莲花头、栏板浮雕、檐下挂落、锦鲤浮雕、临水美人靠，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的风廊，远得几乎成点；地平线一带是最淡的一片竹影。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。薄雾覆泽，声传其中。水静，声纹可见。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有3只丹顶鹤，一大二雏，鸣而相和，在远处很小。色调以竹青与荷粉为主，仅以淡金点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```

@@ -1,8 +1,6 @@
-# 上卦 乾（☰ 天）· 天阙 the Celestial Gate
+# 上卦 乾（☰ 天）· 天阙 the Celestial Gate — 3:4
 
-本组 8 卦共享同一上境，天阙 的渲染描述批内复用。
-
-发布顺序按序卦，非本文件顺序。
+本组 8 卦共享同一上境。发布顺序按序卦，非本文件顺序。
 
 
 ---
@@ -19,44 +17,56 @@
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a white jade terrace above a sea of clouds, tier upon tier towering past the top edge, the same realm continuing far below, a wind-scoured jade balustrade dark at the near edge, banked cloud heads dissolving far off, a high noon sun directly overhead, crystalline cloudless air, the cloud sea lying flat as a mirror, nine red-crowned cranes flying in formation as specks for scale, glowing mist as the brightest zone, open shadows, gilt gold and cloud white with white-hot accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a white jade terrace above a sea of clouds floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, dragons coiling up the pillars sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a high noon sun directly overhead, crystalline cloudless air, gilt gold and cloud white with white-hot accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Celestial Gate stacked tier upon tier, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, rising so high it continues past the upper edge. Lower half, directly beneath it: the same realm continuing downward, a beamless golden-roofed hall, ceaseless high wind. Near foreground: a wind-scoured jade balustrade crossing the near edge in shadow, framing the composition. Far distance: nothing but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on a lower tier of the same realm, itself a platform floating in open air.
 
-The directional light is a high noon sun directly overhead. Crystalline cloudless air. The cloud sea lying flat as a mirror. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place nine red-crowned cranes flying in formation, never landing — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: dragons coiling up the pillars, layered flying eaves, gilded ridge beasts, balustrade panels cut with swirling vapour scrollwork, painted dougong brackets. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Celestial Gate, tiny with distance. Along the horizon band, banked cloud heads.
+
+The directional light is a high noon sun directly overhead. Crystalline cloudless air. The vapour below lying flat as a mirror. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: nine red-crowned cranes flying in formation, never landing.
 
 Palette: gilt gold and cloud white, with white-hot only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a wind-scoured jade balustrade crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Celestial Gate stacked tier upon tier, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, rising so far it leaves the frame. Beneath it, the bottom half is the same realm continuing downward, a beamless golden-roofed hall, ceaseless high wind. Furthest back, nothing remains but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on a lower tier of the same realm, itself a platform floating in open air.
 
-A high noon sun directly overhead gives the scene its direction. Crystalline cloudless air. The cloud sea lying flat as a mirror. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, nine red-crowned cranes flying in formation, never landing, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to gilt gold and cloud white, letting white-hot appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: dragons coiling up the pillars, layered flying eaves, gilded ridge beasts, balustrade panels cut with swirling vapour scrollwork, painted dougong brackets. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Celestial Gate, so far away it is almost a speck. Along the horizon, banked cloud heads.
+
+A high noon sun directly overhead gives the scene its direction. Crystalline cloudless air. The vapour below lying flat as a mirror. Expose bright, let the air glow, keep the shadows open. Somewhere far off, nine red-crowned cranes flying in formation, never landing.
+
+Hold the colour to gilt gold and cloud white, with white-hot only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。天阙层层向上叠加，云海之上的白玉高台、九重丹陛，占据画面上方，向画面顶部之外继续升高；同一天阙向下层层延伸，无梁金顶、终年不息的罡风，占据画面下方。近景被罡风蚀过的白玉栏杆压住画面下缘，处在暗部但保留细节；最远处层层云头几乎完全消融在光里。正午顶光，日在中天，为画面的主光方向。万里无翳，罡风高天。云海平展如镜，健而不躁。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有9只丹顶鹤，列队高翔，不落，小如尘点，仅用来对照建筑之巨。色调以鎏金与云白为主，仅以白炽点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的同一天阙的下一层平台上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：蟠龙抱柱、层叠飞檐、鎏金脊兽、云气纹栏板、斗拱彩画，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的天阙，远得几乎成点；地平线一带是层层云头。正午顶光，日在中天，为画面的主光方向。万里无翳，罡风高天。云海平展如镜，健而不躁。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有9只丹顶鹤，列队高翔，不落，在远处很小。色调以鎏金与云白为主，仅以白炽点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -74,44 +84,56 @@ Hold the colour to gilt gold and cloud white, letting white-hot appear only as a
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a white jade terrace above a sea of clouds towering past the top edge, a sunken water court around a deep pool far below, wet black rock and a hanging water curtain dark at the near edge, banked cloud heads dissolving far off, a low sun minutes from setting, raking in from the left, high wind above meeting water vapour below, currents colliding head-on, two cranes facing each other as specks for scale, glowing mist as the brightest zone, open shadows, gilt gold and ink blue-black with orange-red accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a white jade terrace above a sea of clouds floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, marble dragon-head spouts sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a low sun minutes from setting, raking in from the left, high wind above meeting water vapour below, gilt gold and ink blue-black with orange-red accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so high it continues past the upper edge. Lower half, directly beneath it: the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone. Near foreground: wet black rock and a hanging water curtain crossing the near edge in shadow, framing the composition. Far distance: nothing but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Water Court, itself a platform floating in open air.
 
-The directional light is a low sun minutes from setting, raking in from the left. High wind above meeting water vapour below. Currents colliding head-on, ripples crossing. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place two cranes facing each other, wings half spread — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: marble dragon-head spouts, balustrade panels cut with the wave-and-cliff motif, moss-stained steps, carved culvert mouths, polished grey brick. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Celestial Gate, tiny with distance. Along the horizon band, banked cloud heads.
+
+The directional light is a low sun minutes from setting, raking in from the left. High wind above meeting water vapour below. Currents colliding head-on, ripples crossing. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: two cranes facing each other, wings half spread.
 
 Palette: gilt gold and ink blue-black, with orange-red only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, wet black rock and a hanging water curtain crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so far it leaves the frame. Beneath it, the bottom half is the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone. Furthest back, nothing remains but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Water Court, itself a platform floating in open air.
 
-A low sun minutes from setting, raking in from the left gives the scene its direction. High wind above meeting water vapour below. Currents colliding head-on, ripples crossing. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, two cranes facing each other, wings half spread, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to gilt gold and ink blue-black, letting orange-red appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: marble dragon-head spouts, balustrade panels cut with the wave-and-cliff motif, moss-stained steps, carved culvert mouths, polished grey brick. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Celestial Gate, so far away it is almost a speck. Along the horizon, banked cloud heads.
+
+A low sun minutes from setting, raking in from the left gives the scene its direction. High wind above meeting water vapour below. Currents colliding head-on, ripples crossing. Expose bright, let the air glow, keep the shadows open. Somewhere far off, two cranes facing each other, wings half spread.
+
+Hold the colour to gilt gold and ink blue-black, with orange-red only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，占据画面上方，向画面顶部之外继续升高；水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，占据画面下方。近景湿黑的岩石与一道水帘压住画面下缘，处在暗部但保留细节；最远处层层云头几乎完全消融在光里。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。高处罡风与低处水气相激。逆流相冲，水纹对撞。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有2只丹顶鹤，相向对峙，翅半张，小如尘点，仅用来对照建筑之巨。色调以鎏金与墨青为主，仅以橙红点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的水府上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：螭首吐流、江崖海浪纹栏板、苔痕石阶、暗渠石雕、水磨青砖，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的天阙，远得几乎成点；地平线一带是层层云头。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。高处罡风与低处水气相激。逆流相冲，水纹对撞。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有2只丹顶鹤，相向对峙，翅半张，在远处很小。色调以鎏金与墨青为主，仅以橙红点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -129,44 +151,56 @@ Hold the colour to gilt gold and ink blue-black, letting orange-red appear only 
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a white jade terrace above a sea of clouds towering past the top edge, a lotus pond with a zigzag bridge far below, dark lotus stems and spent leaves dark at the near edge, banked cloud heads dissolving far off, a high noon sun directly overhead, clear and windless, water stilled to the hardness of ice, one crane stepping carefully across the mirrored water as specks for scale, glowing mist as the brightest zone, open shadows, gilt gold and lotus pink with white-hot accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a white jade terrace above a sea of clouds floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, newel posts capped with carved buds sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a high noon sun directly overhead, clear and windless, gilt gold and lotus pink with white-hot accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so high it continues past the upper edge. Lower half, directly beneath it: the Marsh Garden, a lotus pond and zigzag bridge, a water pavilion, a covered walk along the water, lotus and koi. Near foreground: dark lotus stems and spent leaves crossing the near edge in shadow, framing the composition. Far distance: nothing but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Marsh Garden, itself a platform floating in open air.
 
-The directional light is a high noon sun directly overhead. Clear and windless. Water stilled to the hardness of ice. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place one crane stepping carefully across the mirrored water — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: newel posts capped with carved buds, balustrade panels in low relief, a carved valance under the eaves, koi worked into the stone, a curved railing bench. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Celestial Gate, tiny with distance. Along the horizon band, banked cloud heads.
+
+The directional light is a high noon sun directly overhead. Clear and windless. Water stilled to the hardness of ice. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: one crane stepping carefully across the mirrored water.
 
 Palette: gilt gold and lotus pink, with white-hot only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, dark lotus stems and spent leaves crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so far it leaves the frame. Beneath it, the bottom half is the Marsh Garden, a lotus pond and zigzag bridge, a water pavilion, a covered walk along the water, lotus and koi. Furthest back, nothing remains but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Marsh Garden, itself a platform floating in open air.
 
-A high noon sun directly overhead gives the scene its direction. Clear and windless. Water stilled to the hardness of ice. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, one crane stepping carefully across the mirrored water, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to gilt gold and lotus pink, letting white-hot appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: newel posts capped with carved buds, balustrade panels in low relief, a carved valance under the eaves, koi worked into the stone, a curved railing bench. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Celestial Gate, so far away it is almost a speck. Along the horizon, banked cloud heads.
+
+A high noon sun directly overhead gives the scene its direction. Clear and windless. Water stilled to the hardness of ice. Expose bright, let the air glow, keep the shadows open. Somewhere far off, one crane stepping carefully across the mirrored water.
+
+Hold the colour to gilt gold and lotus pink, with white-hot only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，占据画面上方，向画面顶部之外继续升高；泽苑，荷池与曲桥、水榭、临水回廊、莲与锦鲤，占据画面下方。近景深色的荷梗与残叶压住画面下缘，处在暗部但保留细节；最远处层层云头几乎完全消融在光里。正午顶光，日在中天，为画面的主光方向。天清气朗，风止。水面凝止，如可履之冰。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，缓步于镜面水上，小如尘点，仅用来对照建筑之巨。色调以鎏金与荷粉为主，仅以白炽点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的泽苑上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：望柱莲花头、栏板浮雕、檐下挂落、锦鲤浮雕、临水美人靠，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的天阙，远得几乎成点；地平线一带是层层云头。正午顶光，日在中天，为画面的主光方向。天清气朗，风止。水面凝止，如可履之冰。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，缓步于镜面水上，在远处很小。色调以鎏金与荷粉为主，仅以白炽点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -184,44 +218,56 @@ Hold the colour to gilt gold and lotus pink, letting white-hot appear only as an
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a white jade terrace above a sea of clouds towering past the top edge, rammed-earth terraces stepped like paddy fields far below, a rammed-earth parapet dark at the near edge, banked cloud heads dissolving far off, a low sun minutes from setting, raking in from the left, a dead layer of cloud sealing the middle, the water below run dry, a single crane trapped below as specks for scale, glowing mist as the brightest zone, open shadows, gilt gold and ochre yellow with orange-red accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a white jade terrace above a sea of clouds floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, grain-patterned fired brick sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a low sun minutes from setting, raking in from the left, a dead layer of cloud sealing the middle, gilt gold and ochre yellow with orange-red accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so high it continues past the upper edge. Lower half, directly beneath it: the Earthen Palace, rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos. Near foreground: a rammed-earth parapet crossing the near edge in shadow, framing the composition. Far distance: nothing but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Earthen Palace, itself a platform floating in open air.
 
-The directional light is a low sun minutes from setting, raking in from the left. A dead layer of cloud sealing the middle, above and below cut apart. The water below run dry, nothing descending from above. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place a single crane trapped below, looking up and unable to rise — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: grain-patterned fired brick, plain column bases, square unpainted beams, undecorated parapets, visible tamping seams. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Celestial Gate, tiny with distance. Along the horizon band, banked cloud heads.
+
+The directional light is a low sun minutes from setting, raking in from the left. A dead layer of cloud sealing the middle, above and below cut apart. The water below run dry, nothing descending from above. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: a single crane trapped below, looking up and unable to rise.
 
 Palette: gilt gold and ochre yellow, with orange-red only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a rammed-earth parapet crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so far it leaves the frame. Beneath it, the bottom half is the Earthen Palace, rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos. Furthest back, nothing remains but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Earthen Palace, itself a platform floating in open air.
 
-A low sun minutes from setting, raking in from the left gives the scene its direction. A dead layer of cloud sealing the middle, above and below cut apart. The water below run dry, nothing descending from above. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, a single crane trapped below, looking up and unable to rise, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to gilt gold and ochre yellow, letting orange-red appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: grain-patterned fired brick, plain column bases, square unpainted beams, undecorated parapets, visible tamping seams. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Celestial Gate, so far away it is almost a speck. Along the horizon, banked cloud heads.
+
+A low sun minutes from setting, raking in from the left gives the scene its direction. A dead layer of cloud sealing the middle, above and below cut apart. The water below run dry, nothing descending from above. Expose bright, let the air glow, keep the shadows open. Somewhere far off, a single crane trapped below, looking up and unable to rise.
+
+Hold the colour to gilt gold and ochre yellow, with orange-red only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，占据画面上方，向画面顶部之外继续升高；地宫，夯土层台、梯田式庭院、藏于山腹的暗殿、陶砖与粟囷，占据画面下方。近景一道夯土矮墙压住画面下缘，处在暗部但保留细节；最远处层层云头几乎完全消融在光里。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。一层死云横亘中际，上下隔绝。下方水尽见底，上方不下泽。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，困于下方，仰视不得上，小如尘点，仅用来对照建筑之巨。色调以鎏金与赭黄为主，仅以橙红点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的地宫上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：粟纹陶砖、素面石础、方直梁枋、无纹平栏、夯痕层叠，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的天阙，远得几乎成点；地平线一带是层层云头。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。一层死云横亘中际，上下隔绝。下方水尽见底，上方不下泽。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，困于下方，仰视不得上，在远处很小。色调以鎏金与赭黄为主，仅以橙红点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -239,44 +285,56 @@ Hold the colour to gilt gold and ochre yellow, letting orange-red appear only as
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a white jade terrace above a sea of clouds towering past the top edge, a hall of eternal lamps and vermilion columns far below, a lamp stand dark at the near edge, banked cloud heads dissolving far off, a high noon sun directly overhead, clear sky, still water reflecting one shared sky, nine cranes converging on one point from every direction as specks for scale, glowing mist as the brightest zone, open shadows, gilt gold and vermilion with white-hot accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a white jade terrace above a sea of clouds floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, glazed ceramic ridge beasts sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a high noon sun directly overhead, clear sky, gilt gold and vermilion with white-hot accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so high it continues past the upper edge. Lower half, directly beneath it: the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, a deep inner hall. Near foreground: a lamp stand crossing the near edge in shadow, framing the composition. Far distance: nothing but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Flame Hall, itself a platform floating in open air.
 
-The directional light is a high noon sun directly overhead. Clear sky, fire and heaven mirroring each other. Still water reflecting one shared sky. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place nine cranes converging on one point from every direction — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: glazed ceramic ridge beasts, bronze mirrors set into the walls, polychrome-painted beams, a coffered caisson ceiling, carved red lacquer. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Celestial Gate, tiny with distance. Along the horizon band, banked cloud heads.
+
+The directional light is a high noon sun directly overhead. Clear sky, fire and heaven mirroring each other. Still water reflecting one shared sky. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: nine cranes converging on one point from every direction.
 
 Palette: gilt gold and vermilion, with white-hot only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a lamp stand crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so far it leaves the frame. Beneath it, the bottom half is the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, a deep inner hall. Furthest back, nothing remains but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Flame Hall, itself a platform floating in open air.
 
-A high noon sun directly overhead gives the scene its direction. Clear sky, fire and heaven mirroring each other. Still water reflecting one shared sky. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, nine cranes converging on one point from every direction, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to gilt gold and vermilion, letting white-hot appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: glazed ceramic ridge beasts, bronze mirrors set into the walls, polychrome-painted beams, a coffered caisson ceiling, carved red lacquer. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Celestial Gate, so far away it is almost a speck. Along the horizon, banked cloud heads.
+
+A high noon sun directly overhead gives the scene its direction. Clear sky, fire and heaven mirroring each other. Still water reflecting one shared sky. Expose bright, let the air glow, keep the shadows open. Somewhere far off, nine cranes converging on one point from every direction.
+
+Hold the colour to gilt gold and vermilion, with white-hot only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，占据画面上方，向画面顶部之外继续升高；火殿，长明灯阵、琉璃与铜镜、朱漆廊柱、幽深的内殿，占据画面下方。近景一座灯架压住画面下缘，处在暗部但保留细节；最远处层层云头几乎完全消融在光里。正午顶光，日在中天，为画面的主光方向。天火相映，长空无云。水面静而共映一天。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有9只丹顶鹤，自四方会于一处，小如尘点，仅用来对照建筑之巨。色调以鎏金与朱红为主，仅以白炽点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的火殿上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：琉璃脊兽、铜镜嵌壁、彩画梁枋、藻井、朱漆剔花，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的天阙，远得几乎成点；地平线一带是层层云头。正午顶光，日在中天，为画面的主光方向。天火相映，长空无云。水面静而共映一天。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有9只丹顶鹤，自四方会于一处，在远处很小。色调以鎏金与朱红为主，仅以白炽点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -294,44 +352,56 @@ Hold the colour to gilt gold and vermilion, letting white-hot appear only as an 
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a white jade terrace above a sea of clouds towering past the top edge, an open bronze altar under thunderheads far below, a charred bronze pillar dark at the near edge, banked cloud heads dissolving far off, a high noon sun directly overhead, thunder and rain arriving abruptly, water surging up brown from nowhere, nine cranes startled into flight in all directions as specks for scale, glowing mist as the brightest zone, open shadows, gilt gold and bronze verdigris with white-hot accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a white jade terrace above a sea of clouds floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, taotie masks cast into the pillar shafts sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a high noon sun directly overhead, thunder and rain arriving abruptly, gilt gold and bronze verdigris with white-hot accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so high it continues past the upper edge. Lower half, directly beneath it: the Thunder Altar, an open circular altar, bronze chime-bells and bronze pillars, charred timber, a low ceiling of thunderheads. Near foreground: a charred bronze pillar crossing the near edge in shadow, framing the composition. Far distance: nothing but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Thunder Altar, itself a platform floating in open air.
 
-The directional light is a high noon sun directly overhead. Thunder and rain arriving abruptly, cloud like a lid. Water surging up brown from nowhere. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place nine cranes startled into flight in all directions — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: taotie masks cast into the pillar shafts, ranked chime-bells, thunder-pattern door rings, charred timber brackets, a cracked pavement. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Celestial Gate, tiny with distance. Along the horizon band, banked cloud heads.
+
+The directional light is a high noon sun directly overhead. Thunder and rain arriving abruptly, cloud like a lid. Water surging up brown from nowhere. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: nine cranes startled into flight in all directions.
 
 Palette: gilt gold and bronze verdigris, with white-hot only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a charred bronze pillar crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so far it leaves the frame. Beneath it, the bottom half is the Thunder Altar, an open circular altar, bronze chime-bells and bronze pillars, charred timber, a low ceiling of thunderheads. Furthest back, nothing remains but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Thunder Altar, itself a platform floating in open air.
 
-A high noon sun directly overhead gives the scene its direction. Thunder and rain arriving abruptly, cloud like a lid. Water surging up brown from nowhere. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, nine cranes startled into flight in all directions, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to gilt gold and bronze verdigris, letting white-hot appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: taotie masks cast into the pillar shafts, ranked chime-bells, thunder-pattern door rings, charred timber brackets, a cracked pavement. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Celestial Gate, so far away it is almost a speck. Along the horizon, banked cloud heads.
+
+A high noon sun directly overhead gives the scene its direction. Thunder and rain arriving abruptly, cloud like a lid. Water surging up brown from nowhere. Expose bright, let the air glow, keep the shadows open. Somewhere far off, nine cranes startled into flight in all directions.
+
+Hold the colour to gilt gold and bronze verdigris, with white-hot only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，占据画面上方，向画面顶部之外继续升高；雷坛，露天圆坛、青铜编钟与铜柱、焦木、低压雷云，占据画面下方。近景一根焦黑的青铜柱压住画面下缘，处在暗部但保留细节；最远处层层云头几乎完全消融在光里。正午顶光，日在中天，为画面的主光方向。雷雨骤至，云压如盖。水暴涨而浊，来势无端。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有9只丹顶鹤，惊起四散，小如尘点，仅用来对照建筑之巨。色调以鎏金与青铜绿为主，仅以白炽点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的雷坛上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：饕餮纹柱身、编钟成列、雷纹铺首、焦木斗拱、裂纹坛面，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的天阙，远得几乎成点；地平线一带是层层云头。正午顶光，日在中天，为画面的主光方向。雷雨骤至，云压如盖。水暴涨而浊，来势无端。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有9只丹顶鹤，惊起四散，在远处很小。色调以鎏金与青铜绿为主，仅以白炽点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -349,44 +419,56 @@ Hold the colour to gilt gold and bronze verdigris, letting white-hot appear only
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a white jade terrace above a sea of clouds towering past the top edge, a colossal stone gateway on a cliff far below, a spur of cliff rock dark at the near edge, banked cloud heads dissolving far off, a low sun minutes from setting, raking in from the left, mist pouring from the mountain mouth and hiding its shape, water gone into the rock, one crane withdrawing into the mountain shadow as specks for scale, glowing mist as the brightest zone, open shadows, gilt gold and slate grey with orange-red accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a white jade terrace above a sea of clouds floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, pillars wound with coiled dragons sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a low sun minutes from setting, raking in from the left, mist pouring from the mountain mouth and hiding its shape, gilt gold and slate grey with orange-red accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so high it continues past the upper edge. Lower half, directly beneath it: the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele. Near foreground: a spur of cliff rock crossing the near edge in shadow, framing the composition. Far distance: nothing but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Mountain Gate, itself a platform floating in open air.
 
-The directional light is a low sun minutes from setting, raking in from the left. Mist pouring from the mountain mouth and hiding its shape. Water gone into the rock, only damp remaining. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place one crane withdrawing into the mountain shadow, half gone already — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: pillars wound with coiled dragons, drum-shaped gate blocks, a boundary stele in seal script, a carved lintel plaque, ashlar still showing the chisel. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Celestial Gate, tiny with distance. Along the horizon band, banked cloud heads.
+
+The directional light is a low sun minutes from setting, raking in from the left. Mist pouring from the mountain mouth and hiding its shape. Water gone into the rock, only damp remaining. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: one crane withdrawing into the mountain shadow, half gone already.
 
 Palette: gilt gold and slate grey, with orange-red only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a spur of cliff rock crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so far it leaves the frame. Beneath it, the bottom half is the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele. Furthest back, nothing remains but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Mountain Gate, itself a platform floating in open air.
 
-A low sun minutes from setting, raking in from the left gives the scene its direction. Mist pouring from the mountain mouth and hiding its shape. Water gone into the rock, only damp remaining. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, one crane withdrawing into the mountain shadow, half gone already, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to gilt gold and slate grey, letting orange-red appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: pillars wound with coiled dragons, drum-shaped gate blocks, a boundary stele in seal script, a carved lintel plaque, ashlar still showing the chisel. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Celestial Gate, so far away it is almost a speck. Along the horizon, banked cloud heads.
+
+A low sun minutes from setting, raking in from the left gives the scene its direction. Mist pouring from the mountain mouth and hiding its shape. Water gone into the rock, only damp remaining. Expose bright, let the air glow, keep the shadows open. Somewhere far off, one crane withdrawing into the mountain shadow, half gone already.
+
+Hold the colour to gilt gold and slate grey, with orange-red only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，占据画面上方，向画面顶部之外继续升高；山门，巨石门阙、绝壁栈道、石阶尽头、苍松与界碑，占据画面下方。近景一道崖壁岩棱压住画面下缘，处在暗部但保留细节；最远处层层云头几乎完全消融在光里。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。薄雾自山口涌出掩其形。水退入岩隙，仅余湿痕。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，退入山影，半身已隐，小如尘点，仅用来对照建筑之巨。色调以鎏金与苍灰为主，仅以橙红点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的山门上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：蟠龙石柱、抱鼓石、界碑篆刻、门额石匾、凿痕未磨的条石，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的天阙，远得几乎成点；地平线一带是层层云头。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。薄雾自山口涌出掩其形。水退入岩隙，仅余湿痕。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，退入山影，半身已隐，在远处很小。色调以鎏金与苍灰为主，仅以橙红点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -404,42 +486,54 @@ Hold the colour to gilt gold and slate grey, letting orange-red appear only as a
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a white jade terrace above a sea of clouds towering past the top edge, an endless colonnade hung with banners far below, dark gauze banners dark at the near edge, banked cloud heads dissolving far off, a low sun minutes from setting, raking in from the left, wind starting at floor level, one fine line opening across the still water, one crane meeting a single dark bird it did not expect as specks for scale, glowing mist as the brightest zone, open shadows, gilt gold and bamboo green with orange-red accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a white jade terrace above a sea of clouds floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, pierced lattice windows sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a low sun minutes from setting, raking in from the left, wind starting at floor level, gilt gold and bamboo green with orange-red accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so high it continues past the upper edge. Lower half, directly beneath it: the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo. Near foreground: dark gauze banners crossing the near edge in shadow, framing the composition. Far distance: nothing but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Wind Gallery, itself a platform floating in open air.
 
-The directional light is a low sun minutes from setting, raking in from the left. Wind starting at floor level, the hanging banners just stirring. One fine line opening across the still water. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place one crane meeting a single dark bird it did not expect — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: pierced lattice windows, iron wind-bells at the ridge ends, bronze rings for the gauze, shafts cut like bamboo joints, an unbroken carved valance. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Celestial Gate, tiny with distance. Along the horizon band, banked cloud heads.
+
+The directional light is a low sun minutes from setting, raking in from the left. Wind starting at floor level, the hanging banners just stirring. One fine line opening across the still water. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: one crane meeting a single dark bird it did not expect.
 
 Palette: gilt gold and bamboo green, with orange-red only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, dark gauze banners crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, rising so far it leaves the frame. Beneath it, the bottom half is the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo. Furthest back, nothing remains but banked cloud heads, dissolving into light.
+High above, the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Wind Gallery, itself a platform floating in open air.
 
-A low sun minutes from setting, raking in from the left gives the scene its direction. Wind starting at floor level, the hanging banners just stirring. One fine line opening across the still water. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, one crane meeting a single dark bird it did not expect, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to gilt gold and bamboo green, letting orange-red appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: pierced lattice windows, iron wind-bells at the ridge ends, bronze rings for the gauze, shafts cut like bamboo joints, an unbroken carved valance. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Celestial Gate, so far away it is almost a speck. Along the horizon, banked cloud heads.
+
+A low sun minutes from setting, raking in from the left gives the scene its direction. Wind starting at floor level, the hanging banners just stirring. One fine line opening across the still water. Expose bright, let the air glow, keep the shadows open. Somewhere far off, one crane meeting a single dark bird it did not expect.
+
+Hold the colour to gilt gold and bamboo green, with orange-red only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，占据画面上方，向画面顶部之外继续升高；风廊，极长的空廊、万千经幡与纱帘、镂空花窗、竹林，占据画面下方。近景几幅深色纱幡压住画面下缘，处在暗部但保留细节；最远处层层云头几乎完全消融在光里。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。风起于廊底，幡帘微动。水面初起一道细纹。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，与一只玄鸟不期而遇，小如尘点，仅用来对照建筑之巨。色调以鎏金与竹青为主，仅以橙红点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的风廊上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：镂空花窗、垂脊铁马、纱幔铜环、竹节纹柱、连绵挂落，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的天阙，远得几乎成点；地平线一带是层层云头。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。风起于廊底，幡帘微动。水面初起一道细纹。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，与一只玄鸟不期而遇，在远处很小。色调以鎏金与竹青为主，仅以橙红点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```

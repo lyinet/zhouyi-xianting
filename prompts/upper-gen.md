@@ -1,8 +1,6 @@
-# 上卦 艮（☶ 山）· 山门 the Mountain Gate
+# 上卦 艮（☶ 山）· 山门 the Mountain Gate — 3:4
 
-本组 8 卦共享同一上境，山门 的渲染描述批内复用。
-
-发布顺序按序卦，非本文件顺序。
+本组 8 卦共享同一上境。发布顺序按序卦，非本文件顺序。
 
 
 ---
@@ -19,44 +17,56 @@
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a colossal stone gateway on a cliff towering past the top edge, a sunken water court around a deep pool far below, wet black rock and a hanging water curtain dark at the near edge, a bare ridgeline dissolving far off, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, dense fog sealing the valley, a newborn spring seeping out from under the mountain, one young crane testing its footing at the spring as specks for scale, glowing mist as the brightest zone, open shadows, slate grey and ink blue-black with pale gold accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a colossal stone gateway on a cliff floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, marble dragon-head spouts sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, dense fog sealing the valley, slate grey and ink blue-black with pale gold accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so high it continues past the upper edge. Lower half, directly beneath it: the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone. Near foreground: wet black rock and a hanging water curtain crossing the near edge in shadow, framing the composition. Far distance: nothing but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Water Court, itself a platform floating in open air.
 
-The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. Dense fog sealing the valley. A newborn spring seeping out from under the mountain. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place one young crane testing its footing at the spring — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: marble dragon-head spouts, balustrade panels cut with the wave-and-cliff motif, moss-stained steps, carved culvert mouths, polished grey brick. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Mountain Gate, tiny with distance. Along the horizon band, a bare ridgeline.
+
+The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. Dense fog sealing the valley. A newborn spring seeping out from under the mountain. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: one young crane testing its footing at the spring.
 
 Palette: slate grey and ink blue-black, with pale gold only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, wet black rock and a hanging water curtain crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so far it leaves the frame. Beneath it, the bottom half is the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone. Furthest back, nothing remains but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Water Court, itself a platform floating in open air.
 
-First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. Dense fog sealing the valley. A newborn spring seeping out from under the mountain. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, one young crane testing its footing at the spring, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to slate grey and ink blue-black, letting pale gold appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: marble dragon-head spouts, balustrade panels cut with the wave-and-cliff motif, moss-stained steps, carved culvert mouths, polished grey brick. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Mountain Gate, so far away it is almost a speck. Along the horizon, a bare ridgeline.
+
+First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. Dense fog sealing the valley. A newborn spring seeping out from under the mountain. Expose bright, let the air glow, keep the shadows open. Somewhere far off, one young crane testing its footing at the spring.
+
+Hold the colour to slate grey and ink blue-black, with pale gold only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。山门，巨石门阙、绝壁栈道、石阶尽头、苍松与界碑，占据画面上方，向画面顶部之外继续升高；水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，占据画面下方。近景湿黑的岩石与一道水帘压住画面下缘，处在暗部但保留细节；最远处裸露的山脊线几乎完全消融在光里。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。浓雾锁谷，十步不辨。山下初出之泉，细流渐盈。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，幼鹤试步于泉边，小如尘点，仅用来对照建筑之巨。色调以苍灰与墨青为主，仅以淡金点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。山门，巨石门阙、绝壁栈道、石阶尽头、苍松，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的水府上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：螭首吐流、江崖海浪纹栏板、苔痕石阶、暗渠石雕、水磨青砖，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的山门，远得几乎成点；地平线一带是裸露的山脊线。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。浓雾锁谷，十步不辨。山下初出之泉，细流渐盈。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，幼鹤试步于泉边，在远处很小。色调以苍灰与墨青为主，仅以淡金点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -74,44 +84,56 @@ Hold the colour to slate grey and ink blue-black, letting pale gold appear only 
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a colossal stone gateway on a cliff towering past the top edge, an endless colonnade hung with banners far below, dark gauze banners dark at the near edge, a bare ridgeline dissolving far off, moonlight from high on the left, stagnant fog that will not lift, water rotted down to the bed, one crane standing alone among ruined lotus as specks for scale, glowing mist as the brightest zone, open shadows, slate grey and bamboo green with moon silver accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a colossal stone gateway on a cliff floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, pierced lattice windows sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, moonlight from high on the left, stagnant fog that will not lift, slate grey and bamboo green with moon silver accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so high it continues past the upper edge. Lower half, directly beneath it: the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo. Near foreground: dark gauze banners crossing the near edge in shadow, framing the composition. Far distance: nothing but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Wind Gallery, itself a platform floating in open air.
 
-The directional light is moonlight from high on the left. Stagnant fog that will not lift. Water rotted down to the bed, lotus collapsed into mud. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place one crane standing alone among ruined lotus — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: pierced lattice windows, iron wind-bells at the ridge ends, bronze rings for the gauze, shafts cut like bamboo joints, an unbroken carved valance. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Mountain Gate, tiny with distance. Along the horizon band, a bare ridgeline.
+
+The directional light is moonlight from high on the left. Stagnant fog that will not lift. Water rotted down to the bed, lotus collapsed into mud. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: one crane standing alone among ruined lotus.
 
 Palette: slate grey and bamboo green, with moon silver only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, dark gauze banners crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so far it leaves the frame. Beneath it, the bottom half is the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo. Furthest back, nothing remains but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Wind Gallery, itself a platform floating in open air.
 
-Moonlight from high on the left gives the scene its direction. Stagnant fog that will not lift. Water rotted down to the bed, lotus collapsed into mud. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, one crane standing alone among ruined lotus, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to slate grey and bamboo green, letting moon silver appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: pierced lattice windows, iron wind-bells at the ridge ends, bronze rings for the gauze, shafts cut like bamboo joints, an unbroken carved valance. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Mountain Gate, so far away it is almost a speck. Along the horizon, a bare ridgeline.
+
+Moonlight from high on the left gives the scene its direction. Stagnant fog that will not lift. Water rotted down to the bed, lotus collapsed into mud. Expose bright, let the air glow, keep the shadows open. Somewhere far off, one crane standing alone among ruined lotus.
+
+Hold the colour to slate grey and bamboo green, with moon silver only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。山门，巨石门阙、绝壁栈道、石阶尽头、苍松与界碑，占据画面上方，向画面顶部之外继续升高；风廊，极长的空廊、万千经幡与纱帘、镂空花窗、竹林，占据画面下方。近景几幅深色纱幡压住画面下缘，处在暗部但保留细节；最远处裸露的山脊线几乎完全消融在光里。夜色，月光自左上斜下，为画面的主光方向。浓雾滞而不散，气味沉积。水腐见底，败荷委泥。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，独立败荷之间，小如尘点，仅用来对照建筑之巨。色调以苍灰与竹青为主，仅以月银点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。山门，巨石门阙、绝壁栈道、石阶尽头、苍松，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的风廊上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：镂空花窗、垂脊铁马、纱幔铜环、竹节纹柱、连绵挂落，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的山门，远得几乎成点；地平线一带是裸露的山脊线。夜色，月光自左上斜下，为画面的主光方向。浓雾滞而不散，气味沉积。水腐见底，败荷委泥。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，独立败荷之间，在远处很小。色调以苍灰与竹青为主，仅以月银点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -129,44 +151,56 @@ Hold the colour to slate grey and bamboo green, letting moon silver appear only 
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a colossal stone gateway on a cliff towering past the top edge, a hall of eternal lamps and vermilion columns far below, a lamp stand dark at the near edge, a bare ridgeline dissolving far off, a low sun minutes from setting, raking in from the left, thin mist carrying the afterglow, still water doubling every ornament, two cranes facing their own reflections as specks for scale, glowing mist as the brightest zone, open shadows, slate grey and vermilion with orange-red accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a colossal stone gateway on a cliff floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, glazed ceramic ridge beasts sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a low sun minutes from setting, raking in from the left, thin mist carrying the afterglow, slate grey and vermilion with orange-red accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so high it continues past the upper edge. Lower half, directly beneath it: the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, a deep inner hall. Near foreground: a lamp stand crossing the near edge in shadow, framing the composition. Far distance: nothing but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Flame Hall, itself a platform floating in open air.
 
-The directional light is a low sun minutes from setting, raking in from the left. Thin mist carrying the afterglow, colouring everything. Still water doubling every ornament. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place two cranes facing their own reflections — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: glazed ceramic ridge beasts, bronze mirrors set into the walls, polychrome-painted beams, a coffered caisson ceiling, carved red lacquer. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Mountain Gate, tiny with distance. Along the horizon band, a bare ridgeline.
+
+The directional light is a low sun minutes from setting, raking in from the left. Thin mist carrying the afterglow, colouring everything. Still water doubling every ornament. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: two cranes facing their own reflections.
 
 Palette: slate grey and vermilion, with orange-red only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a lamp stand crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so far it leaves the frame. Beneath it, the bottom half is the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, a deep inner hall. Furthest back, nothing remains but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Flame Hall, itself a platform floating in open air.
 
-A low sun minutes from setting, raking in from the left gives the scene its direction. Thin mist carrying the afterglow, colouring everything. Still water doubling every ornament. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, two cranes facing their own reflections, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to slate grey and vermilion, letting orange-red appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: glazed ceramic ridge beasts, bronze mirrors set into the walls, polychrome-painted beams, a coffered caisson ceiling, carved red lacquer. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Mountain Gate, so far away it is almost a speck. Along the horizon, a bare ridgeline.
+
+A low sun minutes from setting, raking in from the left gives the scene its direction. Thin mist carrying the afterglow, colouring everything. Still water doubling every ornament. Expose bright, let the air glow, keep the shadows open. Somewhere far off, two cranes facing their own reflections.
+
+Hold the colour to slate grey and vermilion, with orange-red only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。山门，巨石门阙、绝壁栈道、石阶尽头、苍松与界碑，占据画面上方，向画面顶部之外继续升高；火殿，长明灯阵、琉璃与铜镜、朱漆廊柱、幽深的内殿，占据画面下方。近景一座灯架压住画面下缘，处在暗部但保留细节；最远处裸露的山脊线几乎完全消融在光里。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。薄雾承霞，物皆着色。水面如镜，倒影成双重华饰。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有2只丹顶鹤，与水中倒影相对，小如尘点，仅用来对照建筑之巨。色调以苍灰与朱红为主，仅以橙红点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。山门，巨石门阙、绝壁栈道、石阶尽头、苍松，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的火殿上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：琉璃脊兽、铜镜嵌壁、彩画梁枋、藻井、朱漆剔花，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的山门，远得几乎成点；地平线一带是裸露的山脊线。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。薄雾承霞，物皆着色。水面如镜，倒影成双重华饰。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有2只丹顶鹤，与水中倒影相对，在远处很小。色调以苍灰与朱红为主，仅以橙红点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -184,44 +218,56 @@ Hold the colour to slate grey and vermilion, letting orange-red appear only as a
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a colossal stone gateway on a cliff towering past the top edge, rammed-earth terraces stepped like paddy fields far below, a rammed-earth parapet dark at the near edge, a bare ridgeline dissolving far off, a low sun minutes from setting, raking in from the left, fine snow falling, water withdrawn, one crane on steps that are beginning to give way as specks for scale, glowing mist as the brightest zone, open shadows, slate grey and ochre yellow with orange-red accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a colossal stone gateway on a cliff floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, grain-patterned fired brick sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a low sun minutes from setting, raking in from the left, fine snow falling, slate grey and ochre yellow with orange-red accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so high it continues past the upper edge. Lower half, directly beneath it: the Earthen Palace, rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos. Near foreground: a rammed-earth parapet crossing the near edge in shadow, framing the composition. Far distance: nothing but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Earthen Palace, itself a platform floating in open air.
 
-The directional light is a low sun minutes from setting, raking in from the left. Fine snow falling, not yet settling. Water withdrawn, the foundations bared. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place one crane on steps that are beginning to give way — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: grain-patterned fired brick, plain column bases, square unpainted beams, undecorated parapets, visible tamping seams. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Mountain Gate, tiny with distance. Along the horizon band, a bare ridgeline.
+
+The directional light is a low sun minutes from setting, raking in from the left. Fine snow falling, not yet settling. Water withdrawn, the foundations bared. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: one crane on steps that are beginning to give way.
 
 Palette: slate grey and ochre yellow, with orange-red only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a rammed-earth parapet crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so far it leaves the frame. Beneath it, the bottom half is the Earthen Palace, rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos. Furthest back, nothing remains but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Earthen Palace, itself a platform floating in open air.
 
-A low sun minutes from setting, raking in from the left gives the scene its direction. Fine snow falling, not yet settling. Water withdrawn, the foundations bared. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, one crane on steps that are beginning to give way, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to slate grey and ochre yellow, letting orange-red appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: grain-patterned fired brick, plain column bases, square unpainted beams, undecorated parapets, visible tamping seams. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Mountain Gate, so far away it is almost a speck. Along the horizon, a bare ridgeline.
+
+A low sun minutes from setting, raking in from the left gives the scene its direction. Fine snow falling, not yet settling. Water withdrawn, the foundations bared. Expose bright, let the air glow, keep the shadows open. Somewhere far off, one crane on steps that are beginning to give way.
+
+Hold the colour to slate grey and ochre yellow, with orange-red only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。山门，巨石门阙、绝壁栈道、石阶尽头、苍松与界碑，占据画面上方，向画面顶部之外继续升高；地宫，夯土层台、梯田式庭院、藏于山腹的暗殿、陶砖与粟囷，占据画面下方。近景一道夯土矮墙压住画面下缘，处在暗部但保留细节；最远处裸露的山脊线几乎完全消融在光里。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。细雪初下，覆而不积。水退见底，阶基裸露。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，立于将倾之阶，小如尘点，仅用来对照建筑之巨。色调以苍灰与赭黄为主，仅以橙红点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。山门，巨石门阙、绝壁栈道、石阶尽头、苍松，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的地宫上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：粟纹陶砖、素面石础、方直梁枋、无纹平栏、夯痕层叠，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的山门，远得几乎成点；地平线一带是裸露的山脊线。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。细雪初下，覆而不积。水退见底，阶基裸露。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，立于将倾之阶，在远处很小。色调以苍灰与赭黄为主，仅以橙红点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -239,44 +285,56 @@ Hold the colour to slate grey and ochre yellow, letting orange-red appear only a
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a colossal stone gateway on a cliff towering past the top edge, a white jade terrace above a sea of clouds far below, a wind-scoured jade balustrade dark at the near edge, a bare ridgeline dissolving far off, a high noon sun directly overhead, clear and bright, water held in the pool, nine cranes at rest across every step as specks for scale, glowing mist as the brightest zone, open shadows, slate grey and gilt gold with white-hot accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a colossal stone gateway on a cliff floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, dragons coiling up the pillars sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a high noon sun directly overhead, clear and bright, slate grey and gilt gold with white-hot accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so high it continues past the upper edge. Lower half, directly beneath it: the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind. Near foreground: a wind-scoured jade balustrade crossing the near edge in shadow, framing the composition. Far distance: nothing but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Celestial Gate, itself a platform floating in open air.
 
-The directional light is a high noon sun directly overhead. Clear and bright, the wind stopped, the cloud anchored. Water held in the pool, not flowing. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place nine cranes at rest across every step, none in flight — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: dragons coiling up the pillars, layered flying eaves, gilded ridge beasts, balustrade panels cut with swirling vapour scrollwork, painted dougong brackets. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Mountain Gate, tiny with distance. Along the horizon band, a bare ridgeline.
+
+The directional light is a high noon sun directly overhead. Clear and bright, the wind stopped, the cloud anchored. Water held in the pool, not flowing. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: nine cranes at rest across every step, none in flight.
 
 Palette: slate grey and gilt gold, with white-hot only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a wind-scoured jade balustrade crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so far it leaves the frame. Beneath it, the bottom half is the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind. Furthest back, nothing remains but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Celestial Gate, itself a platform floating in open air.
 
-A high noon sun directly overhead gives the scene its direction. Clear and bright, the wind stopped, the cloud anchored. Water held in the pool, not flowing. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, nine cranes at rest across every step, none in flight, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to slate grey and gilt gold, letting white-hot appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: dragons coiling up the pillars, layered flying eaves, gilded ridge beasts, balustrade panels cut with swirling vapour scrollwork, painted dougong brackets. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Mountain Gate, so far away it is almost a speck. Along the horizon, a bare ridgeline.
+
+A high noon sun directly overhead gives the scene its direction. Clear and bright, the wind stopped, the cloud anchored. Water held in the pool, not flowing. Expose bright, let the air glow, keep the shadows open. Somewhere far off, nine cranes at rest across every step, none in flight.
+
+Hold the colour to slate grey and gilt gold, with white-hot only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。山门，巨石门阙、绝壁栈道、石阶尽头、苍松与界碑，占据画面上方，向画面顶部之外继续升高；天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，占据画面下方。近景被罡风蚀过的白玉栏杆压住画面下缘，处在暗部但保留细节；最远处裸露的山脊线几乎完全消融在光里。正午顶光，日在中天，为画面的主光方向。长空清明，风止云驻。水蓄于潭而不流。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有9只丹顶鹤，栖止满阶，皆不飞，小如尘点，仅用来对照建筑之巨。色调以苍灰与鎏金为主，仅以白炽点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。山门，巨石门阙、绝壁栈道、石阶尽头、苍松，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的天阙上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：蟠龙抱柱、层叠飞檐、鎏金脊兽、云气纹栏板、斗拱彩画，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的山门，远得几乎成点；地平线一带是裸露的山脊线。正午顶光，日在中天，为画面的主光方向。长空清明，风止云驻。水蓄于潭而不流。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有9只丹顶鹤，栖止满阶，皆不飞，在远处很小。色调以苍灰与鎏金为主，仅以白炽点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -294,44 +352,56 @@ Hold the colour to slate grey and gilt gold, letting white-hot appear only as an
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a colossal stone gateway on a cliff towering past the top edge, an open bronze altar under thunderheads far below, a charred bronze pillar dark at the near edge, a bare ridgeline dissolving far off, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, mist clean and moist enough to drink, still water clear enough to look into, two cranes pecking at something in the water as specks for scale, glowing mist as the brightest zone, open shadows, slate grey and bronze verdigris with pale gold accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a colossal stone gateway on a cliff floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, taotie masks cast into the pillar shafts sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, mist clean and moist enough to drink, slate grey and bronze verdigris with pale gold accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so high it continues past the upper edge. Lower half, directly beneath it: the Thunder Altar, an open circular altar, bronze chime-bells and bronze pillars, charred timber, a low ceiling of thunderheads. Near foreground: a charred bronze pillar crossing the near edge in shadow, framing the composition. Far distance: nothing but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Thunder Altar, itself a platform floating in open air.
 
-The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. Mist clean and moist enough to drink. Still water clear enough to look into. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place two cranes pecking at something in the water — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: taotie masks cast into the pillar shafts, ranked chime-bells, thunder-pattern door rings, charred timber brackets, a cracked pavement. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Mountain Gate, tiny with distance. Along the horizon band, a bare ridgeline.
+
+The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. Mist clean and moist enough to drink. Still water clear enough to look into. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: two cranes pecking at something in the water.
 
 Palette: slate grey and bronze verdigris, with pale gold only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a charred bronze pillar crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so far it leaves the frame. Beneath it, the bottom half is the Thunder Altar, an open circular altar, bronze chime-bells and bronze pillars, charred timber, a low ceiling of thunderheads. Furthest back, nothing remains but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Thunder Altar, itself a platform floating in open air.
 
-First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. Mist clean and moist enough to drink. Still water clear enough to look into. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, two cranes pecking at something in the water, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to slate grey and bronze verdigris, letting pale gold appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: taotie masks cast into the pillar shafts, ranked chime-bells, thunder-pattern door rings, charred timber brackets, a cracked pavement. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Mountain Gate, so far away it is almost a speck. Along the horizon, a bare ridgeline.
+
+First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. Mist clean and moist enough to drink. Still water clear enough to look into. Expose bright, let the air glow, keep the shadows open. Somewhere far off, two cranes pecking at something in the water.
+
+Hold the colour to slate grey and bronze verdigris, with pale gold only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。山门，巨石门阙、绝壁栈道、石阶尽头、苍松与界碑，占据画面上方，向画面顶部之外继续升高；雷坛，露天圆坛、青铜编钟与铜柱、焦木、低压雷云，占据画面下方。近景一根焦黑的青铜柱压住画面下缘，处在暗部但保留细节；最远处裸露的山脊线几乎完全消融在光里。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。薄雾清润，气如可饮。水静可鉴，自求口实。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有2只丹顶鹤，对啄水中之物，小如尘点，仅用来对照建筑之巨。色调以苍灰与青铜绿为主，仅以淡金点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。山门，巨石门阙、绝壁栈道、石阶尽头、苍松，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的雷坛上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：饕餮纹柱身、编钟成列、雷纹铺首、焦木斗拱、裂纹坛面，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的山门，远得几乎成点；地平线一带是裸露的山脊线。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。薄雾清润，气如可饮。水静可鉴，自求口实。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有2只丹顶鹤，对啄水中之物，在远处很小。色调以苍灰与青铜绿为主，仅以淡金点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -349,44 +419,56 @@ Hold the colour to slate grey and bronze verdigris, letting pale gold appear onl
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a colossal stone gateway on a cliff towering past the top edge, a lotus pond with a zigzag bridge far below, dark lotus stems and spent leaves dark at the near edge, a bare ridgeline dissolving far off, a low sun minutes from setting, raking in from the left, mist thinning, water withdrawn, a lone crane standing on the mark the water left as specks for scale, glowing mist as the brightest zone, open shadows, slate grey and lotus pink with orange-red accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a colossal stone gateway on a cliff floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, newel posts capped with carved buds sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a low sun minutes from setting, raking in from the left, mist thinning, slate grey and lotus pink with orange-red accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so high it continues past the upper edge. Lower half, directly beneath it: the Marsh Garden, a lotus pond and zigzag bridge, a water pavilion, a covered walk along the water, lotus and koi. Near foreground: dark lotus stems and spent leaves crossing the near edge in shadow, framing the composition. Far distance: nothing but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Marsh Garden, itself a platform floating in open air.
 
-The directional light is a low sun minutes from setting, raking in from the left. Mist thinning, the air giving something up. Water withdrawn, leaving band after band of old tideline. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place a lone crane standing on the mark the water left — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: newel posts capped with carved buds, balustrade panels in low relief, a carved valance under the eaves, koi worked into the stone, a curved railing bench. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Mountain Gate, tiny with distance. Along the horizon band, a bare ridgeline.
+
+The directional light is a low sun minutes from setting, raking in from the left. Mist thinning, the air giving something up. Water withdrawn, leaving band after band of old tideline. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: a lone crane standing on the mark the water left.
 
 Palette: slate grey and lotus pink, with orange-red only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, dark lotus stems and spent leaves crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele, rising so far it leaves the frame. Beneath it, the bottom half is the Marsh Garden, a lotus pond and zigzag bridge, a water pavilion, a covered walk along the water, lotus and koi. Furthest back, nothing remains but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Marsh Garden, itself a platform floating in open air.
 
-A low sun minutes from setting, raking in from the left gives the scene its direction. Mist thinning, the air giving something up. Water withdrawn, leaving band after band of old tideline. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, a lone crane standing on the mark the water left, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to slate grey and lotus pink, letting orange-red appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: newel posts capped with carved buds, balustrade panels in low relief, a carved valance under the eaves, koi worked into the stone, a curved railing bench. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Mountain Gate, so far away it is almost a speck. Along the horizon, a bare ridgeline.
+
+A low sun minutes from setting, raking in from the left gives the scene its direction. Mist thinning, the air giving something up. Water withdrawn, leaving band after band of old tideline. Expose bright, let the air glow, keep the shadows open. Somewhere far off, a lone crane standing on the mark the water left.
+
+Hold the colour to slate grey and lotus pink, with orange-red only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。山门，巨石门阙、绝壁栈道、石阶尽头、苍松与界碑，占据画面上方，向画面顶部之外继续升高；泽苑，荷池与曲桥、水榭、临水回廊、莲与锦鲤，占据画面下方。近景深色的荷梗与残叶压住画面下缘，处在暗部但保留细节；最远处裸露的山脊线几乎完全消融在光里。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。薄雾稀薄，气渐减。水退留下层层旧水痕。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，立于退去的水痕之上，小如尘点，仅用来对照建筑之巨。色调以苍灰与荷粉为主，仅以橙红点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。山门，巨石门阙、绝壁栈道、石阶尽头、苍松，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的泽苑上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：望柱莲花头、栏板浮雕、檐下挂落、锦鲤浮雕、临水美人靠，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的山门，远得几乎成点；地平线一带是裸露的山脊线。薄暮低斜光，日将没，自画面左侧掠入，为画面的主光方向。薄雾稀薄，气渐减。水退留下层层旧水痕。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，立于退去的水痕之上，在远处很小。色调以苍灰与荷粉为主，仅以橙红点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -404,42 +486,54 @@ Hold the colour to slate grey and lotus pink, letting orange-red appear only as 
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a colossal stone gateway on a cliff, tier upon tier towering past the top edge, the same realm continuing far below, a spur of cliff rock dark at the near edge, a bare ridgeline dissolving far off, a high noon sun directly overhead, clear, the water absolutely unrippled, one crane on a single leg as specks for scale, glowing mist as the brightest zone, open shadows, slate grey and pine green with white-hot accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a colossal stone gateway on a cliff floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, pillars wound with coiled dragons sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a high noon sun directly overhead, clear, slate grey and pine green with white-hot accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Mountain Gate stacked tier upon tier, a colossal stone gateway, a plank road pinned to a sheer cliff, rising so high it continues past the upper edge. Lower half, directly beneath it: the same realm continuing downward, a stair that ends at nothing, ancient pines and a boundary stele. Near foreground: a spur of cliff rock crossing the near edge in shadow, framing the composition. Far distance: nothing but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on a lower tier of the same realm, itself a platform floating in open air.
 
-The directional light is a high noon sun directly overhead. Clear, the wind entirely stopped, no dust moving. The water absolutely unrippled, as if set. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place one crane on a single leg, unmoved for a long time — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: pillars wound with coiled dragons, drum-shaped gate blocks, a boundary stele in seal script, a carved lintel plaque, ashlar still showing the chisel. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Mountain Gate, tiny with distance. Along the horizon band, a bare ridgeline.
+
+The directional light is a high noon sun directly overhead. Clear, the wind entirely stopped, no dust moving. The water absolutely unrippled, as if set. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: one crane on a single leg, unmoved for a long time.
 
 Palette: slate grey and pine green, with white-hot only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a spur of cliff rock crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Mountain Gate stacked tier upon tier, a colossal stone gateway, a plank road pinned to a sheer cliff, rising so far it leaves the frame. Beneath it, the bottom half is the same realm continuing downward, a stair that ends at nothing, ancient pines and a boundary stele. Furthest back, nothing remains but a bare ridgeline, dissolving into light.
+High above, the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on a lower tier of the same realm, itself a platform floating in open air.
 
-A high noon sun directly overhead gives the scene its direction. Clear, the wind entirely stopped, no dust moving. The water absolutely unrippled, as if set. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, one crane on a single leg, unmoved for a long time, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to slate grey and pine green, letting white-hot appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: pillars wound with coiled dragons, drum-shaped gate blocks, a boundary stele in seal script, a carved lintel plaque, ashlar still showing the chisel. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Mountain Gate, so far away it is almost a speck. Along the horizon, a bare ridgeline.
+
+A high noon sun directly overhead gives the scene its direction. Clear, the wind entirely stopped, no dust moving. The water absolutely unrippled, as if set. Expose bright, let the air glow, keep the shadows open. Somewhere far off, one crane on a single leg, unmoved for a long time.
+
+Hold the colour to slate grey and pine green, with white-hot only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。山门层层向上叠加，巨石门阙、绝壁栈道，占据画面上方，向画面顶部之外继续升高；同一山门向下层层延伸，石阶尽头、苍松与界碑，占据画面下方。近景一道崖壁岩棱压住画面下缘，处在暗部但保留细节；最远处裸露的山脊线几乎完全消融在光里。正午顶光，日在中天，为画面的主光方向。晴，风全止，纤尘不动。水面绝无一纹，如凝固。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，一足独立，久不移，小如尘点，仅用来对照建筑之巨。色调以苍灰与松绿为主，仅以白炽点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。山门，巨石门阙、绝壁栈道、石阶尽头、苍松，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的同一山门的下一层平台上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：蟠龙石柱、抱鼓石、界碑篆刻、门额石匾、凿痕未磨的条石，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的山门，远得几乎成点；地平线一带是裸露的山脊线。正午顶光，日在中天，为画面的主光方向。晴，风全止，纤尘不动。水面绝无一纹，如凝固。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，一足独立，久不移，在远处很小。色调以苍灰与松绿为主，仅以白炽点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```

@@ -1,8 +1,6 @@
-# 上卦 坎（☵ 水）· 水府 the Water Court
+# 上卦 坎（☵ 水）· 水府 the Water Court — 3:4
 
-本组 8 卦共享同一上境，水府 的渲染描述批内复用。
-
-发布顺序按序卦，非本文件顺序。
+本组 8 卦共享同一上境。发布顺序按序卦，非本文件顺序。
 
 
 ---
@@ -19,44 +17,56 @@
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a sunken water court around a deep pool towering past the top edge, an open bronze altar under thunderheads far below, a charred bronze pillar dark at the near edge, a far cascade dissolving far off, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, a downpour just ended, muddy water rising over the altar steps, a single red-crowned crane standing motionless on broken rock as specks for scale, glowing mist as the brightest zone, open shadows, ink blue-black and bronze verdigris with pale gold accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a sunken water court around a deep pool floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, taotie masks cast into the pillar shafts sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, a downpour just ended, ink blue-black and bronze verdigris with pale gold accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so high it continues past the upper edge. Lower half, directly beneath it: the Thunder Altar, an open circular altar, bronze chime-bells and bronze pillars, charred timber, a low ceiling of thunderheads. Near foreground: a charred bronze pillar crossing the near edge in shadow, framing the composition. Far distance: nothing but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Thunder Altar, itself a platform floating in open air.
 
-The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. A downpour just ended, the thunderheads not yet dispersed. Muddy water rising over the altar steps. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place a single red-crowned crane standing motionless on broken rock — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: taotie masks cast into the pillar shafts, ranked chime-bells, thunder-pattern door rings, charred timber brackets, a cracked pavement. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Water Court, tiny with distance. Along the horizon band, a far cascade.
+
+The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. A downpour just ended, the thunderheads not yet dispersed. Muddy water rising over the altar steps. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: a single red-crowned crane standing motionless on broken rock.
 
 Palette: ink blue-black and bronze verdigris, with pale gold only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a charred bronze pillar crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so far it leaves the frame. Beneath it, the bottom half is the Thunder Altar, an open circular altar, bronze chime-bells and bronze pillars, charred timber, a low ceiling of thunderheads. Furthest back, nothing remains but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Thunder Altar, itself a platform floating in open air.
 
-First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. A downpour just ended, the thunderheads not yet dispersed. Muddy water rising over the altar steps. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, a single red-crowned crane standing motionless on broken rock, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to ink blue-black and bronze verdigris, letting pale gold appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: taotie masks cast into the pillar shafts, ranked chime-bells, thunder-pattern door rings, charred timber brackets, a cracked pavement. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Water Court, so far away it is almost a speck. Along the horizon, a far cascade.
+
+First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. A downpour just ended, the thunderheads not yet dispersed. Muddy water rising over the altar steps. Expose bright, let the air glow, keep the shadows open. Somewhere far off, a single red-crowned crane standing motionless on broken rock.
+
+Hold the colour to ink blue-black and bronze verdigris, with pale gold only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，占据画面上方，向画面顶部之外继续升高；雷坛，露天圆坛、青铜编钟与铜柱、焦木、低压雷云，占据画面下方。近景一根焦黑的青铜柱压住画面下缘，处在暗部但保留细节；最远处远处的一道垂瀑几乎完全消融在光里。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。暴雨初歇，浓云未散。浑水漫过坛基石阶，动而遇险。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，静立乱石不动，小如尘点，仅用来对照建筑之巨。色调以墨青与青铜绿为主，仅以淡金点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的雷坛上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：饕餮纹柱身、编钟成列、雷纹铺首、焦木斗拱、裂纹坛面，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的水府，远得几乎成点；地平线一带是远处的一道垂瀑。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。暴雨初歇，浓云未散。浑水漫过坛基石阶，动而遇险。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，静立乱石不动，在远处很小。色调以墨青与青铜绿为主，仅以淡金点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -74,44 +84,56 @@ Hold the colour to ink blue-black and bronze verdigris, letting pale gold appear
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a sunken water court around a deep pool towering past the top edge, a white jade terrace above a sea of clouds far below, a wind-scoured jade balustrade dark at the near edge, a far cascade dissolving far off, a high noon sun directly overhead, heavy cloud pressed low, the water surface frozen still, two cranes halted at the water as specks for scale, glowing mist as the brightest zone, open shadows, ink blue-black and gilt gold with white-hot accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a sunken water court around a deep pool floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, dragons coiling up the pillars sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a high noon sun directly overhead, heavy cloud pressed low, ink blue-black and gilt gold with white-hot accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so high it continues past the upper edge. Lower half, directly beneath it: the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind. Near foreground: a wind-scoured jade balustrade crossing the near edge in shadow, framing the composition. Far distance: nothing but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Celestial Gate, itself a platform floating in open air.
 
-The directional light is a high noon sun directly overhead. Heavy cloud pressed low, the rain gathered but not yet falling. The water surface frozen still, everything waiting. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place two cranes halted at the water, refusing to advance — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: dragons coiling up the pillars, layered flying eaves, gilded ridge beasts, balustrade panels cut with swirling vapour scrollwork, painted dougong brackets. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Water Court, tiny with distance. Along the horizon band, a far cascade.
+
+The directional light is a high noon sun directly overhead. Heavy cloud pressed low, the rain gathered but not yet falling. The water surface frozen still, everything waiting. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: two cranes halted at the water, refusing to advance.
 
 Palette: ink blue-black and gilt gold, with white-hot only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a wind-scoured jade balustrade crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so far it leaves the frame. Beneath it, the bottom half is the Celestial Gate, a white jade terrace above a sea of clouds, nine tiers of vermilion stone stairs, a beamless golden-roofed hall, ceaseless high wind. Furthest back, nothing remains but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Celestial Gate, itself a platform floating in open air.
 
-A high noon sun directly overhead gives the scene its direction. Heavy cloud pressed low, the rain gathered but not yet falling. The water surface frozen still, everything waiting. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, two cranes halted at the water, refusing to advance, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to ink blue-black and gilt gold, letting white-hot appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: dragons coiling up the pillars, layered flying eaves, gilded ridge beasts, balustrade panels cut with swirling vapour scrollwork, painted dougong brackets. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Water Court, so far away it is almost a speck. Along the horizon, a far cascade.
+
+A high noon sun directly overhead gives the scene its direction. Heavy cloud pressed low, the rain gathered but not yet falling. The water surface frozen still, everything waiting. Expose bright, let the air glow, keep the shadows open. Somewhere far off, two cranes halted at the water, refusing to advance.
+
+Hold the colour to ink blue-black and gilt gold, with white-hot only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，占据画面上方，向画面顶部之外继续升高；天阙，云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，占据画面下方。近景被罡风蚀过的白玉栏杆压住画面下缘，处在暗部但保留细节；最远处远处的一道垂瀑几乎完全消融在光里。正午顶光，日在中天，为画面的主光方向。浓云压顶，雨将至而未落。水面凝止如镜，一切待命。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有2只丹顶鹤，驻足水畔久不前行，小如尘点，仅用来对照建筑之巨。色调以墨青与鎏金为主，仅以白炽点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的天阙上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：蟠龙抱柱、层叠飞檐、鎏金脊兽、云气纹栏板、斗拱彩画，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的水府，远得几乎成点；地平线一带是远处的一道垂瀑。正午顶光，日在中天，为画面的主光方向。浓云压顶，雨将至而未落。水面凝止如镜，一切待命。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有2只丹顶鹤，驻足水畔久不前行，在远处很小。色调以墨青与鎏金为主，仅以白炽点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -129,44 +151,56 @@ Hold the colour to ink blue-black and gilt gold, letting white-hot appear only a
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a sunken water court around a deep pool towering past the top edge, rammed-earth terraces stepped like paddy fields far below, a rammed-earth parapet dark at the near edge, a far cascade dissolving far off, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, the sky opened, water flat as a mirror, nine cranes gathered in a ring as specks for scale, glowing mist as the brightest zone, open shadows, ink blue-black and ochre yellow with pale gold accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a sunken water court around a deep pool floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, grain-patterned fired brick sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, the sky opened, ink blue-black and ochre yellow with pale gold accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so high it continues past the upper edge. Lower half, directly beneath it: the Earthen Palace, rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos. Near foreground: a rammed-earth parapet crossing the near edge in shadow, framing the composition. Far distance: nothing but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Earthen Palace, itself a platform floating in open air.
 
-The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. The sky opened, thin cloud burnt away. Water flat as a mirror, reflecting the whole realm. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place nine cranes gathered in a ring, every head turned inward — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: grain-patterned fired brick, plain column bases, square unpainted beams, undecorated parapets, visible tamping seams. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Water Court, tiny with distance. Along the horizon band, a far cascade.
+
+The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. The sky opened, thin cloud burnt away. Water flat as a mirror, reflecting the whole realm. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: nine cranes gathered in a ring, every head turned inward.
 
 Palette: ink blue-black and ochre yellow, with pale gold only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a rammed-earth parapet crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so far it leaves the frame. Beneath it, the bottom half is the Earthen Palace, rammed-earth terraces, courtyards stepped like paddy fields, a dim hall buried in the mountain's belly, fired clay brick and grain silos. Furthest back, nothing remains but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Earthen Palace, itself a platform floating in open air.
 
-First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. The sky opened, thin cloud burnt away. Water flat as a mirror, reflecting the whole realm. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, nine cranes gathered in a ring, every head turned inward, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to ink blue-black and ochre yellow, letting pale gold appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: grain-patterned fired brick, plain column bases, square unpainted beams, undecorated parapets, visible tamping seams. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Water Court, so far away it is almost a speck. Along the horizon, a far cascade.
+
+First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. The sky opened, thin cloud burnt away. Water flat as a mirror, reflecting the whole realm. Expose bright, let the air glow, keep the shadows open. Somewhere far off, nine cranes gathered in a ring, every head turned inward.
+
+Hold the colour to ink blue-black and ochre yellow, with pale gold only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，占据画面上方，向画面顶部之外继续升高；地宫，夯土层台、梯田式庭院、藏于山腹的暗殿、陶砖与粟囷，占据画面下方。近景一道夯土矮墙压住画面下缘，处在暗部但保留细节；最远处远处的一道垂瀑几乎完全消融在光里。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。天光初开，薄云散尽。水面平如镜，映出全境。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有9只丹顶鹤，环聚一处，首皆向内，小如尘点，仅用来对照建筑之巨。色调以墨青与赭黄为主，仅以淡金点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的地宫上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：粟纹陶砖、素面石础、方直梁枋、无纹平栏、夯痕层叠，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的水府，远得几乎成点；地平线一带是远处的一道垂瀑。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。天光初开，薄云散尽。水面平如镜，映出全境。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有9只丹顶鹤，环聚一处，首皆向内，在远处很小。色调以墨青与赭黄为主，仅以淡金点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -184,44 +218,56 @@ Hold the colour to ink blue-black and ochre yellow, letting pale gold appear onl
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a sunken water court around a deep pool, tier upon tier towering past the top edge, the same realm continuing far below, wet black rock and a hanging water curtain dark at the near edge, a far cascade dissolving far off, moonlight from high on the left, unbroken rain, torrents falling tier after tier, a single crane standing against the current as specks for scale, glowing mist as the brightest zone, open shadows, ink blue-black and moss green with moon silver accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a sunken water court around a deep pool floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, marble dragon-head spouts sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, moonlight from high on the left, unbroken rain, ink blue-black and moss green with moon silver accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Water Court stacked tier upon tier, a sunken water courtyard, a deep pool, rising so high it continues past the upper edge. Lower half, directly beneath it: the same realm continuing downward, culverts and hanging water curtains, slick mossy stone. Near foreground: wet black rock and a hanging water curtain crossing the near edge in shadow, framing the composition. Far distance: nothing but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on a lower tier of the same realm, itself a platform floating in open air.
 
-The directional light is moonlight from high on the left. Unbroken rain, water arriving upon water. Torrents falling tier after tier, ceaseless. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place a single crane standing against the current, water past its legs — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: marble dragon-head spouts, balustrade panels cut with the wave-and-cliff motif, moss-stained steps, carved culvert mouths, polished grey brick. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Water Court, tiny with distance. Along the horizon band, a far cascade.
+
+The directional light is moonlight from high on the left. Unbroken rain, water arriving upon water. Torrents falling tier after tier, ceaseless. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: a single crane standing against the current, water past its legs.
 
 Palette: ink blue-black and moss green, with moon silver only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, wet black rock and a hanging water curtain crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Water Court stacked tier upon tier, a sunken water courtyard, a deep pool, rising so far it leaves the frame. Beneath it, the bottom half is the same realm continuing downward, culverts and hanging water curtains, slick mossy stone. Furthest back, nothing remains but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on a lower tier of the same realm, itself a platform floating in open air.
 
-Moonlight from high on the left gives the scene its direction. Unbroken rain, water arriving upon water. Torrents falling tier after tier, ceaseless. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, a single crane standing against the current, water past its legs, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to ink blue-black and moss green, letting moon silver appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: marble dragon-head spouts, balustrade panels cut with the wave-and-cliff motif, moss-stained steps, carved culvert mouths, polished grey brick. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Water Court, so far away it is almost a speck. Along the horizon, a far cascade.
+
+Moonlight from high on the left gives the scene its direction. Unbroken rain, water arriving upon water. Torrents falling tier after tier, ceaseless. Expose bright, let the air glow, keep the shadows open. Somewhere far off, a single crane standing against the current, water past its legs.
+
+Hold the colour to ink blue-black and moss green, with moon silver only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。水府层层向上叠加，下沉式水院、深潭，占据画面上方，向画面顶部之外继续升高；同一水府向下层层延伸，暗渠水帘、湿滑苔石，占据画面下方。近景湿黑的岩石与一道水帘压住画面下缘，处在暗部但保留细节；最远处远处的一道垂瀑几乎完全消融在光里。夜色，月光自左上斜下，为画面的主光方向。连绵不止之雨，水洊至。层层跌落的激流，无有止息。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，逆流独立，水没其胫，小如尘点，仅用来对照建筑之巨。色调以墨青与苔绿为主，仅以月银点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的同一水府的下一层平台上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：螭首吐流、江崖海浪纹栏板、苔痕石阶、暗渠石雕、水磨青砖，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的水府，远得几乎成点；地平线一带是远处的一道垂瀑。夜色，月光自左上斜下，为画面的主光方向。连绵不止之雨，水洊至。层层跌落的激流，无有止息。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，逆流独立，水没其胫，在远处很小。色调以墨青与苔绿为主，仅以月银点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -239,44 +285,56 @@ Hold the colour to ink blue-black and moss green, letting moon silver appear onl
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a sunken water court around a deep pool towering past the top edge, a colossal stone gateway on a cliff far below, a spur of cliff rock dark at the near edge, a far cascade dissolving far off, moonlight from high on the left, packed snow closing the road, the water frozen solid, one crane caught to its body in the frozen water as specks for scale, glowing mist as the brightest zone, open shadows, ink blue-black and slate grey with moon silver accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a sunken water court around a deep pool floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, pillars wound with coiled dragons sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, moonlight from high on the left, packed snow closing the road, ink blue-black and slate grey with moon silver accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so high it continues past the upper edge. Lower half, directly beneath it: the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele. Near foreground: a spur of cliff rock crossing the near edge in shadow, framing the composition. Far distance: nothing but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Mountain Gate, itself a platform floating in open air.
 
-The directional light is moonlight from high on the left. Packed snow closing the road, wind carrying grains of ice. The water frozen solid, motionless. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place one crane caught to its body in the frozen water — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: pillars wound with coiled dragons, drum-shaped gate blocks, a boundary stele in seal script, a carved lintel plaque, ashlar still showing the chisel. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Water Court, tiny with distance. Along the horizon band, a far cascade.
+
+The directional light is moonlight from high on the left. Packed snow closing the road, wind carrying grains of ice. The water frozen solid, motionless. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: one crane caught to its body in the frozen water.
 
 Palette: ink blue-black and slate grey, with moon silver only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a spur of cliff rock crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so far it leaves the frame. Beneath it, the bottom half is the Mountain Gate, a colossal stone gateway, a plank road pinned to a sheer cliff, a stair that ends at nothing, ancient pines and a boundary stele. Furthest back, nothing remains but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Mountain Gate, itself a platform floating in open air.
 
-Moonlight from high on the left gives the scene its direction. Packed snow closing the road, wind carrying grains of ice. The water frozen solid, motionless. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, one crane caught to its body in the frozen water, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to ink blue-black and slate grey, letting moon silver appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: pillars wound with coiled dragons, drum-shaped gate blocks, a boundary stele in seal script, a carved lintel plaque, ashlar still showing the chisel. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Water Court, so far away it is almost a speck. Along the horizon, a far cascade.
+
+Moonlight from high on the left gives the scene its direction. Packed snow closing the road, wind carrying grains of ice. The water frozen solid, motionless. Expose bright, let the air glow, keep the shadows open. Somewhere far off, one crane caught to its body in the frozen water.
+
+Hold the colour to ink blue-black and slate grey, with moon silver only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，占据画面上方，向画面顶部之外继续升高；山门，巨石门阙、绝壁栈道、石阶尽头、苍松与界碑，占据画面下方。近景一道崖壁岩棱压住画面下缘，处在暗部但保留细节；最远处远处的一道垂瀑几乎完全消融在光里。夜色，月光自左上斜下，为画面的主光方向。冻雪封路，风裹雪粒。水已冰封，凝止不流。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，半身陷于冰水不能行，小如尘点，仅用来对照建筑之巨。色调以墨青与苍灰为主，仅以月银点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的山门上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：蟠龙石柱、抱鼓石、界碑篆刻、门额石匾、凿痕未磨的条石，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的水府，远得几乎成点；地平线一带是远处的一道垂瀑。夜色，月光自左上斜下，为画面的主光方向。冻雪封路，风裹雪粒。水已冰封，凝止不流。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，半身陷于冰水不能行，在远处很小。色调以墨青与苍灰为主，仅以月银点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -294,44 +352,56 @@ Hold the colour to ink blue-black and slate grey, letting moon silver appear onl
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a sunken water court around a deep pool towering past the top edge, an endless colonnade hung with banners far below, dark gauze banners dark at the near edge, a far cascade dissolving far off, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, mist over the wellmouth, well water deep and unmoving, one crane bending to drink from the well as specks for scale, glowing mist as the brightest zone, open shadows, ink blue-black and bamboo green with pale gold accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a sunken water court around a deep pool floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, pierced lattice windows sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, first light before sunrise, the sun still below the ridge, backlighting the scene from behind, mist over the wellmouth, ink blue-black and bamboo green with pale gold accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so high it continues past the upper edge. Lower half, directly beneath it: the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo. Near foreground: dark gauze banners crossing the near edge in shadow, framing the composition. Far distance: nothing but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Wind Gallery, itself a platform floating in open air.
 
-The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. Mist over the wellmouth, air rising out of the shaft. Well water deep and unmoving, clear enough to mirror a face. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place one crane bending to drink from the well — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: pierced lattice windows, iron wind-bells at the ridge ends, bronze rings for the gauze, shafts cut like bamboo joints, an unbroken carved valance. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Water Court, tiny with distance. Along the horizon band, a far cascade.
+
+The directional light is first light before sunrise, the sun still below the ridge, backlighting the scene from behind. Mist over the wellmouth, air rising out of the shaft. Well water deep and unmoving, clear enough to mirror a face. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: one crane bending to drink from the well.
 
 Palette: ink blue-black and bamboo green, with pale gold only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, dark gauze banners crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so far it leaves the frame. Beneath it, the bottom half is the Wind Gallery, an impossibly long empty colonnade, thousands of prayer banners and gauze curtains, pierced lattice windows, bamboo. Furthest back, nothing remains but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Wind Gallery, itself a platform floating in open air.
 
-First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. Mist over the wellmouth, air rising out of the shaft. Well water deep and unmoving, clear enough to mirror a face. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, one crane bending to drink from the well, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to ink blue-black and bamboo green, letting pale gold appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: pierced lattice windows, iron wind-bells at the ridge ends, bronze rings for the gauze, shafts cut like bamboo joints, an unbroken carved valance. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Water Court, so far away it is almost a speck. Along the horizon, a far cascade.
+
+First light before sunrise, the sun still below the ridge, backlighting the scene from behind gives the scene its direction. Mist over the wellmouth, air rising out of the shaft. Well water deep and unmoving, clear enough to mirror a face. Expose bright, let the air glow, keep the shadows open. Somewhere far off, one crane bending to drink from the well.
+
+Hold the colour to ink blue-black and bamboo green, with pale gold only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，占据画面上方，向画面顶部之外继续升高；风廊，极长的空廊、万千经幡与纱帘、镂空花窗、竹林，占据画面下方。近景几幅深色纱幡压住画面下缘，处在暗部但保留细节；最远处远处的一道垂瀑几乎完全消融在光里。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。薄雾覆井口，气自井中升。井水深而不动，可鉴人。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有1只丹顶鹤，俯井而饮，小如尘点，仅用来对照建筑之巨。色调以墨青与竹青为主，仅以淡金点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的风廊上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：镂空花窗、垂脊铁马、纱幔铜环、竹节纹柱、连绵挂落，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的水府，远得几乎成点；地平线一带是远处的一道垂瀑。拂晓逆光，日尚在山脊之下，天光自主体背后透出，为画面的主光方向。薄雾覆井口，气自井中升。井水深而不动，可鉴人。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有1只丹顶鹤，俯井而饮，在远处很小。色调以墨青与竹青为主，仅以淡金点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -349,44 +419,56 @@ Hold the colour to ink blue-black and bamboo green, letting pale gold appear onl
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a sunken water court around a deep pool towering past the top edge, a lotus pond with a zigzag bridge far below, dark lotus stems and spent leaves dark at the near edge, a far cascade dissolving far off, a high noon sun directly overhead, clear, the water standing exactly at the marked level, two cranes stationed either side of the divide as specks for scale, glowing mist as the brightest zone, open shadows, ink blue-black and lotus pink with white-hot accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a sunken water court around a deep pool floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, newel posts capped with carved buds sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a high noon sun directly overhead, clear, ink blue-black and lotus pink with white-hot accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so high it continues past the upper edge. Lower half, directly beneath it: the Marsh Garden, a lotus pond and zigzag bridge, a water pavilion, a covered walk along the water, lotus and koi. Near foreground: dark lotus stems and spent leaves crossing the near edge in shadow, framing the composition. Far distance: nothing but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Marsh Garden, itself a platform floating in open air.
 
-The directional light is a high noon sun directly overhead. Clear, each cloud keeping its own boundary. The water standing exactly at the marked level. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place two cranes stationed either side of the divide — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: newel posts capped with carved buds, balustrade panels in low relief, a carved valance under the eaves, koi worked into the stone, a curved railing bench. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Water Court, tiny with distance. Along the horizon band, a far cascade.
+
+The directional light is a high noon sun directly overhead. Clear, each cloud keeping its own boundary. The water standing exactly at the marked level. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: two cranes stationed either side of the divide.
 
 Palette: ink blue-black and lotus pink, with white-hot only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, dark lotus stems and spent leaves crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so far it leaves the frame. Beneath it, the bottom half is the Marsh Garden, a lotus pond and zigzag bridge, a water pavilion, a covered walk along the water, lotus and koi. Furthest back, nothing remains but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Marsh Garden, itself a platform floating in open air.
 
-A high noon sun directly overhead gives the scene its direction. Clear, each cloud keeping its own boundary. The water standing exactly at the marked level. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, two cranes stationed either side of the divide, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to ink blue-black and lotus pink, letting white-hot appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: newel posts capped with carved buds, balustrade panels in low relief, a carved valance under the eaves, koi worked into the stone, a curved railing bench. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Water Court, so far away it is almost a speck. Along the horizon, a far cascade.
+
+A high noon sun directly overhead gives the scene its direction. Clear, each cloud keeping its own boundary. The water standing exactly at the marked level. Expose bright, let the air glow, keep the shadows open. Somewhere far off, two cranes stationed either side of the divide.
+
+Hold the colour to ink blue-black and lotus pink, with white-hot only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，占据画面上方，向画面顶部之外继续升高；泽苑，荷池与曲桥、水榭、临水回廊、莲与锦鲤，占据画面下方。近景深色的荷梗与残叶压住画面下缘，处在暗部但保留细节；最远处远处的一道垂瀑几乎完全消融在光里。正午顶光，日在中天，为画面的主光方向。晴，云各有界不相侵。水位恰在阶级刻度处。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有2只丹顶鹤，分立于分水处两侧，小如尘点，仅用来对照建筑之巨。色调以墨青与荷粉为主，仅以白炽点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的泽苑上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：望柱莲花头、栏板浮雕、檐下挂落、锦鲤浮雕、临水美人靠，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的水府，远得几乎成点；地平线一带是远处的一道垂瀑。正午顶光，日在中天，为画面的主光方向。晴，云各有界不相侵。水位恰在阶级刻度处。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有2只丹顶鹤，分立于分水处两侧，在远处很小。色调以墨青与荷粉为主，仅以白炽点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```
 
 
@@ -404,42 +486,54 @@ Hold the colour to ink blue-black and lotus pink, letting white-hot appear only 
 **Midjourney 8.2**
 
 ```
-immense scale, 24mm wide low-angle vertical view, a sunken water court around a deep pool towering past the top edge, a hall of eternal lamps and vermilion columns far below, a lamp stand dark at the near edge, a far cascade dissolving far off, a high noon sun directly overhead, even mist, water level matched to fire level, nine cranes each in its own position as specks for scale, glowing mist as the brightest zone, open shadows, ink blue-black and vermilion with white-hot accents, photoreal cinematic still, vast depth --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, people, faces, modern objects, crushed blacks
+eye level, horizon low, a sunken water court around a deep pool floating free past the top edge, the viewer standing on a terrace far below, vast empty sky between, cloud sea to a far horizon, glazed ceramic ridge beasts sunlit razor-sharp foreground, a colossal waterfall falling into cloud, three tiny robed figures for scale, a high noon sun directly overhead, even mist, ink blue-black and vermilion with white-hot accents, photoreal cinematic still, immense scale, glowing air --ar 3:4 --v 8.2 --style raw --stylize 250 --chaos 5 --no text, watermark, crowds, close-up faces, modern objects, crushed blacks
 ```
 
 
 **GPT-Image-2**
 
 ```
-A photoreal cinematic still in a vertical 3:4 frame, shot on a 24mm wide lens from a low angle. The scale is immense — monumental architecture that dwarfs everything.
+A photoreal cinematic still in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Four depth layers. Upper half: the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so high it continues past the upper edge. Lower half, directly beneath it: the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, a deep inner hall. Near foreground: a lamp stand crossing the near edge in shadow, framing the composition. Far distance: nothing but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Flame Hall, itself a platform floating in open air.
 
-The directional light is a high noon sun directly overhead. Even mist, neither element dominant. Water level matched to fire level, each in place. The mist is lit from within and is the brightest part of the picture; keep the overall exposure bright and luminous, with shadows open and full of detail rather than crushed to black.
+**Most of this picture is empty.** Open sky and an unbroken cloud sea running to a distant horizon should occupy roughly two thirds of the frame; the architecture occupies about a third. That emptiness is what makes the scene vast — do not fill it.
 
-Place nine cranes each in its own position, evenly spaced — reduced to specks, present only to show how vast the architecture is.
+In the near foreground, sunlit and rendered in razor-sharp high relief: glazed ceramic ridge beasts, bronze mirrors set into the walls, polychrome-painted beams, a coffered caisson ceiling, carved red lacquer. This is the densest detail in the picture — never a dark silhouette. A colossal waterfall pours off the platform edge and falls into cloud with no visible bottom.
+
+For scale, place three tiny robed figures at the balustrade, one in orange, far too small for any facial feature, and near the horizon a second, far smaller Water Court, tiny with distance. Along the horizon band, a far cascade.
+
+The directional light is a high noon sun directly overhead. Even mist, neither element dominant. Water level matched to fire level, each in place. Keep the exposure bright and luminous, the air glowing, shadows open and full of detail rather than crushed.
+
+Also present, small and far off: nine cranes each in its own position, evenly spaced.
 
 Palette: ink blue-black and vermilion, with white-hot only as an accent.
 
-Leave the top fifth of the frame relatively empty for a later title. Do not render text or calligraphy. No human figures, no faces, no watermark, no modern objects.
+Leave the top strip relatively empty for a later title. Do not render text or calligraphy. No crowds, no close-up faces, no watermark, no modern objects.
 ```
 
 
 **Nano Banana Pro**
 
 ```
-Photograph this on a 24mm wide lens from a low angle, vertical 3:4 frame. Everything here is enormous — build the shot so the viewer feels small.
+Photograph this in a vertical 3:4 frame, camera at eye level with the horizon set low. The grandeur here is vertical — great height above, a long drop below.
 
-Closest to the camera, a lamp stand crosses the near edge in shadow, framing everything behind it. Above, the top half of the picture is the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, rising so far it leaves the frame. Beneath it, the bottom half is the Flame Hall, ranks of eternal oil lamps, glazed tile and bronze mirrors, vermilion-lacquered columns, a deep inner hall. Furthest back, nothing remains but a far cascade, dissolving into light.
+High above, the Water Court, a sunken water courtyard, a deep pool, culverts and hanging water curtains, slick mossy stone, floating free with no ground beneath it, so large it continues past the top edge. The camera stands far below on the Flame Hall, itself a platform floating in open air.
 
-A high noon sun directly overhead gives the scene its direction. Even mist, neither element dominant. Water level matched to fire level, each in place. The mist glows from within and is the brightest thing in the picture — expose bright, keep the shadows open and detailed, never crushed. Somewhere far off, nine cranes each in its own position, evenly spaced, specks against all that stone.
+Give most of the picture away to nothing — open sky and a cloud sea running unbroken to a far horizon should take about two thirds of the frame. The buildings take the remaining third. It is the emptiness that makes this feel enormous, so resist filling it.
 
-Hold the colour to ink blue-black and vermilion, letting white-hot appear only as an accent. Vast atmospheric depth, fine micro-detail, a little grain. No text, no people, no faces.
+Right at the front, in full light and cut sharp enough to count the tool marks: glazed ceramic ridge beasts, bronze mirrors set into the walls, polychrome-painted beams, a coffered caisson ceiling, carved red lacquer. This is where the detail lives. Off the edge of the platform a vast waterfall drops away and is swallowed by cloud before it ever lands.
+
+Put three tiny robed figures at the balustrade, one in orange, far too small for any facial feature — they are there to tell you how big everything else is. Near the horizon, a second Water Court, so far away it is almost a speck. Along the horizon, a far cascade.
+
+A high noon sun directly overhead gives the scene its direction. Even mist, neither element dominant. Water level matched to fire level, each in place. Expose bright, let the air glow, keep the shadows open. Somewhere far off, nine cranes each in its own position, evenly spaced.
+
+Hold the colour to ink blue-black and vermilion, with white-hot only as an accent. No text, no crowds, no close-up faces.
 ```
 
 
 **Seedream 5.0 Pro**
 
 ```
-极远景，24mm 广角低机位仰视，体量极大。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，占据画面上方，向画面顶部之外继续升高；火殿，长明灯阵、琉璃与铜镜、朱漆廊柱、幽深的内殿，占据画面下方。近景一座灯架压住画面下缘，处在暗部但保留细节；最远处远处的一道垂瀑几乎完全消融在光里。正午顶光，日在中天，为画面的主光方向。薄雾均匀，气无偏胜。水位与火位相平，各安。雾气本身被光点亮，是整幅画面最亮的区域；整体明亮通透，暗部开放有细节，不压死黑。远景有9只丹顶鹤，各得其位，间距均等，小如尘点，仅用来对照建筑之巨。色调以墨青与朱红为主，仅以白炽点缀。照相写实电影剧照质感，纵深宏阔，细腻微观细节，轻微胶片颗粒。3:4 竖构图，顶部约五分之一留白，4K 超清。画面中不出现任何文字、人物与人脸。
+3:4 竖构图，平视，地平线压在画面下部。宏大靠垂直落差：上有极高，下有深坠。水府，下沉式水院、深潭、暗渠水帘、湿滑苔石，整座悬空不着地，高踞画面上部并冲出顶端；镜头站在远低处的火殿上，那也是一座浮在空中的平台。两者之间是一整片开阔的天空，云海一路铺展到极远的地平线——天空与云海约占画面三分之二，建筑只占三分之一，留白正是宏大的来源，切勿填满。近景是受光的精细浮雕，锐利到能看清凿痕：琉璃脊兽、铜镜嵌壁、彩画梁枋、藻井、朱漆剔花，这是全画细节最密处，不是黑剪影。一道巨瀑自平台边缘倾泻而下，落入云中不见底。三个极小的袍服人影立在栏边，其中一人着橙红衣袍，此尺寸下五官不成像，用来对照建筑之巨；地平线附近另有一座极小的水府，远得几乎成点；地平线一带是远处的一道垂瀑。正午顶光，日在中天，为画面的主光方向。薄雾均匀，气无偏胜。水位与火位相平，各安。整体明亮通透，空气发光，暗部开放有细节，不压死黑。另有9只丹顶鹤，各得其位，间距均等，在远处很小。色调以墨青与朱红为主，仅以白炽点缀。照相写实电影剧照质感，体量极大，纵深宏阔，细腻微观细节，轻微胶片颗粒，4K 超清。顶部留白供后期排字。画面中不出现任何文字、人群与近景面孔。
 ```

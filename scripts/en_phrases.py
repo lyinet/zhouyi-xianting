@@ -46,7 +46,7 @@ FARFADE = {
 
 # 序号 -> (灵禽英文, 天候英文, 水势英文)
 EN = {
-1:('nine red-crowned cranes flying in formation, never landing','crystalline cloudless air','the cloud sea lying flat as a mirror'),
+1:('nine red-crowned cranes flying in formation, never landing','crystalline cloudless air','the vapour below lying flat as a mirror'),
 2:('seven white deer moving slowly across the terraces, unstartled','low mist creeping over the stepped fields','bare earth, no standing water, the dust settled'),
 3:('a single red-crowned crane standing motionless on broken rock','a downpour just ended, the thunderheads not yet dispersed','muddy water rising over the altar steps'),
 4:('one young crane testing its footing at the spring','dense fog sealing the valley','a newborn spring seeping out from under the mountain'),
