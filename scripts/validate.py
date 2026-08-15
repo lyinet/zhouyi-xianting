@@ -177,8 +177,146 @@ for outdir, aspect in VARIANTS:
         if not h['guaci'].strip():
             fails.append(f'{tag} 卦辞为空')
 
+# ==============================================================
+# 视频提示词验收（specs/2026-08-15-zhouyi-xianting-video-design.md 第 6 节）
+# ==============================================================
+import collections as _collections
+
+VIDEO = json.load(open(f'{BASE}/data/video.json', encoding='utf-8'))['hexagrams']
+VIDEO_COMBOS = [  # (aspect, structure, outdir)
+    ('3:4', 'take', 'video-prompts/vertical-take'),
+    ('3:4', 'shots', 'video-prompts/vertical-shots'),
+    ('16:9', 'take', 'video-prompts/wide-take'),
+    ('16:9', 'shots', 'video-prompts/wide-shots'),
+    ('3:4', 'take', 'video-prompts-h3/vertical-take'),
+    ('3:4', 'shots', 'video-prompts-h3/vertical-shots'),
+    ('16:9', 'take', 'video-prompts-h3/wide-take'),
+    ('16:9', 'shots', 'video-prompts-h3/wide-shots'),
+]
+VBANNED_ZH = ['高级', '电影感', '炸裂', '唯美', '震撼', '史诗', '惊艳', '大片',
+              '超清', '极致', '顶级']
+VBANNED_EN = ['epic', 'stunning', 'breathtaking', 'masterpiece']
+VNEG_ZH = ['万向节', '商业调色', '塑料质感', '过度锐化', '近景人物']
+VNEG_EN = ['gimbal-smooth', 'commercial colour grading', 'plastic', 'over-sharpening',
+           'close-up faces']
+
+
+def vblocks(md):
+    """解析出 {卦序: {模型+结构标签: 提示词}}。"""
+    res, cur, label, inblk, buf = {}, None, None, False, []
+    for line in md.split('\n'):
+        if inblk:
+            if line.strip() == '```':
+                if cur and label:
+                    res[cur][label] = '\n'.join(buf)
+                label, buf, inblk = None, [], False
+            else:
+                buf.append(line)
+            continue
+        m = re.match(r'^## 第 (\d+) 卦', line)
+        if m:
+            cur = int(m.group(1)); res[cur] = {}
+            continue
+        m = re.match(r'^\*\*(Seedance 2\.5|MiniMax H3) · (一镜到底|六镜头分镜)\*\*\s*$', line)
+        if m:
+            label = f'{m.group(1)}|{m.group(2)}'
+            continue
+        if line.strip() == '```' and label:
+            inblk, buf = True, []
+    return res
+
+
+def _check_seedance(p, n, h, v, structure, tag, aspect):
+    for sec in ('格式：', '首帧：', '主体与场景：', '镜头：', '光：', '氛围：',
+                '动作弧' if structure == 'take' else '镜头1（', '质感：', '音频：', '负面：'):
+        if sec not in p:
+            fails.append(f'{tag} Seedance 缺段落「{sec}」')
+    low = p.lower()
+    for w in VBANNED_ZH:
+        if w in p:
+            fails.append(f'{tag} 含抽象夸赞词「{w}」')
+    for kw in VNEG_ZH:
+        if kw not in p:
+            fails.append(f'{tag} 缺负面约束「{kw}」')
+    for kw in ('顶部', '留白', '胶片颗粒', '无对白', '文字'):
+        if kw not in p:
+            fails.append(f'{tag} 缺「{kw}」')
+    if structure == 'shots':
+        for i in range(1, len(v['beats']) + 1):
+            if f'镜头{i}（' not in p:
+                fails.append(f'{tag} 分镜缺镜头{i}')
+    else:
+        if '一镜内连续演化' not in p:
+            fails.append(f'{tag} 一镜到底缺连续演化声明')
+
+
+def _check_h3(p, n, h, v, structure, tag, aspect):
+    for field in ('I2VA:', 'integrated_multimodal_description:', 'overall_soundscape:', 'non_diegetic_music:'):
+        if field not in p:
+            fails.append(f'{tag} H3 缺字段「{field}」')
+    low = p.lower()
+    for w in VBANNED_ZH + VBANNED_EN:
+        if w in p.lower():
+            fails.append(f'{tag} 含抽象夸赞词「{w}」')
+    for kw in VNEG_EN:
+        if kw not in low:
+            fails.append(f'{tag} 缺负面约束「{kw}」')
+    # 时间戳严格递增；[Shot 1] 无时间戳
+    stamps = re.findall(r'At 00:(\d{2})\.(\d{3})', p)
+    prev = -1.0
+    for mm, ss in stamps:
+        t = int(mm) + int(ss) / 1000.0
+        if t <= prev:
+            fails.append(f'{tag} 时间戳未递增: {t}')
+        prev = t
+    if re.search(r'\[Shot 1\]\s*At ', p):
+        fails.append(f'{tag} [Shot 1] 不应带时间戳')
+    if structure == 'shots':
+        if 'the camera cuts to' not in low:
+            fails.append(f'{tag} 分镜缺剪辑语')
+        if '一镜到底' in p:
+            fails.append(f'{tag} 分镜误写一镜到底')
+    else:
+        if 'the camera cuts to' in low:
+            fails.append(f'{tag} 一镜到底不应出现剪辑语')
+    if '顶部留白' not in p:
+        fails.append(f'{tag} 缺顶部留白')
+
+
+vgrand = 0
+for aspect, structure, outdir in VIDEO_COMBOS:
+    d = f'{BASE}/{outdir}'
+    if not os.path.isdir(d):
+        fails.append(f'[视频] 缺目录 {outdir}')
+        continue
+    allp = {}
+    for f in sorted(os.listdir(d)):
+        allp.update(vblocks(open(f'{d}/{f}', encoding='utf-8').read()))
+    if len(allp) != 64:
+        fails.append(f'[视频 {aspect} {structure}] 仅解析到 {len(allp)} 卦，应为 64')
+    vgrand += len(allp)
+    for n, dd in sorted(allp.items()):
+        h = by_no[n]
+        v = VIDEO[str(n)]
+        model = 'H3' if outdir.startswith('video-prompts-h3') else 'Seedance'
+        tag = f'[视频 {model} {aspect} {structure}] 第{n}卦{h["name"]}'
+        if not dd:
+            fails.append(f'{tag} 无提示词')
+            continue
+        p = list(dd.values())[0]
+        if outdir.startswith('video-prompts-h3'):
+            _check_h3(p, n, h, v, structure, tag, aspect)
+        else:
+            _check_seedance(p, n, h, v, structure, tag, aspect)
+        # 两模型同源：六幕标题都应出现
+        for b in v['beats']:
+            if b['title'] not in p:
+                fails.append(f'{tag} 缺六幕「{b["title"]}」')
+
+
+print(f'检查视频 {vgrand} 条（64 卦 × 2 模型 × 2 结构 × 2 画幅）')
 print('=' * 62)
-print(f'检查 {len(VARIANTS)} 套画幅 × 64 卦 × {len(MODELS)} 模型 = {grand} 条提示词')
+print(f'检查 {len(VARIANTS)} 套画幅 × 64 卦 × {len(MODELS)} 模型 = {grand} 条提示词 + 视频 {vgrand} 条')
 print(f'不通过 {len(fails)} 项，警告 {len(warns)} 项')
 print('=' * 62)
 for f in fails[:30]:

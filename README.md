@@ -4,6 +4,8 @@
 
 每卦四条提示词，覆盖 Midjourney 8.2、GPT-Image-2、Nano Banana Pro、Seedream 5.0 Pro；两套画幅（3:4 竖版发布、16:9 横版封面），共 512 条。
 
+**视频扩展**：同一套「八境 + 三旋钮」体系延伸到图生视频——六爻即六幕，每卦产出 Seedance 2.5 与 MiniMax H3 两种模型、一镜到底与六镜头分镜两种结构、3:4 与 16:9 两种画幅的视频提示词，共 512 条。详见 [视频扩展设计文档](docs/superpowers/specs/2026-08-15-zhouyi-xianting-video-design.md)。
+
 ## 核心设计
 
 **八境组合法。** 八经卦各对应仙庭中的一处建筑：
@@ -33,24 +35,31 @@
 ```
 data/
   realms.json       八境定义、签名色、英文译名、全局锚点
-  hexagrams.json    64 卦单一事实来源（卦辞、彖传、大象传、旋钮、灵禽、色板）
+  hexagrams.json    64 卦单一事实来源（卦辞、彖传、大象传、爻辞、旋钮、灵禽、色板）
+  video.json        视频层单一事实来源（六幕表、镜头、时间弧）
 prompts/
   upper-*.md        3:4 竖版（小红书发布），按上卦分 8 组
 prompts-wide/
   upper-*.md        16:9 横版（封面/视觉冲击），同上
+video-prompts/              Seedance 2.5 视频提示词（按画幅 × 结构分 4 组）
+video-prompts-h3/           MiniMax H3 视频提示词（同上）
 scripts/
   build_hexagrams.py  由原文 + 旋钮表构建 hexagrams.json
+  fetch_yaoci.py      从 ctext.org 抓取 64 卦爻辞并交叉验证
   en_phrases.py       英文短语库（译名全库统一的唯一保障）
-  gen_prompts.py      生成全部 256 条提示词
-  validate.py         把验收标准变成可执行检查
-.claude/skills/zhouyi-xianting/   转译规则 skill
+  gen_prompts.py      生成全部 256 条静态提示词
+  gen_video_prompts.py 生成全部 512 条视频提示词
+  validate.py         把验收标准变成可执行检查（静态 + 视频）
+.claude/skills/zhouyi-xianting/        静态转译规则 skill
+.claude/skills/zhouyi-xianting-video/  视频转译规则 skill
+.claude/skills/cinematic-image-prompt/ 静态基座 skill（8 槽蓝图 + 四模型方言）
 docs/superpowers/specs/           设计文档
 ```
 
 提示词是**派生产物**，不是手写散件。改画幅、换模型、扩到 384 爻都重跑脚本，不重写内容：
 
 ```bash
-python3 scripts/gen_prompts.py && python3 scripts/validate.py
+python3 scripts/gen_prompts.py && python3 scripts/gen_video_prompts.py && python3 scripts/validate.py
 ```
 
 ## 原文底本
@@ -90,6 +99,18 @@ python3 scripts/gen_prompts.py && python3 scripts/validate.py
 | 空气发光、暗部开放不压死黑 | 解决出图偏暗 |
 
 **上境远看其形（`elements`），下境是脚下的台地、近看其雕（`ornament`）。** 这既符合摄影逻辑，也让叠合规则更有力——镜头站在一境之上仰望另一境。泰卦是站在天阙上看地宫悬于头顶，否卦是站在地宫里望不可及的天阙。
+
+## 视频扩展：六爻即六幕
+
+静态图集给出"帧内构成"（八境叠合、三旋钮、留白），视频扩展只加**时间维度**——而时间结构周易天然就有：**六爻 = 六幕**。
+
+- **图生视频**：每卦静态图为第一帧，视频层只加运动、镜头、声音，成套感不破。
+- **六爻六幕**：初爻起势 → 二爻显现 → 三爻转折 → 四爻过渡 → 五爻**高潮** → 上爻收束。幕的动作由爻辞意象驱动，`video.json` 的 `beats[].reason` 引用爻辞可辩护。
+- **镜头由卦德驱动**：上卦定运镜（乾升/坤移/震动/巽入/坎降/离环/艮止/兑摇），机位基线沿用静态锚点。
+- **去 AI 味**：素材来源身份 =「高预算中式奇幻电影 35mm 胶片实拍」——负面约束关闭平滑运镜/商业调色/塑料材质/过度锐化，每幕植入至多一个非完美事件，全库禁用抽象夸赞词。
+- **产出**：64 卦 × 2 模型（Seedance 2.5 / MiniMax H3）× 2 结构（一镜到底 / 六镜头分镜）× 2 画幅 = **512 条**，`validate.py` 0 项不通过。
+
+爻辞底本与卦辞同源（ctext.org），`scripts/fetch_yaoci.py` 抓取并交叉验证（页面卦辞与已有 `guaci` 一致、六爻标签严格递增）。
 
 ## 已知取舍
 

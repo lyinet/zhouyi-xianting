@@ -1,7 +1,7 @@
 # 周易仙庭图集 — 设计文档
 
 - 日期：2026-08-09
-- 状态：待评审
+- 状态：待评审（视频扩展已于 2026-08-15 实施，见 `2026-08-15-zhouyi-xianting-video-design.md`）
 - 关联：`~/.claude/skills/cinematic-image-prompt/`（底层提示词工程 skill）
 
 ## 1. 目标
