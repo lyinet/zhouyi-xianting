@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""从 ctext.org 抓取 64 卦爻辞与小象,写入 data/hexagrams.json 的 yaoci 字段。
+"""从 ctext.org 抓取 64 卦爻辞与小象,写入 data/hexagram_texts.json 的 yaoci 字段。
 
 - 每卦 URL 取自该卦已有的 source 字段,确保抓的是同一页
-- 解析:ctext 页面中"爻标签开头"(初九/九二/…/上六/用九/用六)的 ctext 单元格
-  是爻辞,紧随其后的单元格是小象;《文言》等后续内容一律丢弃
+- 解析:ctext 周易正文严格「爻辞、小象」交替,锚定初爻后隔行推进;
+  《文言》等后续内容一律丢弃
 - 交叉验证:页面首条必须与该卦已有 guaci 一致(防止抓到错页)
 - 幂等:已有 yaoci 的卦跳过;--force 强制重抓
+- 本脚本只维护原文(hexagram_texts.json);data/hexagrams.json 由
+  scripts/build_hexagrams.py 从原文 + 旋钮表重建,重跑二者不会丢失爻辞。
 """
 import json
 import os
@@ -16,7 +18,7 @@ import time
 import urllib.request
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PATH = os.path.join(BASE, 'data', 'hexagrams.json')
+PATH = os.path.join(BASE, 'data', 'hexagram_texts.json')
 
 # 爻辞单元格:爻标签后紧跟冒号或逗号(如 "初九：潛龍" / 咸卦 "初六，咸其拇")。
 # ctext 的周易正文严格「爻辞、小象」交替出现;小象偶用逗号且以爻标签开头
@@ -88,9 +90,9 @@ def main():
         if not force and h.get('yaoci'):
             skipped += 1
             continue
-        url = h.get('source', '')
-        if '/book-of-changes/' not in url:
-            failed.append((h['name'], 'no source url'))
+        url = f"https://ctext.org/book-of-changes/{h['slug']}/zh"
+        if not h.get('slug'):
+            failed.append((h['name'], 'no slug'))
             continue
         try:
             html = fetch(url)

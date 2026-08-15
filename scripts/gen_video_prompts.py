@@ -93,9 +93,19 @@ BANNED_WORDS = ['高级', '电影感', '炸裂', '唯美', '震撼', '史诗', '
 # ---------------------------------------------------------------- 推导
 
 def beat_time(i, n):
-    """第 i 幕（0 起）在 n 幕中的起止秒数。"""
+    """第 i 幕（0 起）在 n 幕中的起止秒数（用于 Seedance 分镜的秒数显示）。"""
     step = DURATION / n
     return round(i * step, 1), round((i + 1) * step, 1)
+
+
+def beat_ms(i, n):
+    """第 i 幕（0 起）起始时刻的整数毫秒（15s / n 幕，无浮点误差）。"""
+    return round(i * DURATION * 1000 / n)
+
+
+def fmt_ts(ms):
+    """毫秒 → H3 时间戳 '00:SS.mmm'。"""
+    return f'At 00:{ms // 1000:02d}.{ms % 1000:03d}'
 
 
 def ambient_zh(h):
@@ -189,8 +199,7 @@ def h3_prompt(h, v, aspect, structure):
         for i, b in enumerate(beats):
             if i == 0:
                 continue
-            t0, _ = beat_time(i, n)
-            segs.append(f"At 00:{int(t0):02d}.{int((t0 % 1) * 1000):03d}, 连续长镜头内，{b['title']}——{b['action']}。")
+            segs.append(f"{fmt_ts(beat_ms(i, n))}, 连续长镜头内，{b['title']}——{b['action']}。")
         desc = '\n'.join(segs)
     else:
         # 六镜头分镜：每幕一镜，镜头间剪辑
@@ -198,8 +207,7 @@ def h3_prompt(h, v, aspect, structure):
         for i, b in enumerate(beats):
             if i == 0:
                 continue
-            t0, _ = beat_time(i, n)
-            segs.append(f"[Shot {i + 1}] At 00:{int(t0):02d}.{int((t0 % 1) * 1000):03d}, the camera cuts to "
+            segs.append(f"[Shot {i + 1}] {fmt_ts(beat_ms(i, n))}, the camera cuts to "
                         f"{b['shot']}。{b['title']}——{b['action']}。")
         desc = '\n'.join(segs)
     sound = f"overall_soundscape: {ambient_zh(h)}。无对白、无歌词。"

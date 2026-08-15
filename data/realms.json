@@ -198,7 +198,7 @@
   },
   "global_anchors": {
     "aspect": "双版本：3:4 竖版（发布）与 16:9 横版（封面/视觉冲击）",
-    "aspect_mj": "--ar 3:4",
+    "aspect_mj": "竖版 --ar 3:4；横版 --ar 16:9",
     "render_zh": "照相写实 CG 电影剧照，大气透视，微观细节，轻微胶片颗粒",
     "render_en": "photoreal cinematic still, deep atmospheric perspective, fine micro-detail, subtle film grain",
     "composition": "暗前景框 + 上下二分（上卦占上方，下卦占下方） + 远景消隐",

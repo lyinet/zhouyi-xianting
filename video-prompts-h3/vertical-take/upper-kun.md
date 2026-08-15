@@ -22,12 +22,12 @@ I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (
 
 integrated_multimodal_description:
 [Shot 1] 3:4 竖构图，平视远眺，地平线在画面中下部，宏大靠垂直落差。同一座地宫的上下两层——夯土层台、梯田式庭院、藏于山腹的暗殿、成排的谷仓，下层平台亦是地宫，整座悬空于云海之上。7只白鹿，成群缓行不惊。初幕履霜——地宫石阶上凝起一线薄霜，如履霜，堅冰至，白鹿蹄尖轻触即收。薄暮光时，橙红点缀色；低伏薄雾漫过田畴；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
-At 00:02.100, 连续长镜头内，直方大——梯田式庭院层层铺展，如直方大，不習无不利，鹿群缓行其间。
-At 00:04.299, 连续长镜头内，含章——地宫暗殿中一道天光自窗棂漏下，如含章可貞，或從王事，无成有終。
-At 00:06.400, 连续长镜头内，括囊——谷仓门缓缓合拢，如括囊，无咎无譽，鹿群在仓前驻足。
-At 00:08.599, 连续长镜头内，黄裳——一只白鹿立于庭院中央，暮光为其镀上黄裳之色，如黃裳元吉，高潮。
-At 00:10.699, 连续长镜头内，龙战于野——云海尽头龙形云影与白鹿影相错一瞬，如龍戰于野，其血玄黃，鹿群惊而止。
-At 00:12.900, 连续长镜头内，利永贞——鹿群重新缓行于地宫庭院，如用六永貞，以大終，薄暮歸于宁静。
+At 00:02.143, 连续长镜头内，直方大——梯田式庭院层层铺展，如直方大，不習无不利，鹿群缓行其间。
+At 00:04.286, 连续长镜头内，含章——地宫暗殿中一道天光自窗棂漏下，如含章可貞，或從王事，无成有終。
+At 00:06.429, 连续长镜头内，括囊——谷仓门缓缓合拢，如括囊，无咎无譽，鹿群在仓前驻足。
+At 00:08.571, 连续长镜头内，黄裳——一只白鹿立于庭院中央，暮光为其镀上黄裳之色，如黃裳元吉，高潮。
+At 00:10.714, 连续长镜头内，龙战于野——云海尽头龙形云影与白鹿影相错一瞬，如龍戰于野，其血玄黃，鹿群惊而止。
+At 00:12.857, 连续长镜头内，利永贞——鹿群重新缓行于地宫庭院，如用六永貞，以大終，薄暮歸于宁静。
 
 overall_soundscape: 风声透过薄雾传来，檐铃隐约；水面偶有涟漪轻响；偶有鹿鸣，低沉悠远。无对白、无歌词。
 non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。

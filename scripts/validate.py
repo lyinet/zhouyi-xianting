@@ -1,14 +1,21 @@
 # -*- coding: utf-8 -*-
-"""把 spec 第 7 节的验收标准变成可执行检查。任何一项不过就是回归。
+"""把验收标准变成可执行检查。任何一项不过就是回归。
 
-检查两套输出：prompts/（3:4）与 prompts-wide/（16:9）。
+检查：静态提示词（prompts/、prompts-wide/）、视频提示词（video-prompts/、video-prompts-h3/）、
+以及上下卦分解的四条独立验证（spec 第 4.4 节）。
 """
 import json, os, re, sys
+import collections
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 H = json.load(open(f'{BASE}/data/hexagrams.json', encoding='utf-8'))['hexagrams']
 RJ = json.load(open(f'{BASE}/data/realms.json', encoding='utf-8'))
 R = {r['trigram']: r for r in RJ['realms']}
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from hexagram_checks import verify_decomposition
+
+decomp_fails = verify_decomposition(H)
 
 BANNED = ['masterpiece', 'best quality', '8k', 'ultra detailed', 'highly detailed',
           'award winning', 'trending on artstation', 'hyper realistic', 'super detailed']
@@ -22,6 +29,7 @@ STOP = {'the','a','an','of','in','on','at','and','with','into','from','its','it'
         'across','beneath','above','below','over','under','itself','them','they','you','here'}
 
 fails, warns = [], []
+fails.extend(f'[分解] {f}' for f in decomp_fails)
 
 
 def blocks(md):
@@ -180,7 +188,6 @@ for outdir, aspect in VARIANTS:
 # ==============================================================
 # 视频提示词验收（specs/2026-08-15-zhouyi-xianting-video-design.md 第 6 节）
 # ==============================================================
-import collections as _collections
 
 VIDEO = json.load(open(f'{BASE}/data/video.json', encoding='utf-8'))['hexagrams']
 VIDEO_COMBOS = [  # (aspect, structure, outdir)
@@ -315,6 +322,7 @@ for aspect, structure, outdir in VIDEO_COMBOS:
 
 
 print(f'检查视频 {vgrand} 条（64 卦 × 2 模型 × 2 结构 × 2 画幅）')
+print(f'上下卦分解四条验证：{"通过" if not decomp_fails else "失败"}' if not decomp_fails else f'上下卦分解验证失败 {len(decomp_fails)} 项')
 print('=' * 62)
 print(f'检查 {len(VARIANTS)} 套画幅 × 64 卦 × {len(MODELS)} 模型 = {grand} 条提示词 + 视频 {vgrand} 条')
 print(f'不通过 {len(fails)} 项，警告 {len(warns)} 项')

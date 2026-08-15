@@ -1,0 +1,21 @@
+name: validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 单元测试
+        run: python3 scripts/selftest.py
+
+      - name: 全量验收（静态 512 + 视频 512 + 上下卦分解）
+        run: python3 scripts/validate.py

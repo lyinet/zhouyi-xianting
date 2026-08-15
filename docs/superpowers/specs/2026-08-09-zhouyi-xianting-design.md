@@ -10,7 +10,7 @@
 
 交付两样东西：
 
-1. **提示词库** — 64 卦 × 4 个模型 = 256 条成品提示词
+1. **提示词库** — 64 卦 × 4 个模型 × 2 画幅 = 512 条成品提示词
 2. **转译 skill** — 把"八境 + 三旋钮"的规则固化下来，使后续改画幅、扩到爻图、换模型时可以重跑而非重写
 
 ## 2. 已锁定的决策
@@ -138,23 +138,33 @@
 {
   "no": 3,
   "name": "屯",
-  "pinyin": "zhun",
   "symbol": "䷂",
   "upper": "坎",
   "lower": "震",
-  "guaci": "元亨利貞。勿用有攸往，利建侯。",
-  "theme": "萬物初生之難",
+  "lines": "100010",
+  "upper_realm": "水府",
+  "upper_realm_en": "the Water Court",
+  "lower_realm": "雷坛",
+  "lower_realm_en": "the Thunder Altar",
+  "guaci": "屯：元亨，利貞，勿用有攸往，利建侯。",
+  "tuan": "屯，剛柔始交而難生，動乎險中，大亨貞。…",
+  "daxiang": "雲，雷，屯；君子以經綸。",
+  "yaoci": [
+    { "line": "初九", "text": "磐桓；利居貞，利建侯。", "xiaoxiang": "雖磐桓，志行正也。…" }
+  ],
   "dials": {
     "light": "拂晓",
     "light_reason": "初生之卦，取一日之始",
     "weather": "暴雨初歇，浓云未散",
+    "weather_base": "雨",
     "weather_reason": "屯为险难，坎水在上",
-    "terrain": "浑浊上涨",
+    "terrain": "上涨",
     "terrain_reason": "水漫坛基，动而遇险"
   },
   "creature": { "kind": "丹顶鹤", "count": 1, "state": "静立乱石不动" },
-  "composition": "水府深潭悬于上方，雷坛焦黑的青铜圆坛陷在下方乱石间",
-  "palette": ["墨青", "青铜绿", "淡金"]
+  "palette_zh": ["墨青", "青铜绿", "淡金"],
+  "palette_en": ["ink blue-black", "bronze verdigris", "pale gold"],
+  "source": "https://ctext.org/book-of-changes/zhun/zh"
 }
 ```
 
@@ -200,7 +210,7 @@ xinzhong/
   scripts/
     build_hexagrams.py # 由原文 + 旋钮表构建 hexagrams.json
     en_phrases.py      # 英文短语库，译名全库统一的唯一保障
-    gen_prompts.py     # 生成全部 256 条提示词
+    gen_prompts.py     # 生成全部 512 条提示词
     validate.py        # 把第 7 节验收标准变成可执行检查
   .claude/skills/zhouyi-xianting/
     SKILL.md
@@ -239,7 +249,7 @@ skill 置于 `.claude/skills/` 而非 `skills/`，否则 Claude Code 发现不�
 
 第 1 批（上卦为乾）：乾、履、同人、无妄、姤、讼、遁、否。
 
-**实现状态：8 批已全部生成**（256 条提示词，`scripts/validate.py` 0 项不通过）。原计划的"先交第 1 批再推其余"未执行，因用户要求一次捋顺全部。出图验证仍按批进行，见第 7 节。
+**实现状态：8 批已全部生成**（512 条提示词，`scripts/validate.py` 0 项不通过）。原计划的"先交第 1 批再推其余"未执行，因用户要求一次捋顺全部。出图验证仍按批进行，见第 7 节。
 
 **实现期新增的设计决策：Midjourney 条不使用「天阙」这类自造专名。** 图像模型不认识这些词，写进去只白占词数并稀释主体；专名对系列一致性的作用由 GPT-Image-2 与 Nano Banana Pro 两条承担，MJ 改用 `realms.json` 的 `short_en` 紧凑描述。此项使 MJ 正文从 97–128 词收敛到 81–109 词（均值 93）。
 
@@ -258,7 +268,7 @@ skill 置于 `.claude/skills/` 而非 `skills/`，否则 Claude Code 发现不�
 
 ## 7. 验收标准
 
-以下各项已由 `scripts/validate.py` 实现为可执行检查，每次重跑生成器后必须通过（当前 256 条全过）：
+以下各项已由 `scripts/validate.py` 实现为可执行检查，每次重跑生成器后必须通过（当前 512 条全过）：
 
 - [x] 四条提示词同源：色板成分、画幅在四条中一致
 - [x] 上下境叠合方向正确，上境译名出现在英文两条中

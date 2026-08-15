@@ -22,12 +22,12 @@ I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (
 
 integrated_multimodal_description:
 [Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。同一座天阙的上下两层——云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风，下层平台亦是天阙，整座悬空于云海之上。9只丹顶鹤，列队高翔，不落。初幕潜龙——云海深处一点金光若隐若现，未升未动，如龙潜渊底。正午光时，白炽点缀色；万里无翳，罡风高天；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
-[Shot 2] At 00:02.100, the camera cuts to 全景。见龙——龙形云气浮现在白玉高台之间，九重丹陛逐层亮起。
-[Shot 3] At 00:04.299, the camera cuts to 中景。乾乾——云气蒸腾不息，无梁金顶在罡风中纹丝不动，檐铃细响。
-[Shot 4] At 00:06.400, the camera cuts to 全景。或跃——龙形云气在深渊与天阙之间盘旋试探，欲升又止。
-[Shot 5] At 00:08.599, the camera cuts to 全景。飞龙——龙形云气冲天而起，九只丹顶鹤列队相隨，罡风开道，全片高潮。
-[Shot 6] At 00:10.699, the camera cuts to 大远景。亢龙——龙升至极高处后缓缓回敛，云气散作千缕，歸于天行循环。
-[Shot 7] At 00:12.900, the camera cuts to 大远景。群龙无首——云海尽头群龙之影齐现而不分首从，天行不息，循环往复，收束全片。
+[Shot 2] At 00:02.143, the camera cuts to 全景。见龙——龙形云气浮现在白玉高台之间，九重丹陛逐层亮起。
+[Shot 3] At 00:04.286, the camera cuts to 中景。乾乾——云气蒸腾不息，无梁金顶在罡风中纹丝不动，檐铃细响。
+[Shot 4] At 00:06.429, the camera cuts to 全景。或跃——龙形云气在深渊与天阙之间盘旋试探，欲升又止。
+[Shot 5] At 00:08.571, the camera cuts to 全景。飞龙——龙形云气冲天而起，九只丹顶鹤列队相隨，罡风开道，全片高潮。
+[Shot 6] At 00:10.714, the camera cuts to 大远景。亢龙——龙升至极高处后缓缓回敛，云气散作千缕，歸于天行循环。
+[Shot 7] At 00:12.857, the camera cuts to 大远景。群龙无首——云海尽头群龙之影齐现而不分首从，天行不息，循环往复，收束全片。
 
 overall_soundscape: 高空风声清朗，檐铃偶响；水面偶有涟漪轻响；鹤群低鸣，声如潮涌。无对白、无歌词。
 non_diegetic_music: 编钟与古琴双声部，庄严恢宏，低音铺底。无对白。

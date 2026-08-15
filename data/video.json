@@ -1,4 +1,6 @@
 {
+  "_source": "六幕表由爻辞驱动逐卦撰写，爻辞原文取自 ctext.org（见 data/hexagram_texts.json）",
+  "_verified": "六幕爻标签与 yaoci 一致、64 卦齐全、视频提示词 512 条 0 项不通过（见 scripts/validate.py）",
   "_comment": "视频层单一事实来源，按卦序键控。beats 六幕(初爻→上爻)由爻辞驱动；camera/time_arc 附可辩护理由。",
   "hexagrams": {
     "1": {
