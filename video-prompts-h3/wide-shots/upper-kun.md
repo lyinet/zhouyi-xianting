@@ -27,7 +27,7 @@ integrated_multimodal_description:
 [Shot 4] At 00:06.400, the camera cuts to 中景。括囊——谷仓门缓缓合拢，如括囊，无咎无譽，鹿群在仓前驻足。
 [Shot 5] At 00:08.599, the camera cuts to 中景。黄裳——一只白鹿立于庭院中央，暮光为其镀上黄裳之色，如黃裳元吉，高潮。
 [Shot 6] At 00:10.699, the camera cuts to 全景。龙战于野——云海尽头龙形云影与白鹿影相错一瞬，如龍戰于野，其血玄黃，鹿群惊而止。
-[Shot 7] At 00:12.900, the camera cuts to 大远景。利永贞——鹿群重新缓行于地宫庭院，如用六永貞，以大終，薄暮归于宁静。
+[Shot 7] At 00:12.900, the camera cuts to 大远景。利永贞——鹿群重新缓行于地宫庭院，如用六永貞，以大終，薄暮歸于宁静。
 
 overall_soundscape: 风声透过薄雾传来，檐铃隐约；水面偶有涟漪轻响；偶有鹿鸣，低沉悠远。无对白、无歌词。
 non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。
@@ -86,8 +86,8 @@ integrated_multimodal_description:
 [Shot 2] At 00:02.500, the camera cuts to 全景。包荒——雾气向两侧漫开，露出更远的地平线，第二座极小的地宫若隐若现。
 [Shot 3] At 00:05.000, the camera cuts to 中景。无平不陂——云浪一波波涌过两境，水瀑摆动，建筑纹丝不动，如起伏而守。
 [Shot 4] At 00:07.500, the camera cuts to 中景。翩翩——九只丹顶鹤自天而降，姿态轻盈，掠过两境之间。
-[Shot 5] At 00:10.000, the camera cuts to 全景。帝乙归妹——两境云气汇聚成一道光柱贯通天地，鹤群穿行其间，全片高潮。
-[Shot 6] At 00:12.500, the camera cuts to 全景。城复于隍——光柱缓缓沉降消散，云海回落，画面归于宁静，顶部留白空旷。
+[Shot 5] At 00:10.000, the camera cuts to 全景。帝乙歸妹——两境云气汇聚成一道光柱贯通天地，鹤群穿行其间，全片高潮。
+[Shot 6] At 00:12.500, the camera cuts to 全景。城复于隍——光柱缓缓沉降消散，云海回落，画面歸于宁静，顶部留白空旷。
 
 overall_soundscape: 高空风声清朗，檐铃偶响；水声渐起，缓缓漫过石阶；鹤群低鸣，声如潮涌。无对白、无歌词。
 non_diegetic_music: 编钟与古琴双声部，庄严恢宏，低音铺底。无对白。
@@ -132,7 +132,7 @@ non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。
 > **大象** 澤上有地，臨；君子以教思无窮，容保民无疆。
 
 **旋钮** 光时 拂晓（临者以上临下，取日初升）· 天候 天光渐开，雾自水面退（泽上有地，临）· 水势 上涨（水漫上石阶数级，将及庭）  
-**时间弧** 拂晓恒定（临为来临之初，取拂晓，光不演化；以水涨表其临）  
+**时间弧** 拂晓恒定（臨为来臨之初，取拂晓，光不演化；以水涨表其臨）  
 **色板** 赭黄 + 荷粉 + 淡金　**灵禽** 2只丹顶鹤，临水下视，影在水中
 
 
@@ -142,12 +142,12 @@ non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。
 I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
 integrated_multimodal_description:
-[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方地宫——夯土层台、梯田式庭院、藏于山腹的暗殿、成排的谷仓；下方泽苑——荷池与曲桥、临水回廊、莲与锦鲤、支在水上的敞厅；两境之间云海贯通。2只丹顶鹤，临水下视，影在水中。初幕咸临——两只丹顶鹤临水下视，影在水中，如咸臨，貞吉，晨光初透。拂晓光时，淡金点缀色；天光渐开，雾自水面退；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
-[Shot 2] At 00:02.500, the camera cuts to 中景。咸临吉——鹤影在水面与本体相叠，如咸臨，吉无不利，水纹轻漾。
-[Shot 3] At 00:05.000, the camera cuts to 近景。甘临——鹤俯首欲饮甜水，如甘臨，无攸利，既憂之，无咎，抬头四顾。
-[Shot 4] At 00:07.500, the camera cuts to 中景。至临——鹤缓步至水边极近处，如至臨，无咎，倒影清晰如真。
-[Shot 5] At 00:10.000, the camera cuts to 全景。知临——鹤立于高处俯瞰整片水域，如知臨，大君之宜，吉，高潮。
-[Shot 6] At 00:12.500, the camera cuts to 全景。敦临——鹤在水边久久伫立，如敦臨，吉无咎，晨光渐满。
+[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方地宫——夯土层台、梯田式庭院、藏于山腹的暗殿、成排的谷仓；下方泽苑——荷池与曲桥、临水回廊、莲与锦鲤、支在水上的敞厅；两境之间云海贯通。2只丹顶鹤，临水下视，影在水中。初幕咸臨——两只丹顶鹤臨水下视，影在水中，如咸臨，貞吉，晨光初透。拂晓光时，淡金点缀色；天光渐开，雾自水面退；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
+[Shot 2] At 00:02.500, the camera cuts to 中景。咸臨吉——鹤影在水面与本体相叠，如咸臨，吉无不利，水纹轻漾。
+[Shot 3] At 00:05.000, the camera cuts to 近景。甘臨——鹤俯首欲饮甜水，如甘臨，无攸利，既憂之，无咎，抬头四顾。
+[Shot 4] At 00:07.500, the camera cuts to 中景。至臨——鹤缓步至水边极近处，如至臨，无咎，倒影清晰如真。
+[Shot 5] At 00:10.000, the camera cuts to 全景。知臨——鹤立于高处俯瞰整片水域，如知臨，大君之宜，吉，高潮。
+[Shot 6] At 00:12.500, the camera cuts to 全景。敦臨——鹤在水边久久伫立，如敦臨，吉无咎，晨光渐满。
 
 overall_soundscape: 高空风声清朗，檐铃偶响；水声渐起，缓缓漫过石阶；两鹤相和而鸣。无对白、无歌词。
 non_diegetic_music: 一支清亮的编钟与古琴短句，疏朗初明。无对白。

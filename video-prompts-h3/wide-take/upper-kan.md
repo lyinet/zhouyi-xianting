@@ -83,7 +83,7 @@ I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (
 integrated_multimodal_description:
 [Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方水府——下沉式水院、深潭、暗渠水帘、湿滑苔石；下方地宫——夯土层台、梯田式庭院、藏于山腹的暗殿、成排的谷仓；两境之间云海贯通。9只丹顶鹤，环聚一处，首皆向内。初幕有孚盈缶——水府水面浮起一盏陶缶般的云影，如孚盈缶，九鹤环聚一处，首皆向内。拂晓光时，淡金点缀色；天光初开，薄云散尽；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
 At 00:02.500, 连续长镜头内，比之自内——鹤群自水府内院缓缓聚拢，如比之自內，貞吉，首尾相接。
-At 00:05.000, 连续长镜头内，比之匪人——一只鹤误入远处鹿群，如比之匪人，旋即归队，不亦伤乎。
+At 00:05.000, 连续长镜头内，比之匪人——一只鹤误入远处鹿群，如比之匪人，旋即歸队，不亦伤乎。
 At 00:07.500, 连续长镜头内，外比之——鹤群自外飞入水府，如外比之，貞吉，晨光铺展，高潮。
 At 00:10.000, 连续长镜头内，显比——一只白鹤立于水府中央，群鹤环伺，如顯比，王用三驅，失前禽，邑人不誡。
 At 00:12.500, 连续长镜头内，比之无首——鹤群散去，水面涟漪渐平，如比之无首，凶，晨雾四合。
@@ -232,7 +232,7 @@ I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (
 
 integrated_multimodal_description:
 [Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方水府——下沉式水院、深潭、暗渠水帘、湿滑苔石；下方火殿——长明灯阵、朱漆廊柱、幽深的内殿；两境之间云海贯通。9只丹顶鹤，各得其位，间距均等。初幕曳轮濡尾——九只丹顶鹤各立其位，一只鹤足曳着水草如曳其輪，濡其尾，无咎。正午光时，白炽点缀色；薄雾均匀，气无偏胜；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
-At 00:02.500, 连续长镜头内，妇丧其茀——一只鹤的羽饰没入水中，如婦喪其茀，勿逐七日得，不追自归。
+At 00:02.500, 连续长镜头内，妇丧其茀——一只鹤的羽饰没入水中，如婦喪其茀，勿逐七日得，不追自歸。
 At 00:05.000, 连续长镜头内，高宗伐鬼方——远天雷光一闪，如高宗伐鬼方，三年克之，鹤群不为所动。
 At 00:07.500, 连续长镜头内，终日戒——鹤群在水面整肃而立，如繻有衣袽，終日戒，薄雾微动。
 At 00:10.000, 连续长镜头内，东邻杀牛——鹤群俯首饮水，如東鄰殺牛不如西鄰之禴祭，實受其福，高潮。

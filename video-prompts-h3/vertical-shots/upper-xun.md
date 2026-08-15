@@ -25,7 +25,7 @@ integrated_multimodal_description:
 [Shot 2] At 00:02.500, the camera cuts to 近景。牵复——另一只鹤被同伴轻轻牵引回廊，如牽復之吉，风帘微动。
 [Shot 3] At 00:05.000, the camera cuts to 中景。舆说辐——风廊一角的云车骤然停住，如輿說輻，夫妻反目之象，鹤影分开。
 [Shot 4] At 00:07.500, the camera cuts to 中景。血去惕出——云车重新启动，如血去惕出，鹤影重聚，廊中光复明。
-[Shot 5] At 00:10.000, the camera cuts to 全景。有孚挛如——鹤群在廊中列队相随，如攣如有孚，富以其鄰，密云低垂，高潮。
+[Shot 5] At 00:10.000, the camera cuts to 全景。有孚挛如——鹤群在廊中列队相隨，如攣如有孚，富以其鄰，密云低垂，高潮。
 [Shot 6] At 00:12.500, the camera cuts to 全景。既雨既处——密云终于落雨，如既雨既處，鹤在雨中昂首而立，月几望之辉隐现。
 
 overall_soundscape: 风声透过薄雾传来，檐铃隐约；泽底龟裂，唯余滴水回响；一声孤鹤鸣，清越而远。无对白、无歌词。
@@ -41,7 +41,7 @@ non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。
 > **大象** 風行地上，觀；先王以省方，觀民設教。
 
 **旋钮** 光时 正午（观者仰观，取光明遍照）· 天候 薄雾在下，高处独明（风行地上，观）· 水势 静（水面如镜，供高处俯观）  
-**时间弧** 正午恒定（观为明察之时，光不演化）  
+**时间弧** 正午恒定（觀为明察之时，光不演化）  
 **色板** 竹青 + 赭黄 + 白炽　**灵禽** 1只丹顶鹤，高立廊端远眺
 
 
@@ -51,12 +51,12 @@ non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。
 I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
 integrated_multimodal_description:
-[Shot 1] 3:4 竖构图，平视远眺，地平线在画面中下部，宏大靠垂直落差。上方风廊——极长的空廊、万千经幡、层叠的檐口；下方地宫——夯土层台、梯田式庭院、藏于山腹的暗殿、成排的谷仓；两境之间云海贯通。1只丹顶鹤，高立廊端远眺。初幕童观——一只幼鹤在廊端好奇张望，如童觀，所见浅近，小人无咎君子吝。正午光时，白炽点缀色；薄雾在下，高处独明；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
-[Shot 2] At 00:02.500, the camera cuts to 近景。闚观——幼鹤从镂空花窗缝隙向外窥看，如闚觀，利女貞之象。
-[Shot 3] At 00:05.000, the camera cuts to 中景。观我生——鹤回顾自身来路，如觀我生，進退之间，云海在脚下缓移。
-[Shot 4] At 00:07.500, the camera cuts to 全景。观国之光——鹤在廊端远眺整座仙庭，如觀國之光，利用賓于王，天光铺展，高潮。
-[Shot 5] At 00:10.000, the camera cuts to 中景。观我生——鹤立于最高处回望风廊与自己，如觀我生，君子无咎。
-[Shot 6] At 00:12.500, the camera cuts to 大远景。观其生——鹤在暮光中远望云海尽头，如觀其生，君子无咎，身影融入天光。
+[Shot 1] 3:4 竖构图，平视远眺，地平线在画面中下部，宏大靠垂直落差。上方风廊——极长的空廊、万千经幡、层叠的檐口；下方地宫——夯土层台、梯田式庭院、藏于山腹的暗殿、成排的谷仓；两境之间云海贯通。1只丹顶鹤，高立廊端远眺。初幕童觀——一只幼鹤在廊端好奇张望，如童觀，所见浅近，小人无咎君子吝。正午光时，白炽点缀色；薄雾在下，高处独明；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
+[Shot 2] At 00:02.500, the camera cuts to 近景。闚觀——幼鹤从镂空花窗缝隙向外窥看，如闚觀，利女貞之象。
+[Shot 3] At 00:05.000, the camera cuts to 中景。觀我生——鹤回顾自身来路，如觀我生，進退之间，云海在脚下缓移。
+[Shot 4] At 00:07.500, the camera cuts to 全景。觀国之光——鹤在廊端远眺整座仙庭，如觀國之光，利用賓于王，天光铺展，高潮。
+[Shot 5] At 00:10.000, the camera cuts to 中景。觀我生——鹤立于最高处回望风廊与自己，如觀我生，君子无咎。
+[Shot 6] At 00:12.500, the camera cuts to 大远景。觀其生——鹤在暮光中远望云海尽头，如觀其生，君子无咎，身影融入天光。
 
 overall_soundscape: 风声透过薄雾传来，檐铃隐约；水面偶有涟漪轻响；一声孤鹤鸣，清越而远。无对白、无歌词。
 non_diegetic_music: 编钟与古琴双声部，庄严恢宏，低音铺底。无对白。
@@ -83,9 +83,9 @@ I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (
 integrated_multimodal_description:
 [Shot 1] 3:4 竖构图，平视远眺，地平线在画面中下部，宏大靠垂直落差。上方风廊——极长的空廊、万千经幡、层叠的檐口；下方火殿——长明灯阵、朱漆廊柱、幽深的内殿；两境之间云海贯通。5只丹顶鹤，聚于一巢，大小相依。初幕闲有家——火殿廊下五只丹顶鹤依序立定，如閑有家，悔亡，各自安位。薄暮光时，橙红点缀色；薄雾绕檐，灯火透之；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
 [Shot 2] At 00:02.500, the camera cuts to 近景。在中馈——一只鹤在梁下为雏鹤理羽，如在中饋，无攸遂，贞吉。
-[Shot 3] At 00:05.000, the camera cuts to 中景。家人嗃嗃——鹤群忽齐鸣数声，如家人嗃嗃，悔厉吉，随即复归安静。
+[Shot 3] At 00:05.000, the camera cuts to 中景。家人嗃嗃——鹤群忽齐鸣数声，如家人嗃嗃，悔厉吉，隨即复歸安静。
 [Shot 4] At 00:07.500, the camera cuts to 全景。富家——五鹤衔来水草与莲蓬，堆于廊下，如富家大吉，灯火映亮，高潮。
-[Shot 5] At 00:10.000, the camera cuts to 中景。王假有家——天光自廊顶投下如王者临家，鹤群列队而迎，勿恤往吉。
+[Shot 5] At 00:10.000, the camera cuts to 中景。王假有家——天光自廊顶投下如王者臨家，鹤群列队而迎，勿恤往吉。
 [Shot 6] At 00:12.500, the camera cuts to 全景。有孚威如——鹤群敛翅肃立，如有孚威如，终吉，灯火在薄暮中长明。
 
 overall_soundscape: 风声透过薄雾传来，檐铃隐约；水面偶有涟漪轻响；鹤群低鸣，声如潮涌。无对白、无歌词。
@@ -203,7 +203,7 @@ I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (
 integrated_multimodal_description:
 [Shot 1] 3:4 竖构图，平视远眺，地平线在画面中下部，宏大靠垂直落差。上方风廊——极长的空廊、万千经幡、层叠的檐口；下方水府——下沉式水院、深潭、暗渠水帘、湿滑苔石；两境之间云海贯通。9只丹顶鹤，四散飞开，无一同向。初幕拯马壮——一只幼鹤被水浪卷住，另一只如拯馬壯般疾飞相助，吉。拂晓光时，淡金点缀色；罡风吹散一切聚合之物；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
 [Shot 2] At 00:02.500, the camera cuts to 中景。涣奔其机——鹤群在浪头间奔至一处高台，如渙奔其机，悔亡，暂聚。
-[Shot 3] At 00:05.000, the camera cuts to 中景。涣其躬——一只鹤脱离鹤群独行，如渙其躬，无悔，罡风开道。
+[Shot 3] At 00:05.000, the camera cuts to 中景。涣其躬——一只鹤脱離鹤群独行，如渙其躬，无悔，罡风开道。
 [Shot 4] At 00:07.500, the camera cuts to 全景。涣其群——九鹤四散飞开，如渙其群，元吉，渙有丘，匪夷所思，高潮。
 [Shot 5] At 00:10.000, the camera cuts to 中景。涣汗大号——风势如汗般散开，鹤群鸣声大作，如渙汗其大號，渙王居，无咎。
 [Shot 6] At 00:12.500, the camera cuts to 全景。涣其血——风散雾开，水浪退去，如渙其血去逖出，鹤群重新聚拢于晨光。
@@ -234,9 +234,9 @@ integrated_multimodal_description:
 [Shot 1] 3:4 竖构图，平视远眺，地平线在画面中下部，宏大靠垂直落差。上方风廊——极长的空廊、万千经幡、层叠的檐口；下方泽苑——荷池与曲桥、临水回廊、莲与锦鲤、支在水上的敞厅；两境之间云海贯通。3只丹顶鹤，一大二雏，鸣而相和。初幕虞吉——一只大鹤在泽苑深处低鸣一声，如虞吉，有它不燕，雏鹤侧耳。拂晓光时，淡金点缀色；薄雾覆泽，声传其中；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
 [Shot 2] At 00:02.500, the camera cuts to 中景。鸣鹤在阴——大鹤在廊影深处鸣叫，雏鹤在另一侧应和，如鳴鶴在陰，其子和之，高潮。
 [Shot 3] At 00:05.000, the camera cuts to 中景。得敌——一只雏鹤忽鼓翅忽垂羽，如得敵，或鼓或罷，或泣或歌。
-[Shot 4] At 00:07.500, the camera cuts to 全景。月几望——拂晓天际月轮将满，如月幾望，馬匹亡，鹤影在月下相随。
+[Shot 4] At 00:07.500, the camera cuts to 全景。月几望——拂晓天际月轮将满，如月幾望，馬匹亡，鹤影在月下相隨。
 [Shot 5] At 00:10.000, the camera cuts to 中景。有孚挛如——大鹤与雏鹤以喙相系，如攣如有孚，无咎，晨光渐明。
-[Shot 6] At 00:12.500, the camera cuts to 全景。翰音登天——大鹤鸣声直上云端，如翰音登于天，貞凶之戒，随即敛声。
+[Shot 6] At 00:12.500, the camera cuts to 全景。翰音登天——大鹤鸣声直上云端，如翰音登于天，貞凶之戒，隨即敛声。
 
 overall_soundscape: 风声透过薄雾传来，檐铃隐约；水面偶有涟漪轻响；鹤群低鸣，声如潮涌。无对白、无歌词。
 non_diegetic_music: 一支清亮的编钟与古琴短句，疏朗初明。无对白。

@@ -51,7 +51,7 @@ non_diegetic_music: 编钟与古琴双声部，庄严恢宏，低音铺底。无
 I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
 integrated_multimodal_description:
-[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方火殿——长明灯阵、朱漆廊柱、幽深的内殿；下方雷坛——露天圆坛、高耸的青铜列柱、低压雷云；两境之间云海贯通。1只丹顶鹤，衔物于喙，颈直。初幕屦校灭趾——雷坛台阶上一只鹤足被落石轻压，如校刑加趾，随即挣脱。正午光时，白炽点缀色；电光穿云，雷雨欲来；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
+[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方火殿——长明灯阵、朱漆廊柱、幽深的内殿；下方雷坛——露天圆坛、高耸的青铜列柱、低压雷云；两境之间云海贯通。1只丹顶鹤，衔物于喙，颈直。初幕屦校灭趾——雷坛台阶上一只鹤足被落石轻压，如校刑加趾，隨即挣脱。正午光时，白炽点缀色；电光穿云，雷雨欲来；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
 At 00:02.500, 连续长镜头内，噬肤灭鼻——鹤喙啄入水面如噬嫩肉，水花溅鼻，即入即出。
 At 00:05.000, 连续长镜头内，噬腊遇毒——鹤喙衔起一块干腊般的枯枝，忽抖落，如遇毒而弃，小有吝。
 At 00:07.500, 连续长镜头内，噬干胏——鹤喙咬住水中硬骨般的石棱，用力一扯，得金矢般的一线光。
@@ -82,8 +82,8 @@ I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (
 
 integrated_multimodal_description:
 [Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。同一座火殿的上下两层——长明灯阵、朱漆廊柱、幽深的内殿，下层平台亦是火殿，整座悬空于云海之上。2只丹顶鹤，绕火光盘旋。初幕履错然——火殿灯阵齐齐亮起，光错落如履声杂乱，转瞬整齐。正午光时，白炽点缀色；白炽晴空，无一丝云；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
-At 00:02.500, 连续长镜头内，黄离——一盏黄铜灯自灯阵中亮起，如黄离之明，光色温润，鹤影绕之。
-At 00:05.000, 连续长镜头内，日昃之离——天光西斜，灯阵接续亮起，如不鼓缶而歌则大耋之嗟，光色转沉。
+At 00:02.500, 连续长镜头内，黄離——一盏黄铜灯自灯阵中亮起，如黄離之明，光色温润，鹤影绕之。
+At 00:05.000, 连续长镜头内，日昃之離——天光西斜，灯阵接续亮起，如不鼓缶而歌则大耋之嗟，光色转沉。
 At 00:07.500, 连续长镜头内，突如其来——一道火光突兀腾起，如焚如弃，映红整面铜镜，旋即熄灭。
 At 00:10.000, 连续长镜头内，出涕沱若——火光退去，灯影如泪光点点，鹤影低垂，戚而后吉。
 At 00:12.500, 连续长镜头内，王用出征——火殿灯阵齐明如军阵，天光自窗棂如令旗般投下，鹤群列队掠过，高潮。
@@ -131,7 +131,7 @@ non_diegetic_music: 一支清亮的编钟与古琴短句，疏朗初明。无对
 > **大象** 上火下澤，睽；君子以同而異。
 
 **旋钮** 光时 夜（睽者乖离，取阴晦之时）· 天候 浓雾自中间断开，两侧不通（上火下泽，睽）· 水势 干涸（两处水各自干涸，不相往来）  
-**时间弧** 夜恒定（睽乖之夜，光不演化；唯灯影明灭表其睽离）  
+**时间弧** 夜恒定（睽乖之夜，光不演化；唯灯影明灭表其睽離）  
 **色板** 朱红 + 荷粉 + 月银　**灵禽** 2只丹顶鹤，背向而立，各望一方
 
 
@@ -141,7 +141,7 @@ non_diegetic_music: 一支清亮的编钟与古琴短句，疏朗初明。无对
 I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
 integrated_multimodal_description:
-[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方火殿——长明灯阵、朱漆廊柱、幽深的内殿；下方泽苑——荷池与曲桥、临水回廊、莲与锦鲤、支在水上的敞厅；两境之间云海贯通。2只丹顶鹤，背向而立，各望一方。初幕丧马勿逐——火殿与泽苑之间的雾中，一只鹤影失群而去，如丧马勿逐，自会复归。夜光时，月银点缀色；浓雾自中间断开，两侧不通；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
+[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方火殿——长明灯阵、朱漆廊柱、幽深的内殿；下方泽苑——荷池与曲桥、临水回廊、莲与锦鲤、支在水上的敞厅；两境之间云海贯通。2只丹顶鹤，背向而立，各望一方。初幕丧马勿逐——火殿与泽苑之间的雾中，一只鹤影失群而去，如丧马勿逐，自会复歸。夜光时，月银点缀色；浓雾自中间断开，两侧不通；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
 At 00:02.500, 连续长镜头内，遇主于巷——鹤影在雾中小巷般的廊道与另一只鹤不期而遇，相顾无咎。
 At 00:05.000, 连续长镜头内，舆曳牛掣——泽苑水车般的装置被无形之力牵扯，牛形云气拽之不动，如见舆曳其牛。
 At 00:07.500, 连续长镜头内，睽孤遇元夫——孤鹤在雾中与另一只鹤交颈相认，如遇元夫，交孚相得。
@@ -176,7 +176,7 @@ At 00:02.500, 连续长镜头内，鼎有实——鼎中雾气渐凝如膏，如
 At 00:05.000, 连续长镜头内，鼎耳革——鼎耳处的铜环轻响一声，如耳革行塞，雾气一顿，方雨亏悔。
 At 00:07.500, 连续长镜头内，鼎折足——鼎足处一道裂纹迸现，如折足覆餗，雾气倾泻一瞬，又稳住。
 At 00:10.000, 连续长镜头内，鼎黄耳——鼎耳泛起黄铜金光，如黄耳金铉，雾气自鼎口蒸腾成柱，高潮。
-At 00:12.500, 连续长镜头内，鼎玉铉——鼎身温润如玉光，雾气成云散去，双鹤绕鼎一周后归于静立。
+At 00:12.500, 连续长镜头内，鼎玉铉——鼎身温润如玉光，雾气成云散去，双鹤绕鼎一周后歸于静立。
 
 overall_soundscape: 高空风声清朗，檐铃偶响；水面偶有涟漪轻响；两鹤相和而鸣。无对白、无歌词。
 non_diegetic_music: 编钟与古琴双声部，庄严恢宏，低音铺底。无对白。

@@ -11,7 +11,7 @@
 > **大象** 澤中有雷，隨；君子以嚮晦入宴息。
 
 **旋钮** 光时 薄暮（随时而动，日随天转）· 天候 薄雾随风偏移（泽中有雷，动而说随）· 水势 奔涌（水顺势而流，无所滞）  
-**时间弧** 薄暮恒定（随为相随之时，薄暮不演化）  
+**时间弧** 薄暮恒定（隨为相隨之时，薄暮不演化）  
 **色板** 荷粉 + 青铜绿 + 橙红　**灵禽** 7只丹顶鹤，随水而行，首尾相接
 
 
@@ -21,10 +21,10 @@
 I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
 integrated_multimodal_description:
-[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方泽苑——荷池与曲桥、临水回廊、莲与锦鲤、支在水上的敞厅；下方雷坛——露天圆坛、高耸的青铜列柱、低压雷云；两境之间云海贯通。7只丹顶鹤，随水而行，首尾相接。初幕官渝——水府水面波澜微变，七只丹顶鹤首尾相接，随水流转向而行。薄暮光时，橙红点缀色；薄雾随风偏移；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
-[Shot 2] At 00:02.500, the camera cuts to 中景。系小子——一只幼鹤被水草轻绊，离队片刻，又慌忙跟上，失了一只同伴。
-[Shot 3] At 00:05.000, the camera cuts to 全景。系丈夫——幼鹤追上大队，随行得所，水面倒影成列。
-[Shot 4] At 00:07.500, the camera cuts to 中景。随获——鹤群顺流而下，途中衔起水中浮枝，随而有获。
+[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方泽苑——荷池与曲桥、临水回廊、莲与锦鲤、支在水上的敞厅；下方雷坛——露天圆坛、高耸的青铜列柱、低压雷云；两境之间云海贯通。7只丹顶鹤，随水而行，首尾相接。初幕官渝——水府水面波澜微变，七只丹顶鹤首尾相接，隨水流转向而行。薄暮光时，橙红点缀色；薄雾随风偏移；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
+[Shot 2] At 00:02.500, the camera cuts to 中景。系小子——一只幼鹤被水草轻绊，離队片刻，又慌忙跟上，失了一只同伴。
+[Shot 3] At 00:05.000, the camera cuts to 全景。系丈夫——幼鹤追上大队，隨行得所，水面倒影成列。
+[Shot 4] At 00:07.500, the camera cuts to 中景。隨获——鹤群顺流而下，途中衔起水中浮枝，隨而有获。
 [Shot 5] At 00:10.000, the camera cuts to 全景。孚于嘉——鹤群齐鸣一声，水面涟漪同心扩散，暮光镀金，高潮。
 [Shot 6] At 00:12.500, the camera cuts to 全景。拘系——鹤群聚于一处不再前行，如被无形之力维系，暮色渐沉。
 
@@ -81,12 +81,12 @@ non_diegetic_music: 古琴幽静低回，偶闻一声铜磬长鸣。无对白。
 I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
 integrated_multimodal_description:
-[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方泽苑——荷池与曲桥、临水回廊、莲与锦鲤、支在水上的敞厅；下方山门——巨石门阙、绝壁栈道、石阶尽头、苍松；两境之间云海贯通。2只丹顶鹤，颈交而立。初幕咸拇——两只丹顶鹤立于泽苑水边，足趾微微相触，如感于拇，随即分开。拂晓光时，淡金点缀色；薄雾自泽面升，触山而回；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
+[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方泽苑——荷池与曲桥、临水回廊、莲与锦鲤、支在水上的敞厅；下方山门——巨石门阙、绝壁栈道、石阶尽头、苍松；两境之间云海贯通。2只丹顶鹤，颈交而立。初幕咸拇——两只丹顶鹤立于泽苑水边，足趾微微相触，如感于拇，隨即分开。拂晓光时，淡金点缀色；薄雾自泽面升，触山而回；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
 [Shot 2] At 00:02.500, the camera cuts to 中景。咸腓——鹤影缓缓相向而行，膝胫相近，水面倒影先于本体相接。
-[Shot 3] At 00:05.000, the camera cuts to 中景。咸股——两鹤颈项相随，如股之随行，欲进而又止，在水边徘徊。
+[Shot 3] At 00:05.000, the camera cuts to 中景。咸股——两鹤颈项相隨，如股之隨行，欲进而又止，在水边徘徊。
 [Shot 4] At 00:07.500, the camera cuts to 全景。憧憧往来——鹤影在泽苑与山门之间往来飞旋，如憧憧思虑，终于双双落定，高潮。
 [Shot 5] At 00:10.000, the camera cuts to 中景。咸脢——两鹤颈背相靠而立，如感于脊背，不动而安，雾气在四周轻旋。
-[Shot 6] At 00:12.500, the camera cuts to 近景。咸辅颊舌——两鹤相对低鸣，喙颊相向，如以言语相感，鸣声渐低归于静。
+[Shot 6] At 00:12.500, the camera cuts to 近景。咸辅颊舌——两鹤相对低鸣，喙颊相向，如以言语相感，鸣声渐低歸于静。
 
 overall_soundscape: 风声透过薄雾传来，檐铃隐约；水声渐起，缓缓漫过石阶；两鹤相和而鸣。无对白、无歌词。
 non_diegetic_music: 一支清亮的编钟与古琴短句，疏朗初明。无对白。
@@ -116,7 +116,7 @@ integrated_multimodal_description:
 [Shot 3] At 00:05.000, the camera cuts to 全景。夬夬独行——一只丹顶鹤独行于风浪之间，翅羽被水打湿，仍向前。
 [Shot 4] At 00:07.500, the camera cuts to 中景。牵羊——鹤群在浪间举步维艰，如羊被牵，行而复止。
 [Shot 5] At 00:10.000, the camera cuts to 全景。苋陆——水浪在堤岸前齐齐止步，如苋陆之草根除，决而中行。
-[Shot 6] At 00:12.500, the camera cuts to 大远景。无号——水浪退去，罡风骤止，水面重归平静，唯鹤群低飞掠过，无声。
+[Shot 6] At 00:12.500, the camera cuts to 大远景。无号——水浪退去，罡风骤止，水面重歸平静，唯鹤群低飞掠过，无声。
 
 overall_soundscape: 风声呼啸，经幡猎猎，檐铃急响；激流轰鸣，浪头相撞；鹤群低鸣，声如潮涌。无对白、无歌词。
 non_diegetic_music: 编钟与古琴双声部，庄严恢宏，低音铺底。无对白。
@@ -221,7 +221,7 @@ non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。
 > **大象** 麗澤，兌；君子以朋友講習。
 
 **旋钮** 光时 正午（兑者说也，取最悦之时）· 天候 晴，光碎在水面（丽泽，兑）· 水势 静（两泽相连，水面相通）  
-**时间弧** 正午恒定（兑悦之明时，光不演化）  
+**时间弧** 正午恒定（兌悦之明时，光不演化）  
 **色板** 荷粉 + 水绿 + 白炽　**灵禽** 9只丹顶鹤，戏水，水花溅起
 
 
@@ -231,12 +231,12 @@ non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。
 I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
 integrated_multimodal_description:
-[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。同一座泽苑的上下两层——荷池与曲桥、临水回廊、莲与锦鲤、支在水上的敞厅，下层平台亦是泽苑，整座悬空于云海之上。9只丹顶鹤，戏水，水花溅起。初幕和兑——九只丹顶鹤戏于泽苑水面，水花溅起又落，涟漪相和。正午光时，白炽点缀色；晴，光碎在水面；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
-[Shot 2] At 00:02.500, the camera cuts to 近景。孚兑——一只鹤低头啄水，另一只缓步靠近，以喙相触，如信诺相许。
-[Shot 3] At 00:05.000, the camera cuts to 中景。来兑——一只鹤自远处急急飞来，搅乱水面，众鹤避让，如谄媚来悦。
-[Shot 4] At 00:07.500, the camera cuts to 全景。商兑——鹤群在水面往复游弋，如商议未定，水纹交错，介然有喜。
+[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。同一座泽苑的上下两层——荷池与曲桥、临水回廊、莲与锦鲤、支在水上的敞厅，下层平台亦是泽苑，整座悬空于云海之上。9只丹顶鹤，戏水，水花溅起。初幕和兌——九只丹顶鹤戏于泽苑水面，水花溅起又落，涟漪相和。正午光时，白炽点缀色；晴，光碎在水面；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
+[Shot 2] At 00:02.500, the camera cuts to 近景。孚兌——一只鹤低头啄水，另一只缓步靠近，以喙相触，如信诺相许。
+[Shot 3] At 00:05.000, the camera cuts to 中景。来兌——一只鹤自远处急急飞来，搅乱水面，众鹤避让，如谄媚来悦。
+[Shot 4] At 00:07.500, the camera cuts to 全景。商兌——鹤群在水面往复游弋，如商议未定，水纹交错，介然有喜。
 [Shot 5] At 00:10.000, the camera cuts to 中景。孚于剥——一只鹤被水草暗缠，挣扎片刻，众鹤齐来啄解，如信于剥落之危。
-[Shot 6] At 00:12.500, the camera cuts to 大远景。引兑——鹤群被落日余晖牵引，列队飞向天际，水面金光如引路。
+[Shot 6] At 00:12.500, the camera cuts to 大远景。引兌——鹤群被落日余晖牵引，列队飞向天际，水面金光如引路。
 
 overall_soundscape: 高空风声清朗，檐铃偶响；水面偶有涟漪轻响；鹤群低鸣，声如潮涌。无对白、无歌词。
 non_diegetic_music: 编钟与古琴双声部，庄严恢宏，低音铺底。无对白。

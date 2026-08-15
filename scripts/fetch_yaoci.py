@@ -18,10 +18,13 @@ import urllib.request
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PATH = os.path.join(BASE, 'data', 'hexagrams.json')
 
-# 爻辞单元格:爻标签后紧跟冒号(如 "初九：潛龍，勿用。")。
-# 小象常以爻标签开头(如 "六二之難，乘剛也。")但无冒号,故不以标签+冒号匹配;
-# 《文言》引文形如 "初九曰、「潛龍勿用」..." 亦无冒号,天然排除。
-LINE_RE = re.compile(r'^(初九|初六|九二|六二|九三|六三|九四|六四|九五|六五|上九|上六|用九|用六)[：:]')
+# 爻辞单元格:爻标签后紧跟冒号或逗号(如 "初九：潛龍" / 咸卦 "初六，咸其拇")。
+# ctext 的周易正文严格「爻辞、小象」交替出现;小象偶用逗号且以爻标签开头
+# (如 "用九，天德…" "六四，當位疑也…"),故不能仅靠分隔符区分。
+# 稳妥算法:锚定初爻(初九/初六)作为爻辞块起点,之后每次取一格作爻辞、
+# 紧跟一格作小象,隔行推进 —— 位置结构比标点更可靠。
+LINE_RE = re.compile(r'^(初九|初六|九二|六二|九三|六三|九四|六四|九五|六五|上九|上六|用九|用六)[：:，,]')
+ANCHOR_RE = re.compile(r'^(初九|初六)[：:，,]')
 
 
 def fetch(url, retries=3):
@@ -52,23 +55,22 @@ def parse_cells(html):
 def parse_yaoci(cells):
     """从 ctext 单元格序列中提取 {爻标签: {text, xiaoxiang}}。
 
-    规则:爻标签开头的单元格是爻辞,紧随其后的单元格是其小象。
-    爻辞本身可能以标签开头但内容包含重复标签(如九三),按第一处标签判定。
+    ctext 周易正文严格「爻辞、小象」交替。锚定初爻后隔行推进：
+    每次取一格作爻辞、紧跟一格作小象，位置结构比标点更可靠。
     """
     yaoci = []
-    for i, cell in enumerate(cells):
-        m = LINE_RE.match(cell)
+    i = 0
+    while i < len(cells) and not ANCHOR_RE.match(cells[i]):
+        i += 1
+    while i < len(cells):
+        m = LINE_RE.match(cells[i])
         if not m:
-            continue
+            break
         label = m.group(1)
-        text = cell[len(label):].lstrip('：:').strip()
-        xiaoxiang = ''
-        if i + 1 < len(cells):
-            nxt = cells[i + 1]
-            # 小象:不以"标签+冒号"开头,非文言长段(文言以《开头或含曰、何謂等),长度受限
-            if not LINE_RE.match(nxt) and not nxt.startswith('《') and len(nxt) < 60:
-                xiaoxiang = nxt
+        text = cells[i][len(label):].lstrip('：:，,').strip()
+        xiaoxiang = cells[i + 1] if i + 1 < len(cells) else ''
         yaoci.append({'line': label, 'text': text, 'xiaoxiang': xiaoxiang})
+        i += 2
     return yaoci
 
 

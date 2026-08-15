@@ -25,7 +25,7 @@ integrated_multimodal_description:
 [Shot 2] At 00:02.500, the camera cuts to 中景。包蒙——大鹤将幼鹤拢于翼下，如包蒙吉，納婦吉，子克家，雾气微开。
 [Shot 3] At 00:05.000, the camera cuts to 中景。勿用取女——幼鹤追逐水光乱走，如勿用取女，見金夫不有躬，大鹤唤回。
 [Shot 4] At 00:07.500, the camera cuts to 近景。困蒙——幼鹤困于浓雾一角，如困蒙，吝，大鹤循声而至，雾气围合。
-[Shot 5] At 00:10.000, the camera cuts to 中景。童蒙——幼鹤乖巧随行，如童蒙吉，晨光自雾顶洒下，高潮。
+[Shot 5] At 00:10.000, the camera cuts to 中景。童蒙——幼鹤乖巧隨行，如童蒙吉，晨光自雾顶洒下，高潮。
 [Shot 6] At 00:12.500, the camera cuts to 全景。击蒙——大鹤引幼鹤走出山门浓雾，如擊蒙，不利為寇，利禦寇，雾散天开。
 
 overall_soundscape: 声音被浓雾压低，檐铃几乎不闻；水声渐起，缓缓漫过石阶；一声孤鹤鸣，清越而远。无对白、无歌词。
@@ -86,7 +86,7 @@ integrated_multimodal_description:
 [Shot 3] At 00:05.000, the camera cuts to 中景。贲如濡如——暮光如水浸染鹤羽，如賁如濡如，永貞吉，雾中金光流动。
 [Shot 4] At 00:07.500, the camera cuts to 全景。贲如皤如——鹤羽在雾中忽显素白，如賁如皤如，白馬翰如，匪寇婚媾，高潮。
 [Shot 5] At 00:10.000, the camera cuts to 中景。贲于丘园——鹤在山门丘园间缓行，如賁于丘園，束帛戔戔，吝終吉。
-[Shot 6] At 00:12.500, the camera cuts to 全景。白贲——暮光褪尽，鹤影归于素白，如白賁，无咎，一切文饰皆无。
+[Shot 6] At 00:12.500, the camera cuts to 全景。白贲——暮光褪尽，鹤影歸于素白，如白賁，无咎，一切文饰皆无。
 
 overall_soundscape: 风声透过薄雾传来，檐铃隐约；水面偶有涟漪轻响；两鹤相和而鸣。无对白、无歌词。
 non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。

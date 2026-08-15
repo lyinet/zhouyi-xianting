@@ -25,8 +25,8 @@ integrated_multimodal_description:
 At 00:02.100, 连续长镜头内，见龙——龙形云气浮现在白玉高台之间，九重丹陛逐层亮起。
 At 00:04.299, 连续长镜头内，乾乾——云气蒸腾不息，无梁金顶在罡风中纹丝不动，檐铃细响。
 At 00:06.400, 连续长镜头内，或跃——龙形云气在深渊与天阙之间盘旋试探，欲升又止。
-At 00:08.599, 连续长镜头内，飞龙——龙形云气冲天而起，九只丹顶鹤列队相随，罡风开道，全片高潮。
-At 00:10.699, 连续长镜头内，亢龙——龙升至极高处后缓缓回敛，云气散作千缕，归于天行循环。
+At 00:08.599, 连续长镜头内，飞龙——龙形云气冲天而起，九只丹顶鹤列队相隨，罡风开道，全片高潮。
+At 00:10.699, 连续长镜头内，亢龙——龙升至极高处后缓缓回敛，云气散作千缕，歸于天行循环。
 At 00:12.900, 连续长镜头内，群龙无首——云海尽头群龙之影齐现而不分首从，天行不息，循环往复，收束全片。
 
 overall_soundscape: 高空风声清朗，檐铃偶响；水面偶有涟漪轻响；鹤群低鸣，声如潮涌。无对白、无歌词。
@@ -52,12 +52,12 @@ non_diegetic_music: 编钟与古琴双声部，庄严恢宏，低音铺底。无
 I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
 integrated_multimodal_description:
-[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方天阙——云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风；下方水府——下沉式水院、深潭、暗渠水帘、湿滑苔石；两境之间云海贯通。2只丹顶鹤，相向对峙，翅半张。初幕不永——水面两股暗流相触即散，鹤影在两侧若即若离。薄暮光时，橙红点缀色；高处罡风与低处水气相激；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
-At 00:02.500, 连续长镜头内，归逋——一只鹤影退避入雾，水面回纹成环，如讼者归而逃遁。
+[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方天阙——云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风；下方水府——下沉式水院、深潭、暗渠水帘、湿滑苔石；两境之间云海贯通。2只丹顶鹤，相向对峙，翅半张。初幕不永——水面两股暗流相触即散，鹤影在两侧若即若離。薄暮光时，橙红点缀色；高处罡风与低处水气相激；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
+At 00:02.500, 连续长镜头内，歸逋——一只鹤影退避入雾，水面回纹成环，如讼者歸而逃遯。
 At 00:05.000, 连续长镜头内，食旧德——罡风暂息片刻，旧日波光重现水面，鹤影安然而立。
 At 00:07.500, 连续长镜头内，即命渝——对峙之势一转，水纹齐齐转向，如讼者改命从正。
-At 00:10.000, 连续长镜头内，讼吉——两鹤齐鸣一声，水波对撞后归于平息，金光自雾中透出，高潮即止。
-At 00:12.500, 连续长镜头内，三褫——罡风三起三落，水面金光三明三灭，最终一切归于薄暮。
+At 00:10.000, 连续长镜头内，讼吉——两鹤齐鸣一声，水波对撞后歸于平息，金光自雾中透出，高潮即止。
+At 00:12.500, 连续长镜头内，三褫——罡风三起三落，水面金光三明三灭，最终一切歸于薄暮。
 
 overall_soundscape: 风声呼啸，经幡猎猎，檐铃急响；激流轰鸣，浪头相撞；两鹤相和而鸣。无对白、无歌词。
 non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。
@@ -142,7 +142,7 @@ non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。
 I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
 integrated_multimodal_description:
-[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方天阙——云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风；下方火殿——长明灯阵、朱漆廊柱、幽深的内殿；两境之间云海贯通。9只丹顶鹤，自四方会于一处。初幕于门——第一只丹顶鹤自天阙门阙方向飞来，其余鹤影遥遥相随。正午光时，白炽点缀色；天火相映，长空无云；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
+[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方天阙——云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风；下方火殿——长明灯阵、朱漆廊柱、幽深的内殿；两境之间云海贯通。9只丹顶鹤，自四方会于一处。初幕于门——第一只丹顶鹤自天阙门阙方向飞来，其余鹤影遥遥相隨。正午光时，白炽点缀色；天火相映，长空无云；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
 At 00:02.500, 连续长镜头内，于宗——鹤群在宗廊檐角聚合又散开，光影在朱柱间流转。
 At 00:05.000, 连续长镜头内，伏戎——暗云伏于云海林莽之间，隐有兵气，鹤群绕行不近。
 At 00:07.500, 连续长镜头内，乘墉——鹤群越过高墙般的云脊，翅影掠过宫墙。
@@ -177,7 +177,7 @@ At 00:02.500, 连续长镜头内，不耕获——云海自行翻涌成垄亩之
 At 00:05.000, 连续长镜头内，无妄灾——一道雷光自云隙直劈而下，击中雷坛一角，坛面裂纹迸现，鹤群惊起。
 At 00:07.500, 连续长镜头内，可贞——灾后余烬明灭，鹤群落回，静守于裂坛之侧。
 At 00:10.000, 连续长镜头内，勿药——裂痕处的雾气自愈般弥合，云开一线，光自隙中泄下。
-At 00:12.500, 连续长镜头内，行眚——云气收敛归于平静，鹤群重新列队，唯坛面裂痕为记。
+At 00:12.500, 连续长镜头内，行眚——云气收敛歸于平静，鹤群重新列队，唯坛面裂痕为记。
 
 overall_soundscape: 雨声连绵，檐滴成线；激流轰鸣，浪头相撞；鹤群惊鸣，此起彼伏。无对白、无歌词。
 non_diegetic_music: 编钟与古琴双声部，庄严恢宏，低音铺底。无对白。
@@ -192,7 +192,7 @@ non_diegetic_music: 编钟与古琴双声部，庄严恢宏，低音铺底。无
 > **大象** 天下有山，遯；君子以遠小人，不惡而嚴。
 
 **旋钮** 光时 薄暮（遁者退避，取日入山之时）· 天候 薄雾自山口涌出掩其形（天下有山，遁）· 水势 干涸（水退入岩隙，仅余湿痕）  
-**时间弧** 薄暮恒定（遁为退隐之时，薄暮不演化）  
+**时间弧** 薄暮恒定（遯为退隐之时，薄暮不演化）  
 **色板** 鎏金 + 苍灰 + 橙红　**灵禽** 1只丹顶鹤，退入山影，半身已隐
 
 
@@ -202,12 +202,12 @@ non_diegetic_music: 编钟与古琴双声部，庄严恢宏，低音铺底。无
 I2VA: For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
 integrated_multimodal_description:
-[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方天阙——云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风；下方山门——巨石门阙、绝壁栈道、石阶尽头、苍松；两境之间云海贯通。1只丹顶鹤，退入山影，半身已隐。初幕遁尾——鹤影在雾中露出一角，欲退又顾，山门石阶在身后延展。薄暮光时，橙红点缀色；薄雾自山口涌出掩其形；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
+[Shot 1] 16:9 超宽横构图，平视远眺，地平线略低于中线，宏大靠横向云海。上方天阙——云海之上的白玉高台、九重丹陛、无梁金顶、终年不息的罡风；下方山门——巨石门阙、绝壁栈道、石阶尽头、苍松；两境之间云海贯通。1只丹顶鹤，退入山影，半身已隐。初幕遯尾——鹤影在雾中露出一角，欲退又顾，山门石阶在身后延展。薄暮光时，橙红点缀色；薄雾自山口涌出掩其形；雾气本身被光点亮、是画面最亮区；整体明亮通透，暗部开放不压死黑。35mm film look from a high-budget Chinese fantasy film, subtle grain, real material texture, atmospheric perspective, physically correct motion。no gimbal-smooth camera moves, organic breathing camera; no commercial colour grading, natural filmic colour; no plastic materials, real material texture; no over-sharpening, subtle film grain; no text, captions, watermarks; no close-up faces。顶部留白供后期排字，保持空旷。
 At 00:02.500, 连续长镜头内，执之——山门前的雾气凝而不散，如黄牛之革般缠住鹤影，挽留不去。
-At 00:05.000, 连续长镜头内，系遁——山影与雾纠缠成网，鹤在网中进退两难，翅半展又收。
-At 00:07.500, 连续长镜头内，好遁——雾开一线，鹤身更隐入山影，仅余翅尖一点白。
-At 00:10.000, 连续长镜头内，嘉遁——鹤没入山影，仅余一声清唳在山谷回荡，石阶尽头空无一人。
-At 00:12.500, 连续长镜头内，肥遁——山影合拢，万籁俱寂，唯雾在薄暮中缓缓流动。
+At 00:05.000, 连续长镜头内，系遯——山影与雾纠缠成网，鹤在网中进退两难，翅半展又收。
+At 00:07.500, 连续长镜头内，好遯——雾开一线，鹤身更隐入山影，仅余翅尖一点白。
+At 00:10.000, 连续长镜头内，嘉遯——鹤没入山影，仅余一声清唳在山谷回荡，石阶尽头空无一人。
+At 00:12.500, 连续长镜头内，肥遯——山影合拢，万籁俱寂，唯雾在薄暮中缓缓流动。
 
 overall_soundscape: 风声透过薄雾传来，檐铃隐约；泽底龟裂，唯余滴水回响；一声孤鹤鸣，清越而远。无对白、无歌词。
 non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。
@@ -237,7 +237,7 @@ At 00:02.500, 连续长镜头内，包鱼——云雾如鱼藏于廊底暗处，
 At 00:05.000, 连续长镜头内，次且——丹顶鹤在廊中蹒跚而行，翅半垂，行步迟疑。
 At 00:07.500, 连续长镜头内，无鱼——廊底雾散，藏鱼不见，玄鸟空悬纱幔间。
 At 00:10.000, 连续长镜头内，有陨自天——一道天光自云隙陨落，笼住鹤与玄鸟相遇的一瞬，二者身影相叠。
-At 00:12.500, 连续长镜头内，姤角——鹤与玄鸟相触即分，各归其路，纱幔垂落。
+At 00:12.500, 连续长镜头内，姤角——鹤与玄鸟相触即分，各歸其路，纱幔垂落。
 
 overall_soundscape: 风声透过薄雾传来，檐铃隐约；水面偶有涟漪轻响；一声孤鹤鸣，清越而远。无对白、无歌词。
 non_diegetic_music: 古琴沉缓，音色带余晖之温。无对白。
