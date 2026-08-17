@@ -1,7 +1,7 @@
 # 周易仙庭图集 — 设计文档
 
 - 日期：2026-08-09
-- 状态：待评审（视频扩展已于 2026-08-15 实施，见 `2026-08-15-zhouyi-xianting-video-design.md`）
+- 状态：已转型（本期描述的预生成提示词库已于 2026-08-17 删除，项目转为可安装的起卦 skill，见 `2026-08-17-zhouyi-divination-skill-design.md`。本期的八境、叠合、三旋钮、锚点体系全部继承）
 - 关联：`~/.claude/skills/cinematic-image-prompt/`（底层提示词工程 skill）
 
 ## 1. 目标

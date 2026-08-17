@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
-"""由 data/hexagram_texts.json（ctext 原文）+ 三旋钮表构建 data/hexagrams.json。
+"""由 data/hexagram_texts.json（ctext 原文）+ 三旋钮表构建 skill 数据。
 
 - 原文（卦名/卦画/卦辞/彖/大象/爻辞/source）来自 data/hexagram_texts.json，
   由 scripts/fetch_yaoci.py 抓取维护 —— 本脚本只读不改它。
+- 八境定义读自 .claude/skills/zhouyi-xianting/references/realms.json，
+  产物写入同目录 hexagrams.json（skill 的单一事实来源，随 skill 一起安装）。
 - 三旋钮取值依据每卦的卦辞与大象传，reason 字段必须能被读者反推出卦义。
 - 色板不手挑：上境签名色 + 下境签名色 + 光时点缀色，自动生成。
 - 爻辞(yaoci)从 hexagram_texts.json 透传，重跑本脚本不会丢失爻辞。
@@ -10,8 +12,9 @@
 import json, os
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REF = os.path.join(BASE, '.claude', 'skills', 'zhouyi-xianting', 'references')
 texts = json.load(open(os.path.join(BASE, 'data/hexagram_texts.json'), encoding='utf-8'))['hexagrams']
-realms = json.load(open(os.path.join(BASE, 'data/realms.json'), encoding='utf-8'))
+realms = json.load(open(os.path.join(REF, 'realms.json'), encoding='utf-8'))
 R = {r['trigram']: r for r in realms['realms']}
 ACCENT = realms['accent_by_light']
 
@@ -110,8 +113,8 @@ for r in texts:
         'source': f"https://ctext.org/book-of-changes/{r['slug']}/zh",
     })
 
-os.makedirs(os.path.join(BASE, 'data'), exist_ok=True)
-p = os.path.join(BASE, 'data/hexagrams.json')
+os.makedirs(REF, exist_ok=True)
+p = os.path.join(REF, 'hexagrams.json')
 json.dump({'_source': '卦辞、彖传、大象传、爻辞原文取自中国哲学书电子化计划 ctext.org',
            '_verified': '上下卦分解经四条独立验证（见 scripts/validate.py）：八经卦各作上下卦恰8次、64卦画互异且穷尽2^6、32对序卦全满足反卦或错卦、大象传物象与上下卦相符64/64',
            'hexagrams': out}, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)

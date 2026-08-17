@@ -3,3 +3,4 @@ __pycache__/
 .omc/state/
 .DS_Store
 .claude/settings.local.json*
+.zcode/

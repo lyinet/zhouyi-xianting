@@ -17,5 +17,5 @@ jobs:
       - name: 单元测试
         run: python3 scripts/selftest.py
 
-      - name: 全量验收（静态 512 + 视频 512 + 上下卦分解）
+      - name: skill 数据验收（64 卦 + 8 境 + 幕表 + 短语库 + 上下卦分解五条验证）
         run: python3 scripts/validate.py

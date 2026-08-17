@@ -1,7 +1,7 @@
 # 周易仙庭 · 视频扩展设计文档
 
 - 日期：2026-08-15
-- 状态：已实施（512 条视频提示词，`validate.py` 0 项不通过）
+- 状态：已转型（预生成视频提示词库已于 2026-08-17 删除，视频生成并入统一起卦 skill 的模板层，见 `2026-08-17-zhouyi-divination-skill-design.md`。六爻六幕、运镜规则、去AI味方法论全部继承）
 - 关联：静态图集设计文档 `2026-08-09-zhouyi-xianting-design.md`、`~/.claude/skills/screenwriter/`、[video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill)
 
 ## 1. 目标
