@@ -203,7 +203,6 @@
     "render_en": "photoreal cinematic still, deep atmospheric perspective, fine micro-detail, subtle film grain",
     "composition": "暗前景框 + 上下二分（上卦占上方，下卦占下方） + 远景消隐",
     "camera": "平视远眺，地平线在画面中下部；不用低机位仰视——仰视看不到云海地平线，宏大感就没了",
-    "creature": "远景小点，不露脸，默认丹顶鹤",
     "text": "图上不渲染文字，顶部约 1/5 留白供后期排卦名与卦辞",
     "exposure_zh": "整体明亮通透，雾气本身被光点亮、是画面最亮的区域；暗部开放保留细节，不压死黑",
     "exposure_en": "bright luminous overall exposure, the mist itself lit from within and forming the brightest zone of the picture, shadows open and full of detail, no crushed blacks",
@@ -217,7 +216,7 @@
     "float_en": "the architecture floats free above the cloud sea with no ground beneath it, and a colossal waterfall pours off the platform edge into cloud with no visible bottom",
     "foreground_zh": "前景是受光的精细浮雕——白玉栏板、螭首、磨光石地面，是全画细节最密处，不是黑剪影",
     "foreground_en": "the foreground is sunlit high-relief carving — marble balustrade panels, dragon-head spouts, polished stone paving — the densest detail in the picture, never a black silhouette",
-    "figures_zh": "3-5 个极小的袍服人影立于栏边或堤道，其中一人着橙红衣袍作点缀；此尺寸下五官不成像",
-    "figures_en": "three to five tiny robed figures at the balustrade or on the causeway, one in orange, far too small for facial features to resolve"
+    "figure_zh": "唯一的人物元素：古风女子的背影，远景小点，不露脸、不写容貌年龄；人数与姿态按卦取自 hexagrams.json 的 figure，衣色取该卦色板的点缀色",
+    "figure_en": "the only human element: women seen from behind at a great distance, no faces and no facial detail; count and pose per hexagram, robes in the palette accent colour"
   }
 }

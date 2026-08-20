@@ -1,5 +1,5 @@
 {
- "_comment": "英文短语库。译名一经确定即全库复用——天阙永远是 the Celestial Gate,译名漂移会让英文模型上的成套感断裂。LIGHT/FOREGROUND/FARFADE 按光时/经卦取中英短语;EN 按卦序(字符串键)取该卦灵禽/天候/水势的英文。组件一律存裸短语,框架词只由模板添加一次。",
+ "_comment": "英文短语库。译名一经确定即全库复用——天阙永远是 the Celestial Gate,译名漂移会让英文模型上的成套感断裂。LIGHT/FOREGROUND/FARFADE 按光时/经卦取中英短语;EN 按卦序(字符串键)取该卦远景人物/天候/水势的英文。组件一律存裸短语,框架词只由模板添加一次。",
  "LIGHT": {
   "拂晓": {
    "zh": "拂晓逆光，日尚在山脊之下，天光自主体背后透出",
@@ -88,322 +88,322 @@
  },
  "EN": {
   "1": {
-   "creature": "nine red-crowned cranes flying in formation, never landing",
+   "figure": "three women climbing the vermilion stair, robes pulled straight by the wind, none looking back",
    "weather": "crystalline cloudless air",
    "terrain": "the vapour below lying flat as a mirror"
   },
   "2": {
-   "creature": "seven white deer moving slowly across the terraces, unstartled",
+   "figure": "three women walking slowly between the terraces, unhurried",
    "weather": "low mist creeping over the stepped fields",
    "terrain": "bare earth, no standing water, the dust settled"
   },
   "3": {
-   "creature": "a single red-crowned crane standing motionless on broken rock",
+   "figure": "a woman standing motionless on the broken rock, her hem soaked through",
    "weather": "a downpour just ended, the thunderheads not yet dispersed",
    "terrain": "muddy water rising over the altar steps"
   },
   "4": {
-   "creature": "one young crane testing its footing at the spring",
+   "figure": "a woman taking one testing step forward into the fog",
    "weather": "dense fog sealing the valley",
    "terrain": "a newborn spring seeping out from under the mountain"
   },
   "5": {
-   "creature": "two cranes halted at the water, refusing to advance",
+   "figure": "two women halted at the water, not advancing",
    "weather": "heavy cloud pressed low, the rain gathered but not yet falling",
    "terrain": "the water surface frozen still, everything waiting"
   },
   "6": {
-   "creature": "two cranes facing each other, wings half spread",
+   "figure": "two women facing each other across the water, neither giving way",
    "weather": "high wind above meeting water vapour below",
    "terrain": "currents colliding head-on, ripples crossing"
   },
   "7": {
-   "creature": "twelve cranes standing in silent formation like troops",
+   "figure": "three women standing in silent file, evenly spaced",
    "weather": "thick fog hiding all movement",
    "terrain": "water held beneath the earth, the surface unbroken"
   },
   "8": {
-   "creature": "nine cranes gathered in a ring, every head turned inward",
+   "figure": "three women gathered in a ring, all turned inward",
    "weather": "the sky opened, thin cloud burnt away",
    "terrain": "water flat as a mirror, reflecting the whole realm"
   },
   "9": {
-   "creature": "a lone crane looking up, waiting for rain that will not come",
+   "figure": "a woman looking up at the cloud, waiting for rain that will not fall",
    "weather": "dense cloud that refuses to release its rain",
    "terrain": "the bed dry, the water withdrawn"
   },
   "10": {
-   "creature": "one crane stepping carefully across the mirrored water",
+   "figure": "a woman stepping carefully onto the mirrored water",
    "weather": "clear and windless",
    "terrain": "water stilled to the hardness of ice"
   },
   "11": {
-   "creature": "nine cranes passing up and down between the two realms",
+   "figure": "three women passing up and down between the two realms",
    "weather": "clear sky, vapour threading continuously between above and below",
    "terrain": "water rising through both realms"
   },
   "12": {
-   "creature": "a single crane trapped below, looking up and unable to rise",
+   "figure": "a woman held below, looking up at what she cannot reach",
    "weather": "a dead layer of cloud sealing the middle, above and below cut apart",
    "terrain": "the water below run dry, nothing descending from above"
   },
   "13": {
-   "creature": "nine cranes converging on one point from every direction",
+   "figure": "three women converging on one point from different directions",
    "weather": "clear sky, fire and heaven mirroring each other",
    "terrain": "still water reflecting one shared sky"
   },
   "14": {
-   "creature": "nine cranes circling above the golden roof",
+   "figure": "three women below the golden roof, their robes the brightest thing in the picture",
    "weather": "white-hot daylight, everything lit",
    "terrain": "still water throwing back the gold of the roof"
   },
   "15": {
-   "creature": "one crane bowing to drink, never lifting its neck",
+   "figure": "a woman bending to the water, never straightening",
    "weather": "thin mist rising from below the mountain",
    "terrain": "low water, level, contending with nothing"
   },
   "16": {
-   "creature": "nine cranes with wings raised, on the point of calling",
+   "figure": "three women with heads raised, as if waiting for thunder that has not yet broken",
    "weather": "thunderheads breaking, light pouring through the gap",
    "terrain": "water rising with the thunder"
   },
   "17": {
-   "creature": "seven cranes following the current in single file",
+   "figure": "three women following the current in single file",
    "weather": "thin mist drifting sideways with the wind",
    "terrain": "water running with the slope, nothing held back"
   },
   "18": {
-   "creature": "one crane standing alone among ruined lotus",
+   "figure": "a woman standing alone among the ruined lotus",
    "weather": "stagnant fog that will not lift",
    "terrain": "water rotted down to the bed, lotus collapsed into mud"
   },
   "19": {
-   "creature": "two cranes looking down at the water, their reflections beneath",
+   "figure": "two women looking down at the water, their reflections beneath",
    "weather": "the light opening, mist retreating off the water",
    "terrain": "water risen several steps, about to reach the courtyard"
   },
   "20": {
-   "creature": "a lone crane standing high on the gallery, gazing far out",
+   "figure": "a woman standing high on the gallery, gazing far out",
    "weather": "mist below, the height alone clear",
    "terrain": "the water a mirror, held for the high vantage"
   },
   "21": {
-   "creature": "one crane with something gripped in its beak, neck rigid",
+   "figure": "a woman standing with something held tight, her back rigid",
    "weather": "lightning through cloud, the storm about to break",
    "terrain": "water striking the rocks, sharp and forceful"
   },
   "22": {
-   "creature": "two cranes facing their own reflections",
+   "figure": "two women facing their own reflections in the water",
    "weather": "thin mist carrying the afterglow, colouring everything",
    "terrain": "still water doubling every ornament"
   },
   "23": {
-   "creature": "one crane on steps that are beginning to give way",
+   "figure": "a woman on steps that are beginning to give way",
    "weather": "fine snow falling, not yet settling",
    "terrain": "water withdrawn, the foundations bared"
   },
   "24": {
-   "creature": "a single crane moving upward from deep in the earth",
+   "figure": "a woman climbing up from below, the only thing moving",
    "weather": "snow just cleared, one seam opening in the cloud",
    "terrain": "the first meltwater seeping up from below"
   },
   "25": {
-   "creature": "nine cranes startled into flight in all directions",
+   "figure": "three women scattered by the sudden rain, each going a different way",
    "weather": "thunder and rain arriving abruptly, cloud like a lid",
    "terrain": "water surging up brown from nowhere"
   },
   "26": {
-   "creature": "nine cranes at rest across every step, none in flight",
+   "figure": "three women seated along the steps, none of them rising",
    "weather": "clear and bright, the wind stopped, the cloud anchored",
    "terrain": "water held in the pool, not flowing"
   },
   "27": {
-   "creature": "two cranes pecking at something in the water",
+   "figure": "two women bending to the water, their movements identical",
    "weather": "mist clean and moist enough to drink",
    "terrain": "still water clear enough to look into"
   },
   "28": {
-   "creature": "one crane on a crossbeam about to go under",
+   "figure": "a woman standing on a beam about to go under",
    "weather": "high wind shaking the gallery, every banner horizontal",
    "terrain": "water over the beams, close to the roof"
   },
   "29": {
-   "creature": "a single crane standing against the current, water past its legs",
+   "figure": "a woman standing against the current, water past her shins",
    "weather": "unbroken rain, water arriving upon water",
    "terrain": "torrents falling tier after tier, ceaseless"
   },
   "30": {
-   "creature": "two cranes circling the flame",
+   "figure": "two women walking slowly around the flame",
    "weather": "white-hot clear sky, not one cloud",
    "terrain": "the water burnt off, the stone bleached"
   },
   "31": {
-   "creature": "two cranes with necks crossed",
+   "figure": "two women standing shoulder to shoulder, their sleeves touching",
    "weather": "mist rising off the marsh and turning back at the mountain",
    "terrain": "marsh water reaching the foot of the mountain"
   },
   "32": {
-   "creature": "two cranes standing so long they might be stone",
+   "figure": "two women standing so long they might be stone",
    "weather": "a steady unchanging wind, cloud moving on a fixed course",
    "terrain": "the water level unchanged for years"
   },
   "33": {
-   "creature": "one crane withdrawing into the mountain shadow, half gone already",
+   "figure": "a woman withdrawing into the mountain shadow, half of her already gone",
    "weather": "mist pouring from the mountain mouth and hiding its shape",
    "terrain": "water gone into the rock, only damp remaining"
   },
   "34": {
-   "creature": "nine cranes going straight up",
+   "figure": "three women standing into the wind, every robe streaming back",
    "weather": "high wind tearing the cloud, thunder overhead",
    "terrain": "water striking the cliff and thrown back"
   },
   "35": {
-   "creature": "nine cranes rising in formation",
+   "figure": "three women climbing in formation",
    "weather": "light spreading up from the horizon, the mist in retreat",
    "terrain": "water rising with the light over the first step"
   },
   "36": {
-   "creature": "one crane with folded wings hidden in the dark, a single white line showing",
+   "figure": "a woman hidden in the dark, only a line of pale robe showing",
    "weather": "dense fog swallowing every source of light",
    "terrain": "black water giving back nothing"
   },
   "37": {
-   "creature": "five cranes gathered at one nest, large and small together",
+   "figure": "three women gathered under one eave, older and younger together",
    "weather": "mist round the eaves with lamplight through it",
    "terrain": "the courtyard pool still, holding the lit windows"
   },
   "38": {
-   "creature": "two cranes back to back, each facing away",
+   "figure": "two women back to back, each facing away",
    "weather": "dense fog split down the middle, neither side reaching the other",
    "terrain": "two pools drying separately, never meeting"
   },
   "39": {
-   "creature": "one crane caught to its body in the frozen water",
+   "figure": "a woman caught to the waist in the frozen water, unable to move",
    "weather": "packed snow closing the road, wind carrying grains of ice",
    "terrain": "the water frozen solid, motionless"
   },
   "40": {
-   "creature": "nine cranes opening their wings and flying out of the gorge",
+   "figure": "three women with sleeves loosened, walking out of the gorge",
    "weather": "the storm just ended, the cloud splitting open",
    "terrain": "ice breaking, water running hard"
   },
   "41": {
-   "creature": "a lone crane standing on the mark the water left",
+   "figure": "a woman standing on the mark the water left",
    "weather": "mist thinning, the air giving something up",
    "terrain": "water withdrawn, leaving band after band of old tideline"
   },
   "42": {
-   "creature": "nine cranes descending to receive it, wings slightly open",
+   "figure": "three women opening their sleeves slightly in the fine rain",
    "weather": "fine rain, soundless",
    "terrain": "water rising slowly, reaching the roots"
   },
   "43": {
-   "creature": "nine cranes flying hard to escape the water",
+   "figure": "three women hurrying clear of the water, every hem thrown up",
    "weather": "high wind ripping the cloud, light straight down",
    "terrain": "a breached bank, water pouring across"
   },
   "44": {
-   "creature": "one crane meeting a single dark bird it did not expect",
+   "figure": "a woman passing an unexpected figure at the foot of the gallery",
    "weather": "wind starting at floor level, the hanging banners just stirring",
    "terrain": "one fine line opening across the still water"
   },
   "45": {
-   "creature": "twelve cranes massed in one place, too many to count",
+   "figure": "three women massed so close they almost merge",
    "weather": "clear sky, the air washed",
    "terrain": "water pooling and rising"
   },
   "46": {
-   "creature": "one crane spiralling upward, higher with each turn",
+   "figure": "a woman spiralling up the stair, higher with each turn",
    "weather": "mist rising through the columns from below",
    "terrain": "water climbing the steps one level at a time"
   },
   "47": {
-   "creature": "one crane trapped in the dry marsh, wings hanging",
+   "figure": "a woman stranded at the centre of the dry marsh, her sleeves hanging",
    "weather": "dense fog pressing down, no way out",
    "terrain": "the marsh bed cracked, not a drop left"
   },
   "48": {
-   "creature": "one crane bending to drink from the well",
+   "figure": "a woman bending over the well",
    "weather": "mist over the wellmouth, air rising out of the shaft",
    "terrain": "well water deep and unmoving, clear enough to mirror a face"
   },
   "49": {
-   "creature": "five cranes moulting, old feathers on the water",
+   "figure": "three women in changed robes, the old ones lying on the water",
    "weather": "the wind changing direction, the cloud turning over",
    "terrain": "water and fire cancelling, the level dropping fast"
   },
   "50": {
-   "creature": "two cranes stationed either side of the vessel like guards",
+   "figure": "two women stationed either side of the steps like guards",
    "weather": "clear, with cooking smoke going straight up",
    "terrain": "still water, the vessel reflected without a tremor"
   },
   "51": {
-   "creature": "twelve cranes flushed up across the whole realm",
+   "figure": "three women turning to look back at the same instant",
    "weather": "lightning and thunder together, wind tearing the banners",
    "terrain": "the water shattering inch by inch"
   },
   "52": {
-   "creature": "one crane on a single leg, unmoved for a long time",
+   "figure": "a woman standing still so long she seems rooted",
    "weather": "clear, the wind entirely stopped, no dust moving",
    "terrain": "the water absolutely unrippled, as if set"
   },
   "53": {
-   "creature": "seven cranes climbing the stair in strict order",
+   "figure": "three women climbing the stair in order, pausing at each level",
    "weather": "mist withdrawing layer by layer",
    "terrain": "water crossing the steps one level at a time, pausing at each"
   },
   "54": {
-   "creature": "two cranes, one ahead and one behind, never abreast",
+   "figure": "two women one ahead and one behind, never abreast",
    "weather": "thin mist taking the afterglow, the colour warm",
    "terrain": "still water holding two figures in file"
   },
   "55": {
-   "creature": "twelve cranes at full number, filling the realm",
+   "figure": "three women filling the terrace, their robes at their brightest",
    "weather": "clear, the light so strong that nothing casts a side shadow",
    "terrain": "the water full and level, at its height"
   },
   "56": {
-   "creature": "one crane passing straight through, wings still spread",
+   "figure": "a woman passing through without stopping, her sleeves still loose",
    "weather": "mist far off, the near air clear",
    "terrain": "water too shallow to stay in"
   },
   "57": {
-   "creature": "nine cranes gliding downwind, wings motionless",
+   "figure": "three women standing downwind, every robe laid flat",
    "weather": "a long wind through the gallery, every banner laid flat",
    "terrain": "the water pressed dead flat by the wind"
   },
   "58": {
-   "creature": "nine cranes playing in the water, spray thrown up",
+   "figure": "three women playing at the water, spray thrown up",
    "weather": "clear, the light broken across the surface",
    "terrain": "two marshes joined, their waters continuous"
   },
   "59": {
-   "creature": "nine cranes scattering, no two on the same heading",
+   "figure": "three women scattering, no two on the same heading",
    "weather": "high wind driving apart everything that had gathered",
    "terrain": "water pushed apart, ripples radiating outward"
   },
   "60": {
-   "creature": "two cranes stationed either side of the divide",
+   "figure": "two women stationed either side of the divide",
    "weather": "clear, each cloud keeping its own boundary",
    "terrain": "the water standing exactly at the marked level"
   },
   "61": {
-   "creature": "three cranes, one adult and two chicks, calling and answering",
+   "figure": "three women calling to each other through the mist, one older and two young",
    "weather": "mist over the marsh carrying the sound",
    "terrain": "still water in which the sound seems visible"
   },
   "62": {
-   "creature": "one crane flying low across the ridge, never rising high",
+   "figure": "a woman moving low across the ridge, never rising to full height",
    "weather": "high wind skimming the ridgeline, cloud low and fast",
    "terrain": "the water barely rippled, crossed but not entered"
   },
   "63": {
-   "creature": "nine cranes each in its own position, evenly spaced",
+   "figure": "three women each in her own place, evenly spaced",
    "weather": "even mist, neither element dominant",
    "terrain": "water level matched to fire level, each in place"
   },
   "64": {
-   "creature": "one young crane crossing, its tail dragging wet",
+   "figure": "a woman fording the water, her skirt already wet",
    "weather": "fog not yet lifted, the way ahead unreadable",
    "terrain": "water fast and not yet fordable"
   }

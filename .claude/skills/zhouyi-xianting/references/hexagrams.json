@@ -62,10 +62,11 @@
     "terrain": "静",
     "terrain_reason": "云海平展如镜，健而不躁"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "列队高翔，不落"
+   "figure": {
+    "count": 3,
+    "pose": "沿丹陛拾级而上，衣袂被罡风拉直，无一人回头",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "鎏金",
@@ -139,10 +140,11 @@
     "terrain": "静",
     "terrain_reason": "土面无水，尘息不起"
    },
-   "creature": {
-    "kind": "白鹿",
-    "count": 7,
-    "state": "成群缓行不惊"
+   "figure": {
+    "count": 3,
+    "pose": "在层台间缓步而行，步子不急",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "赭黄",
@@ -211,10 +213,11 @@
     "terrain": "上涨",
     "terrain_reason": "浑水漫过坛基石阶，动而遇险"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "静立乱石不动"
+    "pose": "立在乱石上不动，衣角已湿透",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "墨青",
@@ -283,10 +286,11 @@
     "terrain": "上涨",
     "terrain_reason": "山下初出之泉，细流渐盈"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "幼鹤试步于泉边"
+    "pose": "在雾里试探着向前迈出一步",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "苍灰",
@@ -355,10 +359,11 @@
     "terrain": "静",
     "terrain_reason": "水面凝止如镜，一切待命"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 2,
-    "state": "驻足水畔久不前行"
+    "pose": "驻足水畔，久不前行",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "墨青",
@@ -427,10 +432,11 @@
     "terrain": "奔涌",
     "terrain_reason": "逆流相冲，水纹对撞"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 2,
-    "state": "相向对峙，翅半张"
+    "pose": "隔水相向而立，谁也不退",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "鎏金",
@@ -499,10 +505,11 @@
     "terrain": "静",
     "terrain_reason": "水伏地下，表面无波"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 12,
-    "state": "列阵如兵，静默成行"
+   "figure": {
+    "count": 3,
+    "pose": "静默成列，间距一致",
+    "robe_zh": "月银",
+    "robe_en": "moon silver"
    },
    "palette_zh": [
     "赭黄",
@@ -571,10 +578,11 @@
     "terrain": "静",
     "terrain_reason": "水面平如镜，映出全境"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "环聚一处，首皆向内"
+   "figure": {
+    "count": 3,
+    "pose": "环聚一处，都朝向中间",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "墨青",
@@ -643,10 +651,11 @@
     "terrain": "干涸",
     "terrain_reason": "水痕见底，泽未及物"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "仰首待雨不得"
+    "pose": "仰首望云，等一场不落的雨",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "竹青",
@@ -715,10 +724,11 @@
     "terrain": "静",
     "terrain_reason": "水面凝止，如可履之冰"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "缓步于镜面水上"
+    "pose": "在镜面般的水上小心落步",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "鎏金",
@@ -787,10 +797,11 @@
     "terrain": "上涨",
     "terrain_reason": "水气自下而上贯穿两境"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "上下穿行于两境之间"
+   "figure": {
+    "count": 3,
+    "pose": "在上下两境之间往来穿行",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "赭黄",
@@ -859,10 +870,11 @@
     "terrain": "干涸",
     "terrain_reason": "下方水尽见底，上方不下泽"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "困于下方，仰视不得上"
+    "pose": "困在下方，仰头望着上不去的地方",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "鎏金",
@@ -931,10 +943,11 @@
     "terrain": "静",
     "terrain_reason": "水面静而共映一天"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "自四方会于一处"
+   "figure": {
+    "count": 3,
+    "pose": "自四方走向同一处",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "鎏金",
@@ -1003,10 +1016,11 @@
     "terrain": "静",
     "terrain_reason": "水面反射金顶，纹丝不动"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "盘旋于金顶之上"
+   "figure": {
+    "count": 3,
+    "pose": "立于金顶之下，衣色是画面最亮处",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "朱红",
@@ -1075,10 +1089,11 @@
     "terrain": "静",
     "terrain_reason": "水低而不争，面平"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "俯首饮水，不举颈"
+    "pose": "俯身取水，始终未直起腰",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "赭黄",
@@ -1147,10 +1162,11 @@
     "terrain": "上涨",
     "terrain_reason": "水随雷动，渐次上漫"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "振翅欲鸣，未起"
+   "figure": {
+    "count": 3,
+    "pose": "仰头静立，像在等一声将响未响的雷",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "青铜绿",
@@ -1219,10 +1235,11 @@
     "terrain": "奔涌",
     "terrain_reason": "水顺势而流，无所滞"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 7,
-    "state": "随水而行，首尾相接"
+   "figure": {
+    "count": 3,
+    "pose": "顺水而行，首尾相接",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "荷粉",
@@ -1291,10 +1308,11 @@
     "terrain": "干涸",
     "terrain_reason": "水腐见底，败荷委泥"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "独立败荷之间"
+    "pose": "独立于败荷之间",
+    "robe_zh": "月银",
+    "robe_en": "moon silver"
    },
    "palette_zh": [
     "苍灰",
@@ -1363,10 +1381,11 @@
     "terrain": "上涨",
     "terrain_reason": "水漫上石阶数级，将及庭"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 2,
-    "state": "临水下视，影在水中"
+    "pose": "临水下视，影在水中",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "赭黄",
@@ -1435,10 +1454,11 @@
     "terrain": "静",
     "terrain_reason": "水面如镜，供高处俯观"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "高立廊端远眺"
+    "pose": "高立廊端远眺",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "竹青",
@@ -1507,10 +1527,11 @@
     "terrain": "奔涌",
     "terrain_reason": "水激石间，声势凌厉"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "衔物于喙，颈直"
+    "pose": "握着什么站着，肩背绷直",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "朱红",
@@ -1579,10 +1600,11 @@
     "terrain": "静",
     "terrain_reason": "水面如镜，倒影成双重华饰"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 2,
-    "state": "与水中倒影相对"
+    "pose": "与水中倒影相对而立",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "苍灰",
@@ -1651,10 +1673,11 @@
     "terrain": "干涸",
     "terrain_reason": "水退见底，阶基裸露"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "立于将倾之阶"
+    "pose": "立在将倾的石阶上",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "苍灰",
@@ -1723,10 +1746,11 @@
     "terrain": "上涨",
     "terrain_reason": "初融之水自地宫深处渗出"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "自下方向上而行"
+    "pose": "自下方拾级向上，是画面里唯一在动的人",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "赭黄",
@@ -1795,10 +1819,11 @@
     "terrain": "奔涌",
     "terrain_reason": "水暴涨而浊，来势无端"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "惊起四散"
+   "figure": {
+    "count": 3,
+    "pose": "被骤雨惊散，各奔一方",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "鎏金",
@@ -1867,10 +1892,11 @@
     "terrain": "静",
     "terrain_reason": "水蓄于潭而不流"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "栖止满阶，皆不飞"
+   "figure": {
+    "count": 3,
+    "pose": "沿阶而坐，无一人起身",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "苍灰",
@@ -1939,10 +1965,11 @@
     "terrain": "静",
     "terrain_reason": "水静可鉴，自求口实"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 2,
-    "state": "对啄水中之物"
+    "pose": "俯身就水，动作相同",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "苍灰",
@@ -2011,10 +2038,11 @@
     "terrain": "上涨",
     "terrain_reason": "水没栋梁，将及顶"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "立于将没的横梁"
+    "pose": "立在将没的横梁上",
+    "robe_zh": "月银",
+    "robe_en": "moon silver"
    },
    "palette_zh": [
     "荷粉",
@@ -2083,10 +2111,11 @@
     "terrain": "奔涌",
     "terrain_reason": "层层跌落的激流，无有止息"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "逆流独立，水没其胫"
+    "pose": "逆流而立，水已没胫",
+    "robe_zh": "月银",
+    "robe_en": "moon silver"
    },
    "palette_zh": [
     "墨青",
@@ -2155,10 +2184,11 @@
     "terrain": "干涸",
     "terrain_reason": "水尽而炎上，石面焦白"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 2,
-    "state": "绕火光盘旋"
+    "pose": "绕着火光缓行",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "朱红",
@@ -2227,10 +2257,11 @@
     "terrain": "上涨",
     "terrain_reason": "泽水漫向山根，二境相接"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 2,
-    "state": "颈交而立"
+    "pose": "并肩而立，衣袖相接",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "荷粉",
@@ -2299,10 +2330,11 @@
     "terrain": "静",
     "terrain_reason": "水位恒定，痕迹经年不移"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 2,
-    "state": "久立不动，如已成石"
+    "pose": "久立不动，像已站成石像",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "青铜绿",
@@ -2371,10 +2403,11 @@
     "terrain": "干涸",
     "terrain_reason": "水退入岩隙，仅余湿痕"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "退入山影，半身已隐"
+    "pose": "退入山影，半身已隐",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "鎏金",
@@ -2443,10 +2476,11 @@
     "terrain": "奔涌",
     "terrain_reason": "水撞石壁而反溅"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "冲天而起"
+   "figure": {
+    "count": 3,
+    "pose": "迎风直立，衣袂全部向后",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "青铜绿",
@@ -2515,10 +2549,11 @@
     "terrain": "上涨",
     "terrain_reason": "水随光升，漫过第一级阶"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "成列向上飞升"
+   "figure": {
+    "count": 3,
+    "pose": "成列向上而行",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "朱红",
@@ -2587,10 +2622,11 @@
     "terrain": "静",
     "terrain_reason": "水黑不反光，如无"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "敛翼藏于暗处，仅露一线白"
+    "pose": "藏在暗处，只露出一线衣白",
+    "robe_zh": "月银",
+    "robe_en": "moon silver"
    },
    "palette_zh": [
     "赭黄",
@@ -2659,10 +2695,11 @@
     "terrain": "静",
     "terrain_reason": "庭中水池平静，映出窗火"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 5,
-    "state": "聚于一巢，大小相依"
+   "figure": {
+    "count": 3,
+    "pose": "聚在同一檐下，长幼相依",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "竹青",
@@ -2731,10 +2768,11 @@
     "terrain": "干涸",
     "terrain_reason": "两处水各自干涸，不相往来"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 2,
-    "state": "背向而立，各望一方"
+    "pose": "背向而立，各望一方",
+    "robe_zh": "月银",
+    "robe_en": "moon silver"
    },
    "palette_zh": [
     "朱红",
@@ -2803,10 +2841,11 @@
     "terrain": "静",
     "terrain_reason": "水已冰封，凝止不流"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "半身陷于冰水不能行"
+    "pose": "半身陷在冰水里，不能行",
+    "robe_zh": "月银",
+    "robe_en": "moon silver"
    },
    "palette_zh": [
     "墨青",
@@ -2875,10 +2914,11 @@
     "terrain": "奔涌",
     "terrain_reason": "冰解水行，激流奔泻"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "舒翅飞出峡口"
+   "figure": {
+    "count": 3,
+    "pose": "舒展衣袖，正走出峡口",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "青铜绿",
@@ -2947,10 +2987,11 @@
     "terrain": "干涸",
     "terrain_reason": "水退留下层层旧水痕"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "立于退去的水痕之上"
+    "pose": "立在退去的水痕之上",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "苍灰",
@@ -3019,10 +3060,11 @@
     "terrain": "上涨",
     "terrain_reason": "水缓缓上涨，润及草木"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "下降受泽，翅微张"
+   "figure": {
+    "count": 3,
+    "pose": "在细雨里微微张开衣袖",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "竹青",
@@ -3091,10 +3133,11 @@
     "terrain": "奔涌",
     "terrain_reason": "决堤之水横泻而下"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "疾飞避水"
+   "figure": {
+    "count": 3,
+    "pose": "疾行避水，衣摆全部扬起",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "荷粉",
@@ -3163,10 +3206,11 @@
     "terrain": "静",
     "terrain_reason": "水面初起一道细纹"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "与一只玄鸟不期而遇"
+    "pose": "在廊底与一个不期而遇的身影擦身",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "鎏金",
@@ -3235,10 +3279,11 @@
     "terrain": "上涨",
     "terrain_reason": "水聚成泽，渐次上涨"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 12,
-    "state": "大聚于一处，密不可数"
+   "figure": {
+    "count": 3,
+    "pose": "密聚一处，几乎连成一片",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "荷粉",
@@ -3307,10 +3352,11 @@
     "terrain": "上涨",
     "terrain_reason": "水沿阶级逐层上升"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "盘旋而上，越升越高"
+    "pose": "沿阶盘旋而上，越登越高",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "赭黄",
@@ -3379,10 +3425,11 @@
     "terrain": "干涸",
     "terrain_reason": "泽底龟裂，滴水不存"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "困于涸泽，翅垂"
+    "pose": "困在涸泽中央，衣袖垂着",
+    "robe_zh": "月银",
+    "robe_en": "moon silver"
    },
    "palette_zh": [
     "荷粉",
@@ -3451,10 +3498,11 @@
     "terrain": "静",
     "terrain_reason": "井水深而不动，可鉴人"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "俯井而饮"
+    "pose": "俯身向井",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "墨青",
@@ -3523,10 +3571,11 @@
     "terrain": "干涸",
     "terrain_reason": "水火相息，水位骤降"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 5,
-    "state": "换羽，旧羽落于水面"
+   "figure": {
+    "count": 3,
+    "pose": "换了衣色，旧衣落在水面",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "荷粉",
@@ -3595,10 +3644,11 @@
     "terrain": "静",
     "terrain_reason": "水静而鼎影不摇"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 2,
-    "state": "分立鼎侧如守"
+    "pose": "分立阶侧如守",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "朱红",
@@ -3667,10 +3717,11 @@
     "terrain": "奔涌",
     "terrain_reason": "水面被震得寸寸碎裂"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 12,
-    "state": "满境惊飞"
+   "figure": {
+    "count": 3,
+    "pose": "在雷声里同时回头",
+    "robe_zh": "月银",
+    "robe_en": "moon silver"
    },
    "palette_zh": [
     "青铜绿",
@@ -3739,10 +3790,11 @@
     "terrain": "静",
     "terrain_reason": "水面绝无一纹，如凝固"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "一足独立，久不移"
+    "pose": "立定不动，久到像已生根",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "苍灰",
@@ -3811,10 +3863,11 @@
     "terrain": "上涨",
     "terrain_reason": "水逐级漫过石阶，一级一停"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 7,
-    "state": "列队渐次登阶"
+   "figure": {
+    "count": 3,
+    "pose": "列队登阶，一级一停",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "竹青",
@@ -3883,10 +3936,11 @@
     "terrain": "静",
     "terrain_reason": "水静，映出两影一前一后"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 2,
-    "state": "一前一后，不并行"
+    "pose": "一前一后，始终不并行",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "青铜绿",
@@ -3955,10 +4009,11 @@
     "terrain": "静",
     "terrain_reason": "水满而平，盛极"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 12,
-    "state": "极盛，满境皆是"
+   "figure": {
+    "count": 3,
+    "pose": "满立于台，衣色最盛",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "青铜绿",
@@ -4027,10 +4082,11 @@
     "terrain": "干涸",
     "terrain_reason": "水浅不足以居"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "过境不停，翅未收"
+    "pose": "过境不停，衣袖未收",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "朱红",
@@ -4099,10 +4155,11 @@
     "terrain": "静",
     "terrain_reason": "水面被风压得极平"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "顺风滑翔，翅不动"
+   "figure": {
+    "count": 3,
+    "pose": "顺风而立，衣袂尽偃",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "竹青",
@@ -4171,10 +4228,11 @@
     "terrain": "静",
     "terrain_reason": "两泽相连，水面相通"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "戏水，水花溅起"
+   "figure": {
+    "count": 3,
+    "pose": "临水嬉戏，水花溅起",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "荷粉",
@@ -4243,10 +4301,11 @@
     "terrain": "奔涌",
     "terrain_reason": "水被风推散，纹路四射"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "四散飞开，无一同向"
+   "figure": {
+    "count": 3,
+    "pose": "四散走开，无一同向",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "竹青",
@@ -4315,10 +4374,11 @@
     "terrain": "静",
     "terrain_reason": "水位恰在阶级刻度处"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 2,
-    "state": "分立于分水处两侧"
+    "pose": "分立于分水处两侧",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "墨青",
@@ -4387,10 +4447,11 @@
     "terrain": "静",
     "terrain_reason": "水静，声纹可见"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 3,
-    "state": "一大二雏，鸣而相和"
+    "pose": "隔雾相呼，一长二幼",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "竹青",
@@ -4459,10 +4520,11 @@
     "terrain": "静",
     "terrain_reason": "水面仅起微澜，过而不深"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "低飞过山，不高举"
+    "pose": "低身掠过山脊，不曾直起",
+    "robe_zh": "橙红",
+    "robe_en": "orange-red"
    },
    "palette_zh": [
     "青铜绿",
@@ -4531,10 +4593,11 @@
     "terrain": "静",
     "terrain_reason": "水位与火位相平，各安"
    },
-   "creature": {
-    "kind": "丹顶鹤",
-    "count": 9,
-    "state": "各得其位，间距均等"
+   "figure": {
+    "count": 3,
+    "pose": "各就其位，间距均等",
+    "robe_zh": "白炽",
+    "robe_en": "white-hot"
    },
    "palette_zh": [
     "墨青",
@@ -4603,10 +4666,11 @@
     "terrain": "奔涌",
     "terrain_reason": "水急而未可涉"
    },
-   "creature": {
-    "kind": "丹顶鹤",
+   "figure": {
     "count": 1,
-    "state": "幼鹤涉水，濡其尾"
+    "pose": "涉水而过，裙裾已湿",
+    "robe_zh": "淡金",
+    "robe_en": "pale gold"
    },
    "palette_zh": [
     "朱红",

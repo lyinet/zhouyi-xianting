@@ -114,6 +114,26 @@ check('en-phrases LIGHT/FARFADE 与数据值域一致',
 check('色板第三色=光时点缀色(两主一辅规则)',
       all(h['palette_zh'][2] == RJ['accent_by_light'][h['dials']['light']]['zh'] for h in H))
 
+# --- 远景人物：取代灵禽后的四条不变量 ---
+def robe_ok(rows):
+    return all(r['figure']['robe_zh'] == r['palette_zh'][2] and
+               r['figure']['robe_en'] == r['palette_en'][2] for r in rows)
+
+check('人物 64 卦齐,人数只取 1/2/3(孤/合/群)',
+      len([h for h in H if 'figure' in h]) == 64 and
+      {h['figure']['count'] for h in H} <= {1, 2, 3})
+check('人物姿态非空且不写容貌年龄',
+      all(h['figure']['pose'].strip() and
+          not any(w in h['figure']['pose'] for w in ('容貌', '五官', '面容', '岁', '美貌'))
+          for h in H))
+check('人物衣色=该卦色板点缀色', robe_ok(H))
+mut = copy.deepcopy(H)
+mut[0]['figure']['robe_zh'] = '靛蓝'
+check('变异(衣色脱离色板)被抓出', not robe_ok(mut))
+check('en-phrases 已由灵禽改为人物且覆盖 64 卦',
+      all('figure' in EP['EN'][str(h['no'])] and 'creature' not in EP['EN'][str(h['no'])]
+          for h in H))
+
 
 print(f'\n结果：{passed} 通过，{failed} 失败')
 sys.exit(1 if failed else 0)

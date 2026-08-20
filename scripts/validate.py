@@ -54,11 +54,10 @@ for r in RJ['realms']:
         fails.append(f'{tag} 签名色应为中英各 2 色')
 if set(RJ.get('accent_by_light', {})) != LIGHTS:
     fails.append('[realms] accent_by_light 须覆盖四种光时')
-for k in ('aspect', 'render_zh', 'render_en', 'camera', 'creature', 'text',
+for k in ('aspect', 'render_zh', 'render_en', 'camera', 'figure_zh', 'figure_en', 'text',
           'exposure_zh', 'exposure_en', 'scale_zh', 'scale_en',
           'negative_space_zh', 'negative_space_en', 'vista_zh', 'vista_en',
-          'float_zh', 'float_en', 'foreground_zh', 'foreground_en',
-          'figures_zh', 'figures_en'):
+          'float_zh', 'float_en', 'foreground_zh', 'foreground_en'):
     if not str(RJ.get('global_anchors', {}).get(k, '')).strip():
         fails.append(f'[realms] global_anchors 缺 {k}')
 
@@ -68,7 +67,7 @@ for h in H:
     tag = f"[数据] 第{h['no']}卦{h.get('name', '?')}"
     for k in ('no', 'name', 'symbol', 'upper', 'lower', 'lines',
               'upper_realm', 'upper_realm_en', 'lower_realm', 'lower_realm_en',
-              'guaci', 'tuan', 'daxiang', 'yaoci', 'dials', 'creature',
+              'guaci', 'tuan', 'daxiang', 'yaoci', 'dials', 'figure',
               'palette_zh', 'palette_en', 'source'):
         if k not in h:
             fails.append(f'{tag} 缺字段 {k}')
@@ -88,10 +87,20 @@ for h in H:
             fails.append(f'{tag} 旋钮 {k} 无依据')
     if len(h.get('palette_zh', [])) != 3 or len(h.get('palette_en', [])) != 3:
         fails.append(f'{tag} 色板应为中英各 3 色(两主一辅)')
-    cr = h.get('creature', {})
-    for k in ('kind', 'count', 'state'):
-        if not str(cr.get(k, '')).strip():
-            fails.append(f'{tag} 灵禽缺 {k}')
+    fg = h.get('figure', {})
+    for k in ('count', 'pose', 'robe_zh', 'robe_en'):
+        if not str(fg.get(k, '')).strip():
+            fails.append(f'{tag} 远景人物缺 {k}')
+    if fg.get('count') not in (1, 2, 3):
+        fails.append(f"{tag} 人数应为 1/2/3(孤/合/群),实为 {fg.get('count')}")
+    # 服色必须等于该卦色板的点缀色 —— 人物与画面同源的唯一保障
+    if fg.get('robe_zh') != h.get('palette_zh', [None, None, None])[2]:
+        fails.append(f'{tag} 人物衣色与色板点缀色不符')
+    if fg.get('robe_en') != h.get('palette_en', [None, None, None])[2]:
+        fails.append(f'{tag} 人物衣色英文与色板点缀色不符')
+    for bad in ('容貌', '五官', '面容', '脸', '岁', '年轻', '美貌'):
+        if bad in str(fg.get('pose', '')):
+            fails.append(f'{tag} 人物姿态写了容貌/年龄「{bad}」')
     yaoci = h.get('yaoci', [])
     if len(yaoci) not in (6, 7):
         fails.append(f'{tag} 爻辞 {len(yaoci)} 条,应为 6(乾坤可 7)')
@@ -155,14 +164,46 @@ if missing:
     fails.append(f'[en] EN 缺卦: {missing}')
 for h in H:
     e = en_tab.get(str(h['no']), {})
-    for k in ('creature', 'weather', 'terrain'):
+    for k in ('figure', 'weather', 'terrain'):
         if not e.get(k, '').strip():
             fails.append(f"[en] 第{h['no']}卦{h['name']} 缺 {k}")
 
 
+# ---------------------------------------------------------------- douyin.json
+DY = json.load(open(os.path.join(REF, 'douyin.json'), encoding='utf-8'))
+for k in ('title_patterns', 'intro_structure', 'tags', 'cover_text', 'banned', 'hard_rules'):
+    if k not in DY:
+        fails.append(f'[douyin] 缺字段 {k}')
+if len(DY.get('title_patterns', [])) < 3:
+    fails.append('[douyin] 标题句式少于 3 式,轮换不开会导致每期雷同')
+for t in DY.get('title_patterns', []):
+    for k in ('name', 'form', 'example', 'use_when'):
+        if not t.get(k, '').strip():
+            fails.append(f"[douyin] 句式 {t.get('name','?')} 缺 {k}")
+tg = DY.get('tags', {})
+if len(tg.get('broad', [])) < 6:
+    fails.append('[douyin] 泛流量标签池 <6,不足以逐期轮换')
+if len(tg.get('vertical', [])) < 5:
+    fails.append('[douyin] 垂类标签池 <5')
+if not str(tg.get('series', '')).startswith('#'):
+    fails.append('[douyin] 系列专属标签缺失或未带 #')
+for cat, words in DY.get('banned', {}).items():
+    if cat.startswith('_'):
+        continue
+    if not words:
+        fails.append(f'[douyin] 禁用词类 {cat} 为空')
+# 自身示例不得踩自己的禁用词
+sample = ' '.join([DY.get('intro_example', '')] + [t.get('example', '') for t in DY.get('title_patterns', [])])
+for cat, words in DY.get('banned', {}).items():
+    if cat.startswith('_'):
+        continue
+    for w in words:
+        if w in sample:
+            fails.append(f'[douyin] 自带示例踩了禁用词「{w}」')
+
 # ---------------------------------------------------------------- 汇总
-n_checks = 5 + 4  # 分解五条 + 四份结构检查
-print(f'检查 skill 数据:64 卦 + 8 境 + 64 幕表 + 英文短语库(分解五条验证 + {n_checks - 5} 组结构检查)')
+n_checks = 5 + 5  # 分解五条 + 五份结构检查(realms/hexagrams/video/en-phrases/douyin)
+print(f'检查 skill 数据:64 卦 + 8 境 + 64 幕表 + 英文短语库 + 抖音素材(分解五条验证 + {n_checks - 5} 组结构检查)')
 print('=' * 62)
 print(f'不通过 {len(fails)} 项')
 print('=' * 62)

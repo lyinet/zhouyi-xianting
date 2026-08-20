@@ -9,7 +9,9 @@
 - 色板不手挑：上境签名色 + 下境签名色 + 光时点缀色，自动生成。
 - 爻辞(yaoci)从 hexagram_texts.json 透传，重跑本脚本不会丢失爻辞。
 """
-import json, os
+import json, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from figures import FIGURE
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REF = os.path.join(BASE, '.claude', 'skills', 'zhouyi-xianting', 'references')
@@ -89,7 +91,7 @@ D = {
 out = []
 for r in texts:
     n = r['no']
-    lt, ltr, wx, wb, wr, tr_, trr, ck, cn, cs = D[n]
+    lt, ltr, wx, wb, wr, tr_, trr, _ck, _cn, _cs = D[n]   # 后三列为旧灵禽，已由 figures.FIGURE 取代
     up, lo = R[r['upper']], R[r['lower']]
     palette_zh = [up['palette_zh'][0], lo['palette_zh'][0], ACCENT[lt]['zh']]
     palette_en = [up['palette_en'][0], lo['palette_en'][0], ACCENT[lt]['en']]
@@ -108,7 +110,8 @@ for r in texts:
             'weather': wx, 'weather_base': wb, 'weather_reason': wr,
             'terrain': tr_, 'terrain_reason': trr,
         },
-        'creature': {'kind': ck, 'count': cn, 'state': cs},
+        'figure': {'count': FIGURE[n][0], 'pose': FIGURE[n][1],
+                   'robe_zh': ACCENT[lt]['zh'], 'robe_en': ACCENT[lt]['en']},
         'palette_zh': palette_zh, 'palette_en': palette_en,
         'source': f"https://ctext.org/book-of-changes/{r['slug']}/zh",
     })
@@ -123,3 +126,4 @@ print('wrote', p, len(out))
 from collections import Counter
 for f in ('light', 'weather_base', 'terrain'):
     print(f, dict(Counter(h['dials'][f] for h in out)))
+print('figure count', dict(Counter(h['figure']['count'] for h in out)))
